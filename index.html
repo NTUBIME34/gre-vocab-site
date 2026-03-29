@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>GRE Vocabulary Practice</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>GRE Vocabulary Practice</h1>
+    <nav>
+      <button id="homeBtn" class="nav-active">Home</button>
+      <button id="practiceBtn">Practice</button>
+      <button id="wordBankBtn">Word Bank</button>
+      <button id="statsBtn">Statistics</button>
+    </nav>
+  </header>
+
+  <main>
+    <!-- ===== HOME ===== -->
+    <section id="homeSection" class="section active">
+      <h2>Welcome</h2>
+      <p>Practice GRE vocabulary, review words, and track your progress.</p>
+      <div id="dataSource" class="data-source"></div>
+      <div class="stats-overview">
+        <div class="stat-card">
+          <div class="stat-number" id="totalWords">0</div>
+          <div class="stat-label">Words</div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-number" id="totalQuestions">0</div>
+          <div class="stat-label">Questions</div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-number stat-correct" id="totalCorrect">0</div>
+          <div class="stat-label">Correct</div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-number stat-wrong" id="totalWrong">0</div>
+          <div class="stat-label">Mistakes</div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-number" id="masteredCount">0</div>
+          <div class="stat-label">Mastered</div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ===== PRACTICE ===== -->
+    <section id="practiceSection" class="section">
+      <h2>Practice Mode</h2>
+
+      <!-- Practice Settings -->
+      <div class="practice-settings">
+        <div class="setting-row">
+          <label>Mode:</label>
+          <div class="practice-mode-toggle">
+            <button id="practiceAllBtn" class="practice-mode-active" data-mode="all">All Words</button>
+            <button id="practiceWrongBtn" data-mode="wrong">Wrong Only</button>
+            <button id="practiceNewBtn" data-mode="new">New Words</button>
+          </div>
+        </div>
+        <div class="setting-row">
+          <label>POS:</label>
+          <select id="posFilter">
+            <option value="">All</option>
+            <option value="adj.">Adjective</option>
+            <option value="v.">Verb</option>
+            <option value="n.">Noun</option>
+            <option value="adv.">Adverb</option>
+          </select>
+        </div>
+        <div class="setting-row">
+          <label>Questions:</label>
+          <select id="questionCount">
+            <option value="0">Unlimited</option>
+            <option value="10">10</option>
+            <option value="20">20</option>
+            <option value="50">50</option>
+          </select>
+        </div>
+        <div class="setting-row">
+          <label>Source:</label>
+          <select id="questionSource">
+            <option value="fixed">Fixed Questions</option>
+            <option value="dynamic">Dynamic (Random Options)</option>
+            <option value="mixed" selected>Mixed</option>
+          </select>
+        </div>
+      </div>
+
+      <div id="progressBar" class="progress-bar"><div id="progressFill" class="progress-fill"></div></div>
+      <div id="questionCounter" class="question-counter"></div>
+      <div id="questionContainer"></div>
+      <div id="optionsContainer"></div>
+      <div id="resultContainer"></div>
+      <button id="nextQuestionBtn">Next Question</button>
+    </section>
+
+    <!-- ===== WORD BANK ===== -->
+    <section id="wordBankSection" class="section">
+      <h2>Word Bank</h2>
+      <div class="wordbank-controls">
+        <input type="text" id="wordBankSearch" placeholder="Search words (English, Chinese, POS)..." />
+        <div class="wordbank-filters">
+          <select id="wbPosFilter">
+            <option value="">All POS</option>
+            <option value="adj.">adj.</option>
+            <option value="v.">v.</option>
+            <option value="n.">n.</option>
+            <option value="adv.">adv.</option>
+          </select>
+          <select id="wbSortBy">
+            <option value="alpha">A → Z</option>
+            <option value="alpha-desc">Z → A</option>
+            <option value="wrong-desc">Most Wrong</option>
+            <option value="mastery-asc">Least Mastered</option>
+          </select>
+        </div>
+      </div>
+      <div id="wordBankCount" class="wordbank-count"></div>
+      <div id="wordBankContainer"></div>
+    </section>
+
+    <!-- ===== STATISTICS ===== -->
+    <section id="statsSection" class="section">
+      <h2>Statistics</h2>
+      <div class="stats-tabs">
+        <button class="stats-tab active" data-tab="wrong">Most Wrong</button>
+        <button class="stats-tab" data-tab="mastery">Mastery Level</button>
+        <button class="stats-tab" data-tab="recent">Recently Reviewed</button>
+      </div>
+      <div id="statsContainer"></div>
+    </section>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>

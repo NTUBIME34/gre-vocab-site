@@ -1,0 +1,7439 @@
+[
+  {
+    "id": "q0001",
+    "wordId": "w0001",
+    "questionType": "definition",
+    "question": "Choose the word that means: willing to end a disagreement with someone",
+    "answer": "conciliatory",
+    "optionWordIds": [
+      "w0408",
+      "w0156",
+      "w0137",
+      "w0001"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": "q0002",
+    "wordId": "w0002",
+    "questionType": "cloze",
+    "question": "For proper combustion it is necessary to ______ the propellants.",
+    "answer": "atomize",
+    "optionWordIds": [
+      "w0002",
+      "w0005",
+      "w0079",
+      "w0036"
+    ],
+    "difficulty": "medium",
+    "hint": "为了有效地进行燃烧，推进剂必须雾化"
+  },
+  {
+    "id": "q0003",
+    "wordId": "w0003",
+    "questionType": "cloze",
+    "question": "She has become a ______ visitor to Houghton Hall.",
+    "answer": "regular",
+    "optionWordIds": [
+      "w0003",
+      "w0234",
+      "w0106",
+      "w0286"
+    ],
+    "difficulty": "medium",
+    "hint": "她已成为霍顿府邸的一名常客。"
+  },
+  {
+    "id": "q0004",
+    "wordId": "w0004",
+    "questionType": "cloze",
+    "question": "Amidst the drumbeats and ______ chants, time passed.",
+    "answer": "jovial",
+    "optionWordIds": [
+      "w0491",
+      "w0282",
+      "w0004",
+      "w0058"
+    ],
+    "difficulty": "medium",
+    "hint": "时间在鼓声和愉快的圣歌声中流逝。"
+  },
+  {
+    "id": "q0005",
+    "wordId": "w0005",
+    "questionType": "cloze",
+    "question": "He became ______ of Jenny.",
+    "answer": "enamor",
+    "optionWordIds": [
+      "w0252",
+      "w0024",
+      "w0059",
+      "w0005"
+    ],
+    "difficulty": "medium",
+    "hint": "他爱上珍妮了。"
+  },
+  {
+    "id": "q0006",
+    "wordId": "w0006",
+    "questionType": "cloze",
+    "question": "In making these promises, the company had clearly ______ itself.",
+    "answer": "overreach",
+    "optionWordIds": [
+      "w0059",
+      "w0006",
+      "w0273",
+      "w0077"
+    ],
+    "difficulty": "medium",
+    "hint": "这家公司作出这些承诺，显然是不自量力。"
+  },
+  {
+    "id": "q0007",
+    "wordId": "w0007",
+    "questionType": "cloze",
+    "question": "People sported swastikas and walls were covered with ______ slogans.",
+    "answer": "inflammatory",
+    "optionWordIds": [
+      "w0324",
+      "w0046",
+      "w0435",
+      "w0007"
+    ],
+    "difficulty": "medium",
+    "hint": "人们佩戴着纳粹党的曲十字标志，墙上写满了煽动性口号。"
+  },
+  {
+    "id": "q0008",
+    "wordId": "w0008",
+    "questionType": "cloze",
+    "question": "The aid appeal has ______ the German business community.",
+    "answer": "galvanize",
+    "optionWordIds": [
+      "w0023",
+      "w0341",
+      "w0008",
+      "w0130"
+    ],
+    "difficulty": "medium",
+    "hint": "这份救助呼吁已经促使德国的工商业界行动了起来。"
+  },
+  {
+    "id": "q0009",
+    "wordId": "w0009",
+    "questionType": "cloze",
+    "question": "Manufacturers are keen to cash in on the ______ demand.",
+    "answer": "burgeon",
+    "optionWordIds": [
+      "w0009",
+      "w0269",
+      "w0173",
+      "w0075"
+    ],
+    "difficulty": "medium",
+    "hint": "需求急速增长，制造商急着从中捞一把"
+  },
+  {
+    "id": "q0010",
+    "wordId": "w0010",
+    "questionType": "definition",
+    "question": "Choose the word that means: not wise or sensible",
+    "answer": "ill -advised",
+    "optionWordIds": [
+      "w0190",
+      "w0182",
+      "w0010",
+      "w0384"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": "q0011",
+    "wordId": "w0011",
+    "questionType": "cloze",
+    "question": "His doctor ordered him to ______ from beer and wine.",
+    "answer": "abstain",
+    "optionWordIds": [
+      "w0304",
+      "w0443",
+      "w0011",
+      "w0418"
+    ],
+    "difficulty": "medium",
+    "hint": "他的医生嘱咐他戒酒。"
+  },
+  {
+    "id": "q0012",
+    "wordId": "w0012",
+    "questionType": "cloze",
+    "question": "Social ______ is centrally concerned with the diversity of culture.",
+    "answer": "anthropology",
+    "optionWordIds": [
+      "w0237",
+      "w0013",
+      "w0175",
+      "w0012"
+    ],
+    "difficulty": "medium",
+    "hint": "社会人类学主要关于文化多样性。"
+  },
+  {
+    "id": "q0013",
+    "wordId": "w0013",
+    "questionType": "cloze",
+    "question": "Others say of course that he is an ______ of the old regime, he's the one who has brought problem to Egypt.",
+    "answer": "acolyte",
+    "optionWordIds": [
+      "w0062",
+      "w0028",
+      "w0013",
+      "w0105"
+    ],
+    "difficulty": "medium",
+    "hint": "当然也有人说，他是旧政权的支持者，埃及的问题就出在他身上。"
+  },
+  {
+    "id": "q0014",
+    "wordId": "w0014",
+    "questionType": "cloze",
+    "question": "Some members of the board were trying to ______ the chairman's authority.",
+    "answer": "undercut",
+    "optionWordIds": [
+      "w0014",
+      "w0091",
+      "w0063",
+      "w0385"
+    ],
+    "difficulty": "medium",
+    "hint": "委员会的某些成员试图削弱主席的权力"
+  },
+  {
+    "id": "q0015",
+    "wordId": "w0015",
+    "questionType": "cloze",
+    "question": "He publicly left the party and denounced its ______ leaders...",
+    "answer": "treacherous",
+    "optionWordIds": [
+      "w0164",
+      "w0285",
+      "w0384",
+      "w0015"
+    ],
+    "difficulty": "medium",
+    "hint": "他公开脱离该党，并谴责该党领袖背信弃义。"
+  },
+  {
+    "id": "q0016",
+    "wordId": "w0016",
+    "questionType": "cloze",
+    "question": "Rice is the ______ food of more than half the world's population.",
+    "answer": "staple",
+    "optionWordIds": [
+      "w0220",
+      "w0118",
+      "w0016",
+      "w0215"
+    ],
+    "difficulty": "medium",
+    "hint": "稻米是全世界一半以上人口的主食。"
+  },
+  {
+    "id": "q0017",
+    "wordId": "w0017",
+    "questionType": "cloze",
+    "question": "From frank's ______ remarks abo ut the money \"people\" owed him, she had imagined the sums to be small.",
+    "answer": "deprecatory",
+    "optionWordIds": [
+      "w0164",
+      "w0017",
+      "w0027",
+      "w0245"
+    ],
+    "difficulty": "medium",
+    "hint": "从弗兰克不愿意提起“人们”欠他钱的态度来看，她一直以为这笔钱为数不多。"
+  },
+  {
+    "id": "q0018",
+    "wordId": "w0018",
+    "questionType": "definition",
+    "question": "Choose the word that means: to revolve rapidly",
+    "answer": "spin",
+    "optionWordIds": [
+      "w0045",
+      "w0018",
+      "w0438",
+      "w0229"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": "q0019",
+    "wordId": "w0019",
+    "questionType": "cloze",
+    "question": "Modest by nature, she was no ______, preferring to let her accomplishments speak for themselves.",
+    "answer": "braggart",
+    "optionWordIds": [
+      "w0056",
+      "w0019",
+      "w0372",
+      "w0170"
+    ],
+    "difficulty": "medium",
+    "hint": "她天性谦虚，从不自吹，喜欢以自己的成就来表明一切。"
+  },
+  {
+    "id": "q0020",
+    "wordId": "w0020",
+    "questionType": "cloze",
+    "question": "She thought in both languages, and selected the most ______ phrase from either.",
+    "answer": "apposite",
+    "optionWordIds": [
+      "w0020",
+      "w0325",
+      "w0037",
+      "w0494"
+    ],
+    "difficulty": "medium",
+    "hint": "她用两种语言思考，然后从中选择最贴切的一种表达。"
+  },
+  {
+    "id": "q0021",
+    "wordId": "w0021",
+    "questionType": "cloze",
+    "question": "______ accidents, I believe they will succeed.",
+    "answer": "barring",
+    "optionWordIds": [
+      "w0021",
+      "w0404",
+      "w0281",
+      "w0317"
+    ],
+    "difficulty": "medium",
+    "hint": "不出意外的话，我相信他们会成功的。"
+  },
+  {
+    "id": "q0022",
+    "wordId": "w0022",
+    "questionType": "cloze",
+    "question": "The company needs to improve its training and ______ of staff.",
+    "answer": "retention",
+    "optionWordIds": [
+      "w0056",
+      "w0489",
+      "w0211",
+      "w0022"
+    ],
+    "difficulty": "medium",
+    "hint": "公司需要改进对员工的培训和留用工作"
+  },
+  {
+    "id": "q0023",
+    "wordId": "w0023",
+    "questionType": "cloze",
+    "question": "The professor is never at a ______, and never perplexed by a problem.",
+    "answer": "nonplus",
+    "optionWordIds": [
+      "w0133",
+      "w0361",
+      "w0023",
+      "w0095"
+    ],
+    "difficulty": "medium",
+    "hint": "那位教授从未感到困惑，也没有被任何问题所难倒。"
+  },
+  {
+    "id": "q0024",
+    "wordId": "w0024",
+    "questionType": "cloze",
+    "question": "______ on film means you examine a film to see whether it can be released or not.",
+    "answer": "censor",
+    "optionWordIds": [
+      "w0335",
+      "w0099",
+      "w0034",
+      "w0024"
+    ],
+    "difficulty": "medium",
+    "hint": "审查电影就是检查一部电影是否能够发行。"
+  },
+  {
+    "id": "q0025",
+    "wordId": "w0025",
+    "questionType": "cloze",
+    "question": "The investigation has laid bare their ______ scheme.",
+    "answer": "fraudulent",
+    "optionWordIds": [
+      "w0025",
+      "w0365",
+      "w0487",
+      "w0125"
+    ],
+    "difficulty": "medium",
+    "hint": "这个调查把他们的骗局暴露无遗."
+  },
+  {
+    "id": "q0026",
+    "wordId": "w0026",
+    "questionType": "cloze",
+    "question": "The vegetation is ______ on the Hawaiian Islands.",
+    "answer": "lush",
+    "optionWordIds": [
+      "w0432",
+      "w0196",
+      "w0480",
+      "w0026"
+    ],
+    "difficulty": "medium",
+    "hint": "夏威夷岛上的植被很葱翠。"
+  },
+  {
+    "id": "q0027",
+    "wordId": "w0027",
+    "questionType": "cloze",
+    "question": "Ginseng is well known for its ______ effect.",
+    "answer": "tonic",
+    "optionWordIds": [
+      "w0027",
+      "w0325",
+      "w0328",
+      "w0227"
+    ],
+    "difficulty": "medium",
+    "hint": "人参是滋补身体的名药。"
+  },
+  {
+    "id": "q0028",
+    "wordId": "w0028",
+    "questionType": "cloze",
+    "question": "The Bush Foundation has ______ a variety of faculty development programs.",
+    "answer": "fund",
+    "optionWordIds": [
+      "w0013",
+      "w0481",
+      "w0028",
+      "w0442"
+    ],
+    "difficulty": "medium",
+    "hint": "布什基金会已经资助了许多教员发展项目。"
+  },
+  {
+    "id": "q0029",
+    "wordId": "w0029",
+    "questionType": "cloze",
+    "question": "My problem is, that when we get a few wins, we become ______ .",
+    "answer": "lackadaisical",
+    "optionWordIds": [
+      "w0098",
+      "w0094",
+      "w0336",
+      "w0029"
+    ],
+    "difficulty": "medium",
+    "hint": "我的问题是，当取得一点点地胜利时，我们就会变得懒散。"
+  },
+  {
+    "id": "q0030",
+    "wordId": "w0030",
+    "questionType": "cloze",
+    "question": "He was content to stand by as an ______ spectator.",
+    "answer": "impassive",
+    "optionWordIds": [
+      "w0030",
+      "w0317",
+      "w0472",
+      "w0183"
+    ],
+    "difficulty": "medium",
+    "hint": "他满足于站在旁边做一个冷漠的旁观者"
+  },
+  {
+    "id": "q0031",
+    "wordId": "w0031",
+    "questionType": "cloze",
+    "question": "The age of ______ is being ushered out by a new era of temperance.",
+    "answer": "hedonism",
+    "optionWordIds": [
+      "w0210",
+      "w0360",
+      "w0031",
+      "w0266"
+    ],
+    "difficulty": "medium",
+    "hint": "享乐主义时代正让位于一个注重节制的时代。"
+  },
+  {
+    "id": "q0032",
+    "wordId": "w0032",
+    "questionType": "cloze",
+    "question": "Forgive me, I don't mean to ______ you.",
+    "answer": "insult",
+    "optionWordIds": [
+      "w0315",
+      "w0233",
+      "w0032",
+      "w0115"
+    ],
+    "difficulty": "medium",
+    "hint": "请原谅，我并非有意侮辱你。"
+  },
+  {
+    "id": "q0033",
+    "wordId": "w0033",
+    "questionType": "cloze",
+    "question": "She fixed her questioner with a ______ glare.",
+    "answer": "hostile",
+    "optionWordIds": [
+      "w0148",
+      "w0199",
+      "w0406",
+      "w0033"
+    ],
+    "difficulty": "medium",
+    "hint": "她敌意地瞪着向她提问的人。"
+  },
+  {
+    "id": "q0034",
+    "wordId": "w0034",
+    "questionType": "cloze",
+    "question": "It's very difficult to balance that need to be nimble and ______ quickly and the need to plan.",
+    "answer": "iterate",
+    "optionWordIds": [
+      "w0034",
+      "w0011",
+      "w0229",
+      "w0297"
+    ],
+    "difficulty": "medium",
+    "hint": "要想平衡灵活、快速迭代的需求与计划需求是非常困难的。"
+  },
+  {
+    "id": "q0035",
+    "wordId": "w0035",
+    "questionType": "cloze",
+    "question": "Some peasants left their home village and ______ the country for seasonal jobs.",
+    "answer": "peregrinate",
+    "optionWordIds": [
+      "w0392",
+      "w0075",
+      "w0035",
+      "w0235"
+    ],
+    "difficulty": "medium",
+    "hint": "一些农民离开老家，走遍全国寻找季节工作。"
+  },
+  {
+    "id": "q0036",
+    "wordId": "w0036",
+    "questionType": "cloze",
+    "question": "The player is always ______ about his prowess as a cricketer",
+    "answer": "brag",
+    "optionWordIds": [
+      "w0348",
+      "w0036",
+      "w0263",
+      "w0229"
+    ],
+    "difficulty": "medium",
+    "hint": "这名运动员总是吹嘘自己板球球技的高超。"
+  },
+  {
+    "id": "q0037",
+    "wordId": "w0037",
+    "questionType": "definition",
+    "question": "Choose the word that means: living or lasting for a short time",
+    "answer": "short -lived",
+    "optionWordIds": [
+      "w0037",
+      "w0119",
+      "w0250",
+      "w0138"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": "q0038",
+    "wordId": "w0038",
+    "questionType": "cloze",
+    "question": "This law will ______ us of our most ba sic rights.",
+    "answer": "deprive",
+    "optionWordIds": [
+      "w0297",
+      "w0042",
+      "w0038",
+      "w0405"
+    ],
+    "difficulty": "medium",
+    "hint": "这条法律将剥夺我们最基本的权利。"
+  },
+  {
+    "id": "q0039",
+    "wordId": "w0039",
+    "questionType": "definition",
+    "question": "Choose the word that means: feeling or showing a lack of courage or confidence",
+    "answer": "timid",
+    "optionWordIds": [
+      "w0231",
+      "w0039",
+      "w0293",
+      "w0421"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": "q0040",
+    "wordId": "w0040",
+    "questionType": "cloze",
+    "question": "The new comer in our company is ______.",
+    "answer": "voluble",
+    "optionWordIds": [
+      "w0492",
+      "w0121",
+      "w0040",
+      "w0109"
+    ],
+    "difficulty": "medium",
+    "hint": "我们公司新来的同事很健谈。"
+  },
+  {
+    "id": "q0041",
+    "wordId": "w0041",
+    "questionType": "definition",
+    "question": "Choose the word that means: arrogance, haughtiness",
+    "answer": "hauteur",
+    "optionWordIds": [
+      "w0028",
+      "w0041",
+      "w0044",
+      "w0254"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": "q0042",
+    "wordId": "w0042",
+    "questionType": "definition",
+    "question": "Choose the word that means: to avoid doing something that you are supposed to do",
+    "answer": "shirk",
+    "optionWordIds": [
+      "w0233",
+      "w0042",
+      "w0296",
+      "w0376"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": "q0043",
+    "wordId": "w0043",
+    "questionType": "cloze",
+    "question": "Not all ______ species are bad, of course.",
+    "answer": "invasive",
+    "optionWordIds": [
+      "w0043",
+      "w0149",
+      "w0403",
+      "w0017"
+    ],
+    "difficulty": "medium",
+    "hint": "当然，并非所有的入侵物种都不好。"
+  },
+  {
+    "id": "q0044",
+    "wordId": "w0044",
+    "questionType": "cloze",
+    "question": "His work is considered the ______ of cinematic art.",
+    "answer": "acme",
+    "optionWordIds": [
+      "w0257",
+      "w0044",
+      "w0090",
+      "w0481"
+    ],
+    "difficulty": "medium",
+    "hint": "他的作品被认为是电影艺术的巅峰之作"
+  },
+  {
+    "id": "q0045",
+    "wordId": "w0045",
+    "questionType": "cloze",
+    "question": "His troubles ______ the recession.",
+    "answer": "predate",
+    "optionWordIds": [
+      "w0070",
+      "w0243",
+      "w0217",
+      "w0045"
+    ],
+    "difficulty": "medium",
+    "hint": "他的麻烦早在经济衰退前就出现了。"
+  },
+  {
+    "id": "q0046",
+    "wordId": "w0046",
+    "questionType": "definition",
+    "question": "Choose the word that means: characterized by very widespread growth or extent",
+    "answer": "epidemic",
+    "optionWordIds": [
+      "w0469",
+      "w0339",
+      "w0046",
+      "w0102"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": "q0047",
+    "wordId": "w0047",
+    "questionType": "cloze",
+    "question": "It's just a ______ schedule.",
+    "answer": "tentative",
+    "optionWordIds": [
+      "w0401",
+      "w0047",
+      "w0128",
+      "w0165"
+    ],
+    "difficulty": "medium",
+    "hint": "仅仅是个试验性的计划。"
+  },
+  {
+    "id": "q0048",
+    "wordId": "w0048",
+    "questionType": "cloze",
+    "question": "______ is common in patients who have suffered damage to the brain.",
+    "answer": "hallucination",
+    "optionWordIds": [
+      "w0441",
+      "w0440",
+      "w0474",
+      "w0048"
+    ],
+    "difficulty": "medium",
+    "hint": "脑部受损的病人常会产生幻觉。"
+  },
+  {
+    "id": "q0049",
+    "wordId": "w0049",
+    "questionType": "cloze",
+    "question": "His ______ encompassed everything from Bach to Schoenberg.",
+    "answer": "repertoire",
+    "optionWordIds": [
+      "w0090",
+      "w0358",
+      "w0334",
+      "w0049"
+    ],
+    "difficulty": "medium",
+    "hint": "他能演奏从巴赫到勋伯格的所有作品。"
+  },
+  {
+    "id": "q0050",
+    "wordId": "w0050",
+    "questionType": "cloze",
+    "question": "We are ______ of the problem.",
+    "answer": "cognizant",
+    "optionWordIds": [
+      "w0050",
+      "w0192",
+      "w0355",
+      "w0480"
+    ],
+    "difficulty": "medium",
+    "hint": "我们意识到了这个问题。"
+  },
+  {
+    "id": "q0051",
+    "wordId": "w0051",
+    "questionType": "cloze",
+    "question": "Let me take a ______ of you guys, so friends back home can see you.",
+    "answer": "snapshot",
+    "optionWordIds": [
+      "w0254",
+      "w0473",
+      "w0051",
+      "w0170"
+    ],
+    "difficulty": "medium",
+    "hint": "让我给你们大家拍张快照，这样家里的朋友们可以看到你们。"
+  },
+  {
+    "id": "q0052",
+    "wordId": "w0052",
+    "questionType": "cloze",
+    "question": "The policy has not yet brought any ______ benefits.",
+    "answer": "tangible",
+    "optionWordIds": [
+      "w0191",
+      "w0052",
+      "w0401",
+      "w0310"
+    ],
+    "difficulty": "medium",
+    "hint": "这项政策还没有带来任何切实可行的好处。"
+  },
+  {
+    "id": "q0053",
+    "wordId": "w0053",
+    "questionType": "cloze",
+    "question": "He was a man of the most ______ temper.",
+    "answer": "equable",
+    "optionWordIds": [
+      "w0053",
+      "w0003",
+      "w0384",
+      "w0305"
+    ],
+    "difficulty": "medium",
+    "hint": "他是个脾气非常好的人。"
+  },
+  {
+    "id": "q0054",
+    "wordId": "w0054",
+    "questionType": "cloze",
+    "question": "Many countries have yet to ______ such limits.",
+    "answer": "prescribe",
+    "optionWordIds": [
+      "w0389",
+      "w0079",
+      "w0253",
+      "w0054"
+    ],
+    "difficulty": "medium",
+    "hint": "很多国家也对此类限制进行了规定。"
+  },
+  {
+    "id": "q0055",
+    "wordId": "w0055",
+    "questionType": "cloze",
+    "question": "They do not ______ the land surface that is useful for other purposes.",
+    "answer": "preempt",
+    "optionWordIds": [
+      "w0265",
+      "w0217",
+      "w0055",
+      "w0233"
+    ],
+    "difficulty": "medium",
+    "hint": "它们不需要预先占用对其它目的有用的地面。"
+  },
+  {
+    "id": "q0056",
+    "wordId": "w0056",
+    "questionType": "cloze",
+    "question": "Dr. Sun Yat-sen was the ______ of Chinese revolution.",
+    "answer": "forerunner",
+    "optionWordIds": [
+      "w0122",
+      "w0295",
+      "w0434",
+      "w0056"
+    ],
+    "difficulty": "medium",
+    "hint": "孙中山 先生是中国革命的先行者。"
+  },
+  {
+    "id": "q0057",
+    "wordId": "w0057",
+    "questionType": "cloze",
+    "question": "The Union accused Walesa of being ______ and undemocratic.",
+    "answer": "capricious",
+    "optionWordIds": [
+      "w0403",
+      "w0057",
+      "w0196",
+      "w0384"
+    ],
+    "difficulty": "medium",
+    "hint": "工会指责威尔沙反复无常，不讲民主。"
+  },
+  {
+    "id": "q0058",
+    "wordId": "w0058",
+    "questionType": "cloze",
+    "question": "Careers officers offer ______ advice to all pupils.",
+    "answer": "impartial",
+    "optionWordIds": [
+      "w0058",
+      "w0189",
+      "w0381",
+      "w0288"
+    ],
+    "difficulty": "medium",
+    "hint": "就业指导员向所有学生提供公正无私的建议。"
+  },
+  {
+    "id": "q0059",
+    "wordId": "w0059",
+    "questionType": "cloze",
+    "question": "The fighting ______ into a full-scale war.",
+    "answer": "escalate",
+    "optionWordIds": [
+      "w0024",
+      "w0059",
+      "w0454",
+      "w0303"
+    ],
+    "difficulty": "medium",
+    "hint": "这场交战逐步扩大为全面战争。"
+  },
+  {
+    "id": "q0060",
+    "wordId": "w0060",
+    "questionType": "cloze",
+    "question": "If you ______ criticism with reason everyone can obey you.",
+    "answer": "temper",
+    "optionWordIds": [
+      "w0412",
+      "w0290",
+      "w0060",
+      "w0385"
+    ],
+    "difficulty": "medium",
+    "hint": "如果以说理来缓和批评，谁都会服从你"
+  },
+  {
+    "id": "q0061",
+    "wordId": "w0061",
+    "questionType": "definition",
+    "question": "Choose the word that means: something that shows what is coming",
+    "answer": "harbinger",
+    "optionWordIds": [
+      "w0061",
+      "w0257",
+      "w0062",
+      "w0151"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": "q0062",
+    "wordId": "w0062",
+    "questionType": "cloze",
+    "question": "The birth of Christ was the beginning of a major ______ of world history.",
+    "answer": "epoch",
+    "optionWordIds": [
+      "w0062",
+      "w0319",
+      "w0448",
+      "w0420"
+    ],
+    "difficulty": "medium",
+    "hint": "基督诞生是世界历史上一个重要纪元的开端。"
+  },
+  {
+    "id": "q0063",
+    "wordId": "w0063",
+    "questionType": "cloze",
+    "question": "The army ______ the king of all his power.",
+    "answer": "divest",
+    "optionWordIds": [
+      "w0063",
+      "w0289",
+      "w0179",
+      "w0069"
+    ],
+    "difficulty": "medium",
+    "hint": "陆军剥夺了国王的全部权力。"
+  },
+  {
+    "id": "q0064",
+    "wordId": "w0064",
+    "questionType": "cloze",
+    "question": "The Jordanian leader seemed ______ to attending a conference.",
+    "answer": "amenable",
+    "optionWordIds": [
+      "w0064",
+      "w0199",
+      "w0239",
+      "w0472"
+    ],
+    "difficulty": "medium",
+    "hint": "约旦领导人似乎愿意参加会议。"
+  },
+  {
+    "id": "q0065",
+    "wordId": "w0065",
+    "questionType": "cloze",
+    "question": "In the worst-case ______, you could become a homeless person.",
+    "answer": "scenario",
+    "optionWordIds": [
+      "w0256",
+      "w0467",
+      "w0065",
+      "w0068"
+    ],
+    "difficulty": "medium",
+    "hint": "最坏的情况是你可能会无家可归。"
+  },
+  {
+    "id": "q0066",
+    "wordId": "w0066",
+    "questionType": "cloze",
+    "question": "The remark was made half in ______.",
+    "answer": "jest",
+    "optionWordIds": [
+      "w0103",
+      "w0257",
+      "w0486",
+      "w0066"
+    ],
+    "difficulty": "medium",
+    "hint": "这话是半开玩笑说出的。"
+  },
+  {
+    "id": "q0067",
+    "wordId": "w0067",
+    "questionType": "definition",
+    "question": "Choose the word that means: to become thick and partly solid",
+    "answer": "clot",
+    "optionWordIds": [
+      "w0411",
+      "w0253",
+      "w0323",
+      "w0067"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": "q0068",
+    "wordId": "w0068",
+    "questionType": "cloze",
+    "question": "This kind of lighting encourages vitamin D ______ in the skin.",
+    "answer": "synthesis",
+    "optionWordIds": [
+      "w0169",
+      "w0105",
+      "w0068",
+      "w0226"
+    ],
+    "difficulty": "medium",
+    "hint": "这种光照会促进皮肤中维生素 D 的合成。"
+  },
+  {
+    "id": "q0069",
+    "wordId": "w0069",
+    "questionType": "cloze",
+    "question": "They agreed to ______ the taxpayers against any loss",
+    "answer": "indemnify",
+    "optionWordIds": [
+      "w0135",
+      "w0069",
+      "w0391",
+      "w0060"
+    ],
+    "difficulty": "medium",
+    "hint": "他们同意补偿纳税人的任何损失。"
+  },
+  {
+    "id": "q0070",
+    "wordId": "w0070",
+    "questionType": "definition",
+    "question": "Choose the word that means: to make noble",
+    "answer": "ennoble",
+    "optionWordIds": [
+      "w0038",
+      "w0070",
+      "w0261",
+      "w0005"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": "q0071",
+    "wordId": "w0071",
+    "questionType": "cloze",
+    "question": "The current contract between the Directors ______ of America and production companies ends in June.",
+    "answer": "guild",
+    "optionWordIds": [
+      "w0441",
+      "w0071",
+      "w0088",
+      "w0434"
+    ],
+    "difficulty": "medium",
+    "hint": "美国导演协会和制片公司当前的合同将于六月份截止。"
+  },
+  {
+    "id": "q0072",
+    "wordId": "w0072",
+    "questionType": "cloze",
+    "question": "We liked the bike's ______ handgrip for keeping our hands away from cold metal.",
+    "answer": "spongy",
+    "optionWordIds": [
+      "w0072",
+      "w0359",
+      "w0087",
+      "w0244"
+    ],
+    "difficulty": "medium",
+    "hint": "我们喜欢这辆自行车的软把手，有了它，我们的双手就不用再接触冰冷的金属了。"
+  },
+  {
+    "id": "q0073",
+    "wordId": "w0073",
+    "questionType": "definition",
+    "question": "Choose the word that means: to become visible",
+    "answer": "materialize",
+    "optionWordIds": [
+      "w0387",
+      "w0005",
+      "w0301",
+      "w0073"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": "q0074",
+    "wordId": "w0074",
+    "questionType": "cloze",
+    "question": "The children put on an ______ concert for the visitors.",
+    "answer": "impromptu",
+    "optionWordIds": [
+      "w0435",
+      "w0074",
+      "w0007",
+      "w0218"
+    ],
+    "difficulty": "medium",
+    "hint": "孩子们为来访者即兴献上了一场音乐会"
+  },
+  {
+    "id": "q0075",
+    "wordId": "w0075",
+    "questionType": "cloze",
+    "question": "In less than two hours Cohen ______ to virtually every demand.",
+    "answer": "capitulate",
+    "optionWordIds": [
+      "w0075",
+      "w0201",
+      "w0005",
+      "w0009"
+    ],
+    "difficulty": "medium",
+    "hint": "还不到两个小时，科恩就投降了，接受了几乎一切要求。"
+  },
+  {
+    "id": "q0076",
+    "wordId": "w0076",
+    "questionType": "cloze",
+    "question": "He was on the ______ of tears.",
+    "answer": "verge",
+    "optionWordIds": [
+      "w0076",
+      "w0153",
+      "w0068",
+      "w0062"
+    ],
+    "difficulty": "medium",
+    "hint": "他差点儿哭了出来。"
+  },
+  {
+    "id": "q0077",
+    "wordId": "w0077",
+    "questionType": "cloze",
+    "question": "British ministers continued to ______.",
+    "answer": "prevaricate",
+    "optionWordIds": [
+      "w0077",
+      "w0034",
+      "w0130",
+      "w0045"
+    ],
+    "difficulty": "medium",
+    "hint": "英国的大臣们仍然闪烁其词。"
+  },
+  {
+    "id": "q0078",
+    "wordId": "w0078",
+    "questionType": "cloze",
+    "question": "Most of the articles in the magazine ar e of a ______ nature.",
+    "answer": "didactic",
+    "optionWordIds": [
+      "w0352",
+      "w0078",
+      "w0432",
+      "w0310"
+    ],
+    "difficulty": "medium",
+    "hint": "杂志上大部分文章的本质都是说教性的"
+  },
+  {
+    "id": "q0079",
+    "wordId": "w0079",
+    "questionType": "cloze",
+    "question": "At the time we couldn't have ______ the result of our campaigning.",
+    "answer": "anticipate",
+    "optionWordIds": [
+      "w0392",
+      "w0290",
+      "w0079",
+      "w0273"
+    ],
+    "difficulty": "medium",
+    "hint": "那时我们不可能预料到我们这项运动的结果。"
+  },
+  {
+    "id": "q0080",
+    "wordId": "w0080",
+    "questionType": "cloze",
+    "question": "An amusement park is the perfect ______ for a bunch of irrepressible youngsters to have all sorts of adventures.",
+    "answer": "locale",
+    "optionWordIds": [
+      "w0116",
+      "w0117",
+      "w0080",
+      "w0019"
+    ],
+    "difficulty": "medium",
+    "hint": "游乐场是一帮精力过剩的年轻人寻求各种惊险刺激的绝佳场所。"
+  },
+  {
+    "id": "q0081",
+    "wordId": "w0081",
+    "questionType": "cloze",
+    "question": "Over three hundred people have died of ______ since the beginning of the year.",
+    "answer": "starvation",
+    "optionWordIds": [
+      "w0272",
+      "w0088",
+      "w0332",
+      "w0081"
+    ],
+    "difficulty": "medium",
+    "hint": "从年初起，已有 300 多人饿死。"
+  },
+  {
+    "id": "q0082",
+    "wordId": "w0082",
+    "questionType": "cloze",
+    "question": "They are less ______ about the company's long-term prospects.",
+    "answer": "sanguine",
+    "optionWordIds": [
+      "w0219",
+      "w0160",
+      "w0368",
+      "w0082"
+    ],
+    "difficulty": "medium",
+    "hint": "他们对公司的远景不那么乐观。"
+  },
+  {
+    "id": "q0083",
+    "wordId": "w0083",
+    "questionType": "cloze",
+    "question": "Man approaches the ______ truth through a succession of errors.",
+    "answer": "unattainable",
+    "optionWordIds": [
+      "w0384",
+      "w0064",
+      "w0381",
+      "w0083"
+    ],
+    "difficulty": "medium",
+    "hint": "人们通过不断犯错误接近不可企及的真理。"
+  },
+  {
+    "id": "q0084",
+    "wordId": "w0084",
+    "questionType": "definition",
+    "question": "Choose the word that means: a product of disintegration, destruction, or wearing away",
+    "answer": "detritus",
+    "optionWordIds": [
+      "w0202",
+      "w0236",
+      "w0249",
+      "w0084"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": "q0085",
+    "wordId": "w0085",
+    "questionType": "cloze",
+    "question": "When companies try to ______ for older customers, they do not always get it right.",
+    "answer": "cater",
+    "optionWordIds": [
+      "w0173",
+      "w0126",
+      "w0385",
+      "w0085"
+    ],
+    "difficulty": "medium",
+    "hint": "公司试着迎合老年客户，但他们并不总是采取正确方式。"
+  },
+  {
+    "id": "q0086",
+    "wordId": "w0086",
+    "questionType": "cloze",
+    "question": "Those in business are not, on the whol e, ______ with basic scientific prin ciples.",
+    "answer": "conversant",
+    "optionWordIds": [
+      "w0384",
+      "w0086",
+      "w0310",
+      "w0057"
+    ],
+    "difficulty": "medium",
+    "hint": "总的来说，那些从商的人并不太熟悉基本的科学原理。"
+  },
+  {
+    "id": "q0087",
+    "wordId": "w0087",
+    "questionType": "cloze",
+    "question": "It tasted bland and ______, like warmed cardboard.",
+    "answer": "insipid",
+    "optionWordIds": [
+      "w0491",
+      "w0058",
+      "w0239",
+      "w0087"
+    ],
+    "difficulty": "medium",
+    "hint": "这吃起来淡而无味，像加热过的纸板。"
+  },
+  {
+    "id": "q0088",
+    "wordId": "w0088",
+    "questionType": "cloze",
+    "question": "The Party was certainly not an official ______ of the police department.",
+    "answer": "adjunct",
+    "optionWordIds": [
+      "w0267",
+      "w0088",
+      "w0062",
+      "w0442"
+    ],
+    "difficulty": "medium",
+    "hint": "该党派肯定不是公安部门的官方附属机构。"
+  },
+  {
+    "id": "q0089",
+    "wordId": "w0089",
+    "questionType": "cloze",
+    "question": "His delivery was ______ and occasionally stumbling.",
+    "answer": "stilted",
+    "optionWordIds": [
+      "w0089",
+      "w0164",
+      "w0491",
+      "w0469"
+    ],
+    "difficulty": "medium",
+    "hint": "他的发言很生硬，有时还打结巴。"
+  },
+  {
+    "id": "q0090",
+    "wordId": "w0090",
+    "questionType": "cloze",
+    "question": "We can use our eyes and facial expressions to communicate virtually every subtle ______ of emotion.",
+    "answer": "nuance",
+    "optionWordIds": [
+      "w0081",
+      "w0151",
+      "w0090",
+      "w0031"
+    ],
+    "difficulty": "medium",
+    "hint": "我们可以用眼睛和面部表情来如实地传达情感上的每一丝细微差别。"
+  },
+  {
+    "id": "q0091",
+    "wordId": "w0091",
+    "questionType": "cloze",
+    "question": "At least as important, the law appears to ______ a right to collective bargaining.",
+    "answer": "enshrine",
+    "optionWordIds": [
+      "w0269",
+      "w0002",
+      "w0188",
+      "w0091"
+    ],
+    "difficulty": "medium",
+    "hint": "至少同样重要的是，这项法律似乎确立了工人有集体谈判的权利。"
+  },
+  {
+    "id": "q0092",
+    "wordId": "w0092",
+    "questionType": "cloze",
+    "question": "The company has to make its accounts and operations as ______ as possible.",
+    "answer": "transparent",
+    "optionWordIds": [
+      "w0072",
+      "w0492",
+      "w0092",
+      "w0339"
+    ],
+    "difficulty": "medium",
+    "hint": "公司必须使其账目与运作尽可能地清晰透明。"
+  },
+  {
+    "id": "q0093",
+    "wordId": "w0093",
+    "questionType": "cloze",
+    "question": "The procedures surrounding legal redress are ______.",
+    "answer": "byzantine",
+    "optionWordIds": [
+      "w0305",
+      "w0043",
+      "w0469",
+      "w0093"
+    ],
+    "difficulty": "medium",
+    "hint": "修改法律的程序是错综复杂的。"
+  },
+  {
+    "id": "q0094",
+    "wordId": "w0094",
+    "questionType": "cloze",
+    "question": "Industry and frugality are the ______ qualities of the Chinese nation.",
+    "answer": "inherent",
+    "optionWordIds": [
+      "w0274",
+      "w0189",
+      "w0094",
+      "w0164"
+    ],
+    "difficulty": "medium",
+    "hint": "勤劳俭朴是中华民族的本色。"
+  },
+  {
+    "id": "q0095",
+    "wordId": "w0095",
+    "questionType": "cloze",
+    "question": "They somehow ______ to lose tens of thousands of applications.",
+    "answer": "contrive",
+    "optionWordIds": [
+      "w0095",
+      "w0133",
+      "w0248",
+      "w0032"
+    ],
+    "difficulty": "medium",
+    "hint": "他们精心策划故意遗失了数万份申请书"
+  },
+  {
+    "id": "q0096",
+    "wordId": "w0096",
+    "questionType": "definition",
+    "question": "Choose the word that means: a person of prominence or brilliant achievement",
+    "answer": "luminary",
+    "optionWordIds": [
+      "w0237",
+      "w0425",
+      "w0065",
+      "w0096"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": "q0097",
+    "wordId": "w0097",
+    "questionType": "cloze",
+    "question": "The President was ______ in dealing with any hint of internal political dissent.",
+    "answer": "ruthless",
+    "optionWordIds": [
+      "w0097",
+      "w0269",
+      "w0114",
+      "w0131"
+    ],
+    "difficulty": "medium",
+    "hint": "在处理任何内部政治分歧的苗头时，总统都毫不留情。"
+  },
+  {
+    "id": "q0098",
+    "wordId": "w0098",
+    "questionType": "cloze",
+    "question": "The current situation is very ______ for us.",
+    "answer": "frustrating",
+    "optionWordIds": [
+      "w0435",
+      "w0218",
+      "w0098",
+      "w0052"
+    ],
+    "difficulty": "medium",
+    "hint": "当前的情形令我们十分灰心。"
+  },
+  {
+    "id": "q0099",
+    "wordId": "w0099",
+    "questionType": "cloze",
+    "question": "Idleness ______ the will to succeed.",
+    "answer": "enervate",
+    "optionWordIds": [
+      "w0099",
+      "w0314",
+      "w0374",
+      "w0230"
+    ],
+    "difficulty": "medium",
+    "hint": "懒惰削弱了成功的决心。"
+  },
+  {
+    "id": "q0100",
+    "wordId": "w0100",
+    "questionType": "cloze",
+    "question": "Little attempt was made to integrate the parts into a ______ whole.",
+    "answer": "coherent",
+    "optionWordIds": [
+      "w0380",
+      "w0239",
+      "w0100",
+      "w0478"
+    ],
+    "difficulty": "medium",
+    "hint": "在把各部分结合成一个连贯的整体方面几乎未作任何尝试。"
+  },
+  {
+    "id": "q0101",
+    "wordId": "w0101",
+    "questionType": "cloze",
+    "question": "Donald Duck-the irascible but ______ waterfowl-prepared to be feted in grand fashion,as he turned 75 years old Tuesday.",
+    "answer": "unflappable",
+    "optionWordIds": [
+      "w0431",
+      "w0033",
+      "w0101",
+      "w0410"
+    ],
+    "difficulty": "medium",
+    "hint": "本周是唐老鸭的75岁生日，这位脾气暴躁却镇定自若的鸭先生将迎来盛大的生日庆典。"
+  },
+  {
+    "id": "q0102",
+    "wordId": "w0102",
+    "questionType": "cloze",
+    "question": "The atmosphere was quite ______ at the reunion..",
+    "answer": "convivial",
+    "optionWordIds": [
+      "w0283",
+      "w0351",
+      "w0102",
+      "w0479"
+    ],
+    "difficulty": "medium",
+    "hint": "团聚时的气氛非常轻松愉快。"
+  },
+  {
+    "id": "q0103",
+    "wordId": "w0103",
+    "questionType": "cloze",
+    "question": "He has reached the ______ of his career.",
+    "answer": "zenith",
+    "optionWordIds": [
+      "w0441",
+      "w0338",
+      "w0171",
+      "w0103"
+    ],
+    "difficulty": "medium",
+    "hint": "他已经达到了他事业的顶峰。"
+  },
+  {
+    "id": "q0104",
+    "wordId": "w0104",
+    "questionType": "cloze",
+    "question": "The party needs to ______ the uncommitted voters.",
+    "answer": "canvass",
+    "optionWordIds": [
+      "w0391",
+      "w0104",
+      "w0389",
+      "w0079"
+    ],
+    "difficulty": "medium",
+    "hint": "这个党需要向未表明态度的选民游说拉票。"
+  },
+  {
+    "id": "q0105",
+    "wordId": "w0105",
+    "questionType": "cloze",
+    "question": "Whenever they reached their goal, they upped the ______, setting increasingly complex challenges for themselves.",
+    "answer": "ante",
+    "optionWordIds": [
+      "w0048",
+      "w0360",
+      "w0105",
+      "w0139"
+    ],
+    "difficulty": "medium",
+    "hint": "每当他们达到了目标，他们就加高要求，为他们自己设置越来越复杂的挑战"
+  },
+  {
+    "id": "q0106",
+    "wordId": "w0106",
+    "questionType": "definition",
+    "question": "Choose the word that means: lasting forever",
+    "answer": "eternal",
+    "optionWordIds": [
+      "w0204",
+      "w0309",
+      "w0394",
+      "w0106"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": "q0107",
+    "wordId": "w0107",
+    "questionType": "cloze",
+    "question": "The decision provoked ______ from women and human rights groups.",
+    "answer": "outrage",
+    "optionWordIds": [
+      "w0260",
+      "w0170",
+      "w0107",
+      "w0370"
+    ],
+    "difficulty": "medium",
+    "hint": "这一决定激起了妇女和人权组织的强烈愤慨。"
+  },
+  {
+    "id": "q0108",
+    "wordId": "w0108",
+    "questionType": "cloze",
+    "question": "When his schoolmate made the last goal, the boy gave out with an ______ yell.",
+    "answer": "untrammeled",
+    "optionWordIds": [
+      "w0369",
+      "w0108",
+      "w0004",
+      "w0100"
+    ],
+    "difficulty": "medium",
+    "hint": "那个男孩在他的同学踢进最后一球时不禁纵声欢呼。"
+  },
+  {
+    "id": "q0109",
+    "wordId": "w0109",
+    "questionType": "cloze",
+    "question": "The band have a ______ sense of humor.",
+    "answer": "droll",
+    "optionWordIds": [
+      "w0285",
+      "w0043",
+      "w0109",
+      "w0449"
+    ],
+    "difficulty": "medium",
+    "hint": "这个乐队有一种滑稽古怪的幽默感。"
+  },
+  {
+    "id": "q0110",
+    "wordId": "w0110",
+    "questionType": "cloze",
+    "question": "The record was the ______ of rock star Bob Geldof.",
+    "answer": "brainchild",
+    "optionWordIds": [
+      "w0110",
+      "w0272",
+      "w0041",
+      "w0143"
+    ],
+    "difficulty": "medium",
+    "hint": "这张唱片是摇滚歌星鲍勃·格尔多夫的心血之作。"
+  },
+  {
+    "id": "q0111",
+    "wordId": "w0111",
+    "questionType": "cloze",
+    "question": "Such people are ones that you turn to for guidance, knowledge and ______ wisdom about life.",
+    "answer": "apropos",
+    "optionWordIds": [
+      "w0148",
+      "w0485",
+      "w0231",
+      "w0111"
+    ],
+    "difficulty": "medium",
+    "hint": "这些人是良师益友，他们指引你成为全知并充满适当的智慧去了解生命的意义"
+  },
+  {
+    "id": "q0112",
+    "wordId": "w0112",
+    "questionType": "cloze",
+    "question": "When he tested an early vaccine on himself, some described the act as ______.",
+    "answer": "foolhardy",
+    "optionWordIds": [
+      "w0264",
+      "w0339",
+      "w0479",
+      "w0112"
+    ],
+    "difficulty": "medium",
+    "hint": "当他在自己身上试验还处于初级阶段的疫苗时，有些人说他的行为是莽撞的。"
+  },
+  {
+    "id": "q0113",
+    "wordId": "w0113",
+    "questionType": "cloze",
+    "question": "The gardener exploded with the rage that had ______ all morning.",
+    "answer": "simmer",
+    "optionWordIds": [
+      "w0091",
+      "w0261",
+      "w0395",
+      "w0113"
+    ],
+    "difficulty": "medium",
+    "hint": "那名花匠憋了一个早上的愤怒终于爆发了。"
+  },
+  {
+    "id": "q0114",
+    "wordId": "w0114",
+    "questionType": "cloze",
+    "question": "Your car would be ______ early.",
+    "answer": "superannuate",
+    "optionWordIds": [
+      "w0024",
+      "w0323",
+      "w0429",
+      "w0114"
+    ],
+    "difficulty": "medium",
+    "hint": "你的汽车早就该淘汰了。"
+  },
+  {
+    "id": "q0115",
+    "wordId": "w0115",
+    "questionType": "cloze",
+    "question": "Shortly afterwards, cuts in defence spending forced the aerospace industry to ______.",
+    "answer": "retrench",
+    "optionWordIds": [
+      "w0115",
+      "w0430",
+      "w0399",
+      "w0173"
+    ],
+    "difficulty": "medium",
+    "hint": "此后不久，国防开支的削减迫使航空航天业紧缩开支。"
+  },
+  {
+    "id": "q0116",
+    "wordId": "w0116",
+    "questionType": "cloze",
+    "question": "But to the ______ of many of its trading partners, the stabilization of the Chinese renminbi is most unwelcome.",
+    "answer": "chagrin",
+    "optionWordIds": [
+      "w0116",
+      "w0041",
+      "w0455",
+      "w0459"
+    ],
+    "difficulty": "medium",
+    "hint": "但对中国的贸易伙伴来说，人民币汇率趋稳可不是好事，令它们失望。"
+  },
+  {
+    "id": "q0117",
+    "wordId": "w0117",
+    "questionType": "cloze",
+    "question": "He stood up in a ______ and flounced out.",
+    "answer": "fury",
+    "optionWordIds": [
+      "w0117",
+      "w0319",
+      "w0440",
+      "w0343"
+    ],
+    "difficulty": "medium",
+    "hint": "他气得一跃而起，冲了出去。"
+  },
+  {
+    "id": "q0118",
+    "wordId": "w0118",
+    "questionType": "cloze",
+    "question": "Children are ______ to catch cold.",
+    "answer": "liable",
+    "optionWordIds": [
+      "w0426",
+      "w0074",
+      "w0268",
+      "w0118"
+    ],
+    "difficulty": "medium",
+    "hint": "小孩易患感冒。"
+  },
+  {
+    "id": "q0119",
+    "wordId": "w0119",
+    "questionType": "cloze",
+    "question": "This guy is a ______ yuppie with no intellect whatsoever.",
+    "answer": "superficial",
+    "optionWordIds": [
+      "w0119",
+      "w0001",
+      "w0209",
+      "w0205"
+    ],
+    "difficulty": "medium",
+    "hint": "这个家伙是个肤浅的雅皮士，没有什么头脑。"
+  },
+  {
+    "id": "q0120",
+    "wordId": "w0120",
+    "questionType": "cloze",
+    "question": "The mayor was there to ______ the celebrations.",
+    "answer": "dignify",
+    "optionWordIds": [
+      "w0034",
+      "w0077",
+      "w0120",
+      "w0130"
+    ],
+    "difficulty": "medium",
+    "hint": "市长的光临为庆祝活动增辉。"
+  },
+  {
+    "id": "q0121",
+    "wordId": "w0121",
+    "questionType": "cloze",
+    "question": "The public has an ______ appetite for stories about the famous",
+    "answer": "insatiable",
+    "optionWordIds": [
+      "w0356",
+      "w0160",
+      "w0121",
+      "w0064"
+    ],
+    "difficulty": "medium",
+    "hint": "公众对名人有着难以满足的好奇心。"
+  },
+  {
+    "id": "q0122",
+    "wordId": "w0122",
+    "questionType": "definition",
+    "question": "Choose the word that means: the unfair practice by a powerful person of giving jobs and other favors to friends",
+    "answer": "cronyism",
+    "optionWordIds": [
+      "w0211",
+      "w0473",
+      "w0122",
+      "w0107"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": "q0123",
+    "wordId": "w0123",
+    "questionType": "cloze",
+    "question": "This jury is expected to be ______ for at least two months.",
+    "answer": "sequester",
+    "optionWordIds": [
+      "w0034",
+      "w0327",
+      "w0077",
+      "w0123"
+    ],
+    "difficulty": "medium",
+    "hint": "预计这个陪审团将至少被隔离两个月。"
+  },
+  {
+    "id": "q0124",
+    "wordId": "w0124",
+    "questionType": "definition",
+    "question": "Choose the word that means: kind and friendly",
+    "answer": "genial",
+    "optionWordIds": [
+      "w0350",
+      "w0124",
+      "w0293",
+      "w0383"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": "q0125",
+    "wordId": "w0125",
+    "questionType": "cloze",
+    "question": "There are three small boats ______ for hire.",
+    "answer": "available",
+    "optionWordIds": [
+      "w0125",
+      "w0312",
+      "w0436",
+      "w0027"
+    ],
+    "difficulty": "medium",
+    "hint": "有3艘小船可供出租。"
+  },
+  {
+    "id": "q0126",
+    "wordId": "w0126",
+    "questionType": "cloze",
+    "question": "The renewed violence this week hardly ______ well for smooth or peaceful change.",
+    "answer": "augur",
+    "optionWordIds": [
+      "w0453",
+      "w0126",
+      "w0134",
+      "w0399"
+    ],
+    "difficulty": "medium",
+    "hint": "本周新一轮的暴力事件预示着顺利平和的转变几乎不可能实现。"
+  },
+  {
+    "id": "q0127",
+    "wordId": "w0127",
+    "questionType": "cloze",
+    "question": "On this occasion the plane ______ from its usual flight path.",
+    "answer": "deviate",
+    "optionWordIds": [
+      "w0127",
+      "w0075",
+      "w0461",
+      "w0303"
+    ],
+    "difficulty": "medium",
+    "hint": "这一次那架飞机偏离了正常的航线。"
+  },
+  {
+    "id": "q0128",
+    "wordId": "w0128",
+    "questionType": "cloze",
+    "question": "Any action on the basis of such ______ evidence would be foolish.",
+    "answer": "fragmentary",
+    "optionWordIds": [
+      "w0128",
+      "w0355",
+      "w0408",
+      "w0239"
+    ],
+    "difficulty": "medium",
+    "hint": "基于如此不完整的证据采取的任何行动都是愚蠢的。"
+  },
+  {
+    "id": "q0129",
+    "wordId": "w0129",
+    "questionType": "cloze",
+    "question": "Either the managers have been ______ or they are not telling the truth.",
+    "answer": "malign",
+    "optionWordIds": [
+      "w0252",
+      "w0363",
+      "w0129",
+      "w0273"
+    ],
+    "difficulty": "medium",
+    "hint": "要么是经理们受到了污蔑，要么就是他们在撒谎。"
+  },
+  {
+    "id": "q0130",
+    "wordId": "w0130",
+    "questionType": "definition",
+    "question": "Choose the word that means: to cleanse of something morally harmful, offensive, or erroneous",
+    "answer": "expurgate",
+    "optionWordIds": [
+      "w0466",
+      "w0130",
+      "w0253",
+      "w0402"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": "q0131",
+    "wordId": "w0131",
+    "questionType": "cloze",
+    "question": "Clarence screws up his face and ______ the Colonel again.",
+    "answer": "imitate",
+    "optionWordIds": [
+      "w0131",
+      "w0172",
+      "w0499",
+      "w0174"
+    ],
+    "difficulty": "medium",
+    "hint": "克拉伦斯又板起面孔，模仿起上校来。"
+  },
+  {
+    "id": "q0132",
+    "wordId": "w0132",
+    "questionType": "cloze",
+    "question": "Several explanations spring to mind for the ______ between perceived opportunities and actual behavior.",
+    "answer": "discrepancy",
+    "optionWordIds": [
+      "w0132",
+      "w0400",
+      "w0068",
+      "w0378"
+    ],
+    "difficulty": "medium",
+    "hint": "有些理由可以解释理想的机会和现实的行为之间存在的矛盾。"
+  },
+  {
+    "id": "q0133",
+    "wordId": "w0133",
+    "questionType": "definition",
+    "question": "Choose the word that means: to offer in sacrifice",
+    "answer": "immolate",
+    "optionWordIds": [
+      "w0133",
+      "w0085",
+      "w0289",
+      "w0430"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": "q0134",
+    "wordId": "w0134",
+    "questionType": "definition",
+    "question": "Choose the word that means: to moderate the intensity of",
+    "answer": "palliate",
+    "optionWordIds": [
+      "w0412",
+      "w0335",
+      "w0246",
+      "w0134"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": "q0135",
+    "wordId": "w0135",
+    "questionType": "cloze",
+    "question": "Don't ______ the stuff given in the textbook.",
+    "answer": "regurgitate",
+    "optionWordIds": [
+      "w0014",
+      "w0115",
+      "w0299",
+      "w0135"
+    ],
+    "difficulty": "medium",
+    "hint": "不要照背课本中的东西。"
+  },
+  {
+    "id": "q0136",
+    "wordId": "w0136",
+    "questionType": "cloze",
+    "question": "Helen Keller has a ______ for languages.",
+    "answer": "flair",
+    "optionWordIds": [
+      "w0136",
+      "w0142",
+      "w0433",
+      "w0103"
+    ],
+    "difficulty": "medium",
+    "hint": "海伦·凯勒有语言的天赋。"
+  },
+  {
+    "id": "q0137",
+    "wordId": "w0137",
+    "questionType": "cloze",
+    "question": "He is the most ______ member of the committee.",
+    "answer": "sagacious",
+    "optionWordIds": [
+      "w0093",
+      "w0033",
+      "w0137",
+      "w0493"
+    ],
+    "difficulty": "medium",
+    "hint": "他是委员会里最睿智的成员。"
+  },
+  {
+    "id": "q0138",
+    "wordId": "w0138",
+    "questionType": "cloze",
+    "question": "Cardinal Meschia was without doubt a ______ character.",
+    "answer": "singular",
+    "optionWordIds": [
+      "w0212",
+      "w0268",
+      "w0484",
+      "w0138"
+    ],
+    "difficulty": "medium",
+    "hint": "红衣主教梅斯基亚无疑是个怪人。"
+  },
+  {
+    "id": "q0139",
+    "wordId": "w0139",
+    "questionType": "cloze",
+    "question": "Over the past few years, the company has been shifting from its roots as a hardware and on-premise software vendor, toward a future as a cloud and services ______.",
+    "answer": "purveyor",
+    "optionWordIds": [
+      "w0358",
+      "w0427",
+      "w0139",
+      "w0319"
+    ],
+    "difficulty": "medium",
+    "hint": "过去几年，这家公司一直在努力从硬件和内部部署软件提供商转型成云计算和服务供应商。"
+  },
+  {
+    "id": "q0140",
+    "wordId": "w0140",
+    "questionType": "cloze",
+    "question": "These ______ groups are more violent than their predecessors and their fanaticism is even more irrational.",
+    "answer": "factious",
+    "optionWordIds": [
+      "w0140",
+      "w0390",
+      "w0408",
+      "w0027"
+    ],
+    "difficulty": "medium",
+    "hint": "这些宗教派组织比他们的前辈更残暴，他们的狂热变得更加丧失理性了。"
+  },
+  {
+    "id": "q0141",
+    "wordId": "w0141",
+    "questionType": "cloze",
+    "question": "When you think about silk, you probably think of ______ fibers woven into lustrous garments.",
+    "answer": "gossamer",
+    "optionWordIds": [
+      "w0404",
+      "w0472",
+      "w0195",
+      "w0141"
+    ],
+    "difficulty": "medium",
+    "hint": "当你想到丝绸的时候，你可能想到是那些织成华丽服饰的薄纱。"
+  },
+  {
+    "id": "q0142",
+    "wordId": "w0142",
+    "questionType": "cloze",
+    "question": "The novel is a stinging ______ on American politics.",
+    "answer": "satire",
+    "optionWordIds": [
+      "w0343",
+      "w0103",
+      "w0142",
+      "w0481"
+    ],
+    "difficulty": "medium",
+    "hint": "这部小说是对美国政治的尖锐讽刺。"
+  },
+  {
+    "id": "q0143",
+    "wordId": "w0143",
+    "questionType": "cloze",
+    "question": "The style of ______ and ghastfulness and the sense of mystery are full of thestory of Allan.",
+    "answer": "vagary",
+    "optionWordIds": [
+      "w0307",
+      "w0143",
+      "w0332",
+      "w0433"
+    ],
+    "difficulty": "medium",
+    "hint": "爱伦的小说风格奇特恐怖,充满了神秘感."
+  },
+  {
+    "id": "q0144",
+    "wordId": "w0144",
+    "questionType": "cloze",
+    "question": "He warned that his economic program for the country was not ______.",
+    "answer": "negotiable",
+    "optionWordIds": [
+      "w0189",
+      "w0264",
+      "w0109",
+      "w0144"
+    ],
+    "difficulty": "medium",
+    "hint": "他告诫说他为国家制订的经济计划是不容商榷的。"
+  },
+  {
+    "id": "q0145",
+    "wordId": "w0145",
+    "questionType": "definition",
+    "question": "Choose the word that means: unsure or uncertain",
+    "answer": "dubious",
+    "optionWordIds": [
+      "w0308",
+      "w0436",
+      "w0145",
+      "w0078"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": "q0146",
+    "wordId": "w0146",
+    "questionType": "cloze",
+    "question": "The ______ given by him is dubious.",
+    "answer": "testimony",
+    "optionWordIds": [
+      "w0319",
+      "w0136",
+      "w0146",
+      "w0142"
+    ],
+    "difficulty": "medium",
+    "hint": "他所作的证据是可疑的。"
+  },
+  {
+    "id": "q0147",
+    "wordId": "w0147",
+    "questionType": "cloze",
+    "question": "It would be ______ to judge what the outcome will be.",
+    "answer": "presumptuous",
+    "optionWordIds": [
+      "w0279",
+      "w0199",
+      "w0147",
+      "w0003"
+    ],
+    "difficulty": "medium",
+    "hint": "现在就判断结果将会怎样未免有些冒昧"
+  },
+  {
+    "id": "q0148",
+    "wordId": "w0148",
+    "questionType": "definition",
+    "question": "Choose the word that means: putting an end to debate or question especially by reason of irrefutability",
+    "answer": "conclusive",
+    "optionWordIds": [
+      "w0148",
+      "w0029",
+      "w0197",
+      "w0352"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": "q0149",
+    "wordId": "w0149",
+    "questionType": "definition",
+    "question": "Choose the word that means: having a pleasant or agreeable taste",
+    "answer": "palatable",
+    "optionWordIds": [
+      "w0040",
+      "w0149",
+      "w0421",
+      "w0471"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": "q0150",
+    "wordId": "w0150",
+    "questionType": "cloze",
+    "question": "Fortune or misfortune, I feel this world is full of ______.",
+    "answer": "histrionic",
+    "optionWordIds": [
+      "w0150",
+      "w0310",
+      "w0039",
+      "w0112"
+    ],
+    "difficulty": "medium",
+    "hint": "无论幸运或不幸时，我都觉得这世界充满了戏剧性。"
+  },
+  {
+    "id": "q0151",
+    "wordId": "w0151",
+    "questionType": "cloze",
+    "question": "Kurdish leaders saw the visit as an important ______ of support",
+    "answer": "signal",
+    "optionWordIds": [
+      "w0151",
+      "w0110",
+      "w0170",
+      "w0056"
+    ],
+    "difficulty": "medium",
+    "hint": "库尔德领导人将这次访问视作一种表示支持的重要信号。"
+  },
+  {
+    "id": "q0152",
+    "wordId": "w0152",
+    "questionType": "cloze",
+    "question": "In 1960 s England, the Vespa shuttled around the sharp, suit - wearing ______ group Known as the Mods.",
+    "answer": "hipster",
+    "optionWordIds": [
+      "w0152",
+      "w0146",
+      "w0175",
+      "w0162"
+    ],
+    "difficulty": "medium",
+    "hint": "1960年代的英国, 伟士牌在一群西装笔挺的时髦雅痞摩登一族间广为流行。"
+  },
+  {
+    "id": "q0153",
+    "wordId": "w0153",
+    "questionType": "definition",
+    "question": "Choose the word that means: a feeling of uneasiness about a point especially of conscience or propriety",
+    "answer": "qualm",
+    "optionWordIds": [
+      "w0459",
+      "w0319",
+      "w0433",
+      "w0153"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": "q0154",
+    "wordId": "w0154",
+    "questionType": "cloze",
+    "question": "They announced, amid much ______, that they had made a breakthrough.",
+    "answer": "ballyhoo",
+    "optionWordIds": [
+      "w0117",
+      "w0489",
+      "w0154",
+      "w0251"
+    ],
+    "difficulty": "medium",
+    "hint": "他们在一片喧嚣中宣布，他们取得突破性的进展。"
+  },
+  {
+    "id": "q0155",
+    "wordId": "w0155",
+    "questionType": "cloze",
+    "question": "Boxers ______ at each other in the ring.",
+    "answer": "flail",
+    "optionWordIds": [
+      "w0155",
+      "w0299",
+      "w0301",
+      "w0085"
+    ],
+    "difficulty": "medium",
+    "hint": "在拳击场上互相猛击的拳手。"
+  },
+  {
+    "id": "q0156",
+    "wordId": "w0156",
+    "questionType": "cloze",
+    "question": "He was ______ of what was happening.",
+    "answer": "oblivious",
+    "optionWordIds": [
+      "w0156",
+      "w0016",
+      "w0487",
+      "w0309"
+    ],
+    "difficulty": "medium",
+    "hint": "他已经忘却发生什么事了。"
+  },
+  {
+    "id": "q0157",
+    "wordId": "w0157",
+    "questionType": "cloze",
+    "question": "He preached the renunciation of all ______ pleasures.",
+    "answer": "earthly",
+    "optionWordIds": [
+      "w0026",
+      "w0157",
+      "w0189",
+      "w0284"
+    ],
+    "difficulty": "medium",
+    "hint": "他鼓吹对所有的世俗享乐的摒弃。"
+  },
+  {
+    "id": "q0158",
+    "wordId": "w0158",
+    "questionType": "cloze",
+    "question": "Brokers had feared they would ______ f oreign investment into local stocks.",
+    "answer": "damp",
+    "optionWordIds": [
+      "w0070",
+      "w0413",
+      "w0129",
+      "w0158"
+    ],
+    "difficulty": "medium",
+    "hint": "经纪商曾担心，这会减少外资对印度股市的投资。"
+  },
+  {
+    "id": "q0159",
+    "wordId": "w0159",
+    "questionType": "cloze",
+    "question": "The deepening economic gloom may well mean that it will eventually prove necessary to cut interest rates to ______ a sharper downturn.",
+    "answer": "arrest",
+    "optionWordIds": [
+      "w0176",
+      "w0174",
+      "w0335",
+      "w0159"
+    ],
+    "difficulty": "medium",
+    "hint": "逐渐加强的经济衰退迹象也许终将证明降低利率以抑制经济衰退是必要的手段"
+  },
+  {
+    "id": "q0160",
+    "wordId": "w0160",
+    "questionType": "cloze",
+    "question": "Unemployment was the ______ cause of poverty.",
+    "answer": "arch",
+    "optionWordIds": [
+      "w0485",
+      "w0040",
+      "w0160",
+      "w0373"
+    ],
+    "difficulty": "medium",
+    "hint": "失业是贫穷的主要原因。"
+  },
+  {
+    "id": "q0161",
+    "wordId": "w0161",
+    "questionType": "cloze",
+    "question": "He is a master at ______.",
+    "answer": "circumlocution",
+    "optionWordIds": [
+      "w0414",
+      "w0162",
+      "w0028",
+      "w0161"
+    ],
+    "difficulty": "medium",
+    "hint": "他讲话很会兜圈子。"
+  },
+  {
+    "id": "q0162",
+    "wordId": "w0162",
+    "questionType": "cloze",
+    "question": "My mother warned me about marrying a ______.",
+    "answer": "spendthrift",
+    "optionWordIds": [
+      "w0088",
+      "w0132",
+      "w0445",
+      "w0162"
+    ],
+    "difficulty": "medium",
+    "hint": "我妈妈告诫我，不要与挥霍无度的人结婚。"
+  },
+  {
+    "id": "q0163",
+    "wordId": "w0163",
+    "questionType": "definition",
+    "question": "Choose the word that means: directly forward",
+    "answer": "forthright",
+    "optionWordIds": [
+      "w0163",
+      "w0160",
+      "w0232",
+      "w0222"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": "q0164",
+    "wordId": "w0164",
+    "questionType": "cloze",
+    "question": "This point is ______ and needs no elaboration.",
+    "answer": "self-evident",
+    "optionWordIds": [
+      "w0242",
+      "w0164",
+      "w0195",
+      "w0010"
+    ],
+    "difficulty": "medium",
+    "hint": "含义自明，无须多说。"
+  },
+  {
+    "id": "q0165",
+    "wordId": "w0165",
+    "questionType": "cloze",
+    "question": "She was a ______ worker for charitable bodies.",
+    "answer": "zealous",
+    "optionWordIds": [
+      "w0316",
+      "w0369",
+      "w0003",
+      "w0165"
+    ],
+    "difficulty": "medium",
+    "hint": "她对慈善事业充满热忱。"
+  },
+  {
+    "id": "q0166",
+    "wordId": "w0166",
+    "questionType": "cloze",
+    "question": "Carrie could not ignore his ______ behavior though she loved him very much.",
+    "answer": "indecorous",
+    "optionWordIds": [
+      "w0415",
+      "w0166",
+      "w0040",
+      "w0497"
+    ],
+    "difficulty": "medium",
+    "hint": "尽管凯莉非常爱他却无法忽视他那有失体统的行为。"
+  },
+  {
+    "id": "q0167",
+    "wordId": "w0167",
+    "questionType": "cloze",
+    "question": "She ______ with photographers as she left her hotel.",
+    "answer": "scuffle",
+    "optionWordIds": [
+      "w0470",
+      "w0255",
+      "w0248",
+      "w0167"
+    ],
+    "difficulty": "medium",
+    "hint": "在离开所住的旅馆时，她和一些摄影记者发生了冲突。"
+  },
+  {
+    "id": "q0168",
+    "wordId": "w0168",
+    "questionType": "cloze",
+    "question": "He has made an ______ study of t he problem.",
+    "answer": "exhaustive",
+    "optionWordIds": [
+      "w0227",
+      "w0487",
+      "w0220",
+      "w0168"
+    ],
+    "difficulty": "medium",
+    "hint": "他对这个问题进行了彻底的研究。"
+  },
+  {
+    "id": "q0169",
+    "wordId": "w0169",
+    "questionType": "cloze",
+    "question": "All the lights went off, and mass ______ broke out.",
+    "answer": "hysteria",
+    "optionWordIds": [
+      "w0169",
+      "w0302",
+      "w0110",
+      "w0071"
+    ],
+    "difficulty": "medium",
+    "hint": "所有的灯都熄灭了，大家都变得歇斯底里起来。"
+  },
+  {
+    "id": "q0170",
+    "wordId": "w0170",
+    "questionType": "cloze",
+    "question": "An ______ prefers his subjects to be automatons , rather than intelligent human beings.",
+    "answer": "autocrat",
+    "optionWordIds": [
+      "w0357",
+      "w0151",
+      "w0170",
+      "w0076"
+    ],
+    "difficulty": "medium",
+    "hint": "独裁者希望他的国民都是自动调节器，像智能机器人。"
+  },
+  {
+    "id": "q0171",
+    "wordId": "w0171",
+    "questionType": "cloze",
+    "question": "She wanted to tell him the whole truth but she ______ herself─it wasn't the right moment.",
+    "answer": "check",
+    "optionWordIds": [
+      "w0066",
+      "w0171",
+      "w0031",
+      "w0012"
+    ],
+    "difficulty": "medium",
+    "hint": "她本想告诉他全部真相，但是又忍住了—那还不是时候。"
+  },
+  {
+    "id": "q0172",
+    "wordId": "w0172",
+    "questionType": "cloze",
+    "question": "An enterprise shall not ______ itself at the expense of environment.",
+    "answer": "aggrandize",
+    "optionWordIds": [
+      "w0174",
+      "w0172",
+      "w0277",
+      "w0258"
+    ],
+    "difficulty": "medium",
+    "hint": "企业不应以环境为代价增强自身的实力"
+  },
+  {
+    "id": "q0173",
+    "wordId": "w0173",
+    "questionType": "cloze",
+    "question": "Blood is only expelled from the heart w hen it ______.",
+    "answer": "contract",
+    "optionWordIds": [
+      "w0127",
+      "w0179",
+      "w0173",
+      "w0135"
+    ],
+    "difficulty": "medium",
+    "hint": "血液在心脏收缩的时候从心脏流出。"
+  },
+  {
+    "id": "q0174",
+    "wordId": "w0174",
+    "questionType": "cloze",
+    "question": "To ______ new money the sport needs to be more entertaining.",
+    "answer": "generate",
+    "optionWordIds": [
+      "w0134",
+      "w0174",
+      "w0439",
+      "w0036"
+    ],
+    "difficulty": "medium",
+    "hint": "要想创造更多的收入，这项体育活动需要变得更加有趣味性。"
+  },
+  {
+    "id": "q0175",
+    "wordId": "w0175",
+    "questionType": "cloze",
+    "question": "My father was in ______ when I won my scholarship.",
+    "answer": "ecstasy",
+    "optionWordIds": [
+      "w0146",
+      "w0048",
+      "w0175",
+      "w0372"
+    ],
+    "difficulty": "medium",
+    "hint": "我获得奖学金时父亲欣喜若狂。"
+  },
+  {
+    "id": "q0176",
+    "wordId": "w0176",
+    "questionType": "cloze",
+    "question": "The crew ______ excess fuel and made an emergency landing.",
+    "answer": "jettison",
+    "optionWordIds": [
+      "w0453",
+      "w0269",
+      "w0176",
+      "w0391"
+    ],
+    "difficulty": "medium",
+    "hint": "机组人员丢弃了多余的燃料，紧急着陆"
+  },
+  {
+    "id": "q0177",
+    "wordId": "w0177",
+    "questionType": "cloze",
+    "question": "At first, Eisenhower claimed it was a weather research mission ______.",
+    "answer": "astray",
+    "optionWordIds": [
+      "w0146",
+      "w0052",
+      "w0319",
+      "w0177"
+    ],
+    "difficulty": "medium",
+    "hint": "起先, 艾森豪威尔声称这是一个迷路的天气研究任务。"
+  },
+  {
+    "id": "q0178",
+    "wordId": "w0178",
+    "questionType": "cloze",
+    "question": "She can't write yet, but she loves to ______ with a pencil.",
+    "answer": "scribble",
+    "optionWordIds": [
+      "w0391",
+      "w0178",
+      "w0269",
+      "w0363"
+    ],
+    "difficulty": "medium",
+    "hint": "她现在还不会写字, 但她喜欢用铅笔乱涂."
+  },
+  {
+    "id": "q0179",
+    "wordId": "w0179",
+    "questionType": "cloze",
+    "question": "Jenny would ______ no criticism of Matthew.",
+    "answer": "brook",
+    "optionWordIds": [
+      "w0294",
+      "w0179",
+      "w0438",
+      "w0439"
+    ],
+    "difficulty": "medium",
+    "hint": "珍妮不会容忍任何对马修的批评。"
+  },
+  {
+    "id": "q0180",
+    "wordId": "w0180",
+    "questionType": "cloze",
+    "question": "The Socialists introduced fairly ______ reforms.",
+    "answer": "radical",
+    "optionWordIds": [
+      "w0180",
+      "w0150",
+      "w0195",
+      "w0003"
+    ],
+    "difficulty": "medium",
+    "hint": "社会主义者推行了相当激进的改革。"
+  },
+  {
+    "id": "q0181",
+    "wordId": "w0181",
+    "questionType": "cloze",
+    "question": "At the time, Arnold had disapproved of such ______.",
+    "answer": "levity",
+    "optionWordIds": [
+      "w0181",
+      "w0171",
+      "w0464",
+      "w0142"
+    ],
+    "difficulty": "medium",
+    "hint": "那时候的阿诺德对这种轻浮行为很看不惯。"
+  },
+  {
+    "id": "q0182",
+    "wordId": "w0182",
+    "questionType": "cloze",
+    "question": "They are ______ about how much will be accomplished by legislation.",
+    "answer": "skeptical",
+    "optionWordIds": [
+      "w0182",
+      "w0264",
+      "w0282",
+      "w0276"
+    ],
+    "difficulty": "medium",
+    "hint": "他们对于立法成效心存疑虑。"
+  },
+  {
+    "id": "q0183",
+    "wordId": "w0183",
+    "questionType": "cloze",
+    "question": "Fresh air is ______ to health.",
+    "answer": "conducive",
+    "optionWordIds": [
+      "w0064",
+      "w0108",
+      "w0325",
+      "w0183"
+    ],
+    "difficulty": "medium",
+    "hint": "新鲜空气有利于健康。"
+  },
+  {
+    "id": "q0184",
+    "wordId": "w0184",
+    "questionType": "cloze",
+    "question": "American government has launched a series of economic reforms to ______ the economy.",
+    "answer": "reactivate",
+    "optionWordIds": [
+      "w0413",
+      "w0225",
+      "w0159",
+      "w0184"
+    ],
+    "difficulty": "medium",
+    "hint": "美国政府推行了一系列旨在复苏经济的经济改革。"
+  },
+  {
+    "id": "q0185",
+    "wordId": "w0185",
+    "questionType": "cloze",
+    "question": "Jokes about raccoon hunting in the book may ______ international readers.",
+    "answer": "bemuse",
+    "optionWordIds": [
+      "w0009",
+      "w0185",
+      "w0397",
+      "w0018"
+    ],
+    "difficulty": "medium",
+    "hint": "书中提到了捉浣熊的笑话或许会令海外读头雾水。"
+  },
+  {
+    "id": "q0186",
+    "wordId": "w0186",
+    "questionType": "definition",
+    "question": "Choose the word that means: to cause to lose its value or to have no effect",
+    "answer": "nullify",
+    "optionWordIds": [
+      "w0024",
+      "w0186",
+      "w0423",
+      "w0217"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": "q0187",
+    "wordId": "w0187",
+    "questionType": "cloze",
+    "question": "Presently, most of the ground water in China gradually tend to be ______ black river due to the deteriorating pollution.",
+    "answer": "malodorous",
+    "optionWordIds": [
+      "w0141",
+      "w0214",
+      "w0187",
+      "w0223"
+    ],
+    "difficulty": "medium",
+    "hint": "目前我国大部分城市地表水由于污染日趋严重已经演变成黑臭水体。"
+  },
+  {
+    "id": "q0188",
+    "wordId": "w0188",
+    "questionType": "cloze",
+    "question": "Our New York company has an ______ in Los Angeles.",
+    "answer": "affiliate",
+    "optionWordIds": [
+      "w0399",
+      "w0188",
+      "w0396",
+      "w0069"
+    ],
+    "difficulty": "medium",
+    "hint": "我们的纽约公司在洛杉矶有一个下属企业。"
+  },
+  {
+    "id": "q0189",
+    "wordId": "w0189",
+    "questionType": "cloze",
+    "question": "The film is more of an ______ fantasy than a horror story.",
+    "answer": "ironic",
+    "optionWordIds": [
+      "w0497",
+      "w0189",
+      "w0148",
+      "w0384"
+    ],
+    "difficulty": "medium",
+    "hint": "这部电影比较像是讽刺的幻想故事，而不是恐怖片。"
+  },
+  {
+    "id": "q0190",
+    "wordId": "w0190",
+    "questionType": "definition",
+    "question": "Choose the word that means: very dirty",
+    "answer": "sordid",
+    "optionWordIds": [
+      "w0190",
+      "w0109",
+      "w0100",
+      "w0264"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": "q0191",
+    "wordId": "w0191",
+    "questionType": "cloze",
+    "question": "Those old toys are ______ of my boyhood.",
+    "answer": "evocative",
+    "optionWordIds": [
+      "w0212",
+      "w0025",
+      "w0191",
+      "w0140"
+    ],
+    "difficulty": "medium",
+    "hint": "这些旧玩具唤起我对童年的回忆。"
+  },
+  {
+    "id": "q0192",
+    "wordId": "w0192",
+    "questionType": "cloze",
+    "question": "He was a performer who loved making ______ gesture.",
+    "answer": "grandiloquent",
+    "optionWordIds": [
+      "w0163",
+      "w0145",
+      "w0215",
+      "w0192"
+    ],
+    "difficulty": "medium",
+    "hint": "他是一个喜欢打夸张手势的演员。"
+  },
+  {
+    "id": "q0193",
+    "wordId": "w0193",
+    "questionType": "cloze",
+    "question": "Even the most ______ native speaker does not know the meaning of every w ord.",
+    "answer": "erudite",
+    "optionWordIds": [
+      "w0193",
+      "w0476",
+      "w0309",
+      "w0213"
+    ],
+    "difficulty": "medium",
+    "hint": "就算最博学的母语使用者也不可能知道每个字的意思。"
+  },
+  {
+    "id": "q0194",
+    "wordId": "w0194",
+    "questionType": "cloze",
+    "question": "We had to ______ the company for tax reasons.",
+    "answer": "incorporate",
+    "optionWordIds": [
+      "w0263",
+      "w0034",
+      "w0032",
+      "w0194"
+    ],
+    "difficulty": "medium",
+    "hint": "由于纳税的原因，我们不得不把那家公司合并了。"
+  },
+  {
+    "id": "q0195",
+    "wordId": "w0195",
+    "questionType": "cloze",
+    "question": "It is unlikely that the Duke was convinced by such ______ arguments.",
+    "answer": "specious",
+    "optionWordIds": [
+      "w0195",
+      "w0437",
+      "w0163",
+      "w0492"
+    ],
+    "difficulty": "medium",
+    "hint": "公爵不太可能相信这种似是而非的论点"
+  },
+  {
+    "id": "q0196",
+    "wordId": "w0196",
+    "questionType": "cloze",
+    "question": "Joseph Smith was a ______ book collector.",
+    "answer": "voracious",
+    "optionWordIds": [
+      "w0381",
+      "w0214",
+      "w0350",
+      "w0196"
+    ],
+    "difficulty": "medium",
+    "hint": "约瑟夫·史密斯是个如饥似渴的藏书家"
+  },
+  {
+    "id": "q0197",
+    "wordId": "w0197",
+    "questionType": "cloze",
+    "question": "He was a ______, handsome young man.",
+    "answer": "vigorous",
+    "optionWordIds": [
+      "w0197",
+      "w0141",
+      "w0219",
+      "w0309"
+    ],
+    "difficulty": "medium",
+    "hint": "他是个精力充沛、年轻帅气的小伙子。"
+  },
+  {
+    "id": "q0198",
+    "wordId": "w0198",
+    "questionType": "cloze",
+    "question": "Our laughter startled people at a nearby table.During the time left to us, out glances were furtive,______.",
+    "answer": "oblique",
+    "optionWordIds": [
+      "w0284",
+      "w0283",
+      "w0476",
+      "w0198"
+    ],
+    "difficulty": "medium",
+    "hint": "我们的笑声惊动了邻桌的人，接下来我们的目光躲躲闪闪，游离不定。"
+  },
+  {
+    "id": "q0199",
+    "wordId": "w0199",
+    "questionType": "cloze",
+    "question": "Perhaps I was too ______.",
+    "answer": "trusting",
+    "optionWordIds": [
+      "w0144",
+      "w0245",
+      "w0102",
+      "w0199"
+    ],
+    "difficulty": "medium",
+    "hint": "也许我太轻信了。"
+  },
+  {
+    "id": "q0200",
+    "wordId": "w0200",
+    "questionType": "definition",
+    "question": "Choose the word that means: to cause to be very interested in",
+    "answer": "fascinate",
+    "optionWordIds": [
+      "w0120",
+      "w0200",
+      "w0135",
+      "w0174"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": "q0201",
+    "wordId": "w0201",
+    "questionType": "cloze",
+    "question": "Those beliefs still ______ among certain social groups.",
+    "answer": "prevail",
+    "optionWordIds": [
+      "w0269",
+      "w0327",
+      "w0184",
+      "w0201"
+    ],
+    "difficulty": "medium",
+    "hint": "这些信念在某些社会群体中仍很盛行。"
+  },
+  {
+    "id": "q0202",
+    "wordId": "w0202",
+    "questionType": "definition",
+    "question": "Choose the word that means: tyro, beginner",
+    "answer": "neophyte",
+    "optionWordIds": [
+      "w0202",
+      "w0332",
+      "w0105",
+      "w0260"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": "q0203",
+    "wordId": "w0203",
+    "questionType": "cloze",
+    "question": "We ask to be the ______ agency for your computers in Taiwan.",
+    "answer": "exclusive",
+    "optionWordIds": [
+      "w0026",
+      "w0203",
+      "w0149",
+      "w0015"
+    ],
+    "difficulty": "medium",
+    "hint": "我们公司请求作为贵公司电脑在台湾的独家代理商。"
+  },
+  {
+    "id": "q0204",
+    "wordId": "w0204",
+    "questionType": "cloze",
+    "question": "The polls corroborate the ______ economic portents.",
+    "answer": "baleful",
+    "optionWordIds": [
+      "w0087",
+      "w0308",
+      "w0366",
+      "w0204"
+    ],
+    "difficulty": "medium",
+    "hint": "民意调查加重了这种经济的不祥之兆。"
+  },
+  {
+    "id": "q0205",
+    "wordId": "w0205",
+    "questionType": "definition",
+    "question": "Choose the word that means: very clear",
+    "answer": "pellucid",
+    "optionWordIds": [
+      "w0205",
+      "w0160",
+      "w0102",
+      "w0030"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": "q0206",
+    "wordId": "w0206",
+    "questionType": "cloze",
+    "question": "An expert was needed to ______ the original Van Gogh painting from his imitation.",
+    "answer": "authenticate",
+    "optionWordIds": [
+      "w0461",
+      "w0009",
+      "w0206",
+      "w0438"
+    ],
+    "difficulty": "medium",
+    "hint": "这幅画是凡·高的真迹还是赝品，需由专家来鉴定。"
+  },
+  {
+    "id": "q0207",
+    "wordId": "w0207",
+    "questionType": "cloze",
+    "question": "His family and supporters have campaigned for many years for a ______ pardon.",
+    "answer": "posthumous",
+    "optionWordIds": [
+      "w0264",
+      "w0355",
+      "w0207",
+      "w0280"
+    ],
+    "difficulty": "medium",
+    "hint": "他的家人和支持者为争取其获得身后赦免而开展了多年的运动。"
+  },
+  {
+    "id": "q0208",
+    "wordId": "w0208",
+    "questionType": "cloze",
+    "question": "The ______ results show that the syntaxic method is effective.",
+    "answer": "experimental",
+    "optionWordIds": [
+      "w0353",
+      "w0208",
+      "w0234",
+      "w0491"
+    ],
+    "difficulty": "medium",
+    "hint": "实验结果表明该综合性方法效果良好。"
+  },
+  {
+    "id": "q0209",
+    "wordId": "w0209",
+    "questionType": "cloze",
+    "question": "They were faced with the ______ task of restoring the house.",
+    "answer": "daunting",
+    "optionWordIds": [
+      "w0305",
+      "w0364",
+      "w0209",
+      "w0383"
+    ],
+    "difficulty": "medium",
+    "hint": "他们面临着修复房子的艰巨任务。"
+  },
+  {
+    "id": "q0210",
+    "wordId": "w0210",
+    "questionType": "cloze",
+    "question": "It is not difficult to sketch the subsequent ______.",
+    "answer": "trajectory",
+    "optionWordIds": [
+      "w0334",
+      "w0254",
+      "w0332",
+      "w0210"
+    ],
+    "difficulty": "medium",
+    "hint": "很容易描绘出它们最终的轨迹。"
+  },
+  {
+    "id": "q0211",
+    "wordId": "w0211",
+    "questionType": "cloze",
+    "question": "They marveled at his ______.",
+    "answer": "temerity",
+    "optionWordIds": [
+      "w0068",
+      "w0202",
+      "w0062",
+      "w0211"
+    ],
+    "difficulty": "medium",
+    "hint": "她们对他的轻率鲁莽感到惊异。"
+  },
+  {
+    "id": "q0212",
+    "wordId": "w0212",
+    "questionType": "cloze",
+    "question": "His fast-paced novels are full of ______ situations and madcap antics.",
+    "answer": "bizarre",
+    "optionWordIds": [
+      "w0094",
+      "w0490",
+      "w0355",
+      "w0212"
+    ],
+    "difficulty": "medium",
+    "hint": "他那些快节奏的小说里充满了怪诞的场景和荒唐的行为。"
+  },
+  {
+    "id": "q0213",
+    "wordId": "w0213",
+    "questionType": "cloze",
+    "question": "Squirrels are ______ creatures.",
+    "answer": "arboreal",
+    "optionWordIds": [
+      "w0353",
+      "w0359",
+      "w0021",
+      "w0213"
+    ],
+    "difficulty": "medium",
+    "hint": "松鼠是树栖动物。"
+  },
+  {
+    "id": "q0214",
+    "wordId": "w0214",
+    "questionType": "cloze",
+    "question": "There are more and more anecdotal e xamples of an ______ art taste develo ping in the Asian region.",
+    "answer": "eclectic",
+    "optionWordIds": [
+      "w0354",
+      "w0383",
+      "w0086",
+      "w0214"
+    ],
+    "difficulty": "medium",
+    "hint": "来越多的逸闻例证表明，兼收并蓄的艺术品味已在亚洲地区逐渐显现出来。"
+  },
+  {
+    "id": "q0215",
+    "wordId": "w0215",
+    "questionType": "cloze",
+    "question": "In his view, the commission remains a ______ and ineffectual body.",
+    "answer": "toothless",
+    "optionWordIds": [
+      "w0214",
+      "w0310",
+      "w0239",
+      "w0215"
+    ],
+    "difficulty": "medium",
+    "hint": "在他看来，委员会仍然是个没有权威而且缺乏效率的机构。"
+  },
+  {
+    "id": "q0216",
+    "wordId": "w0216",
+    "questionType": "cloze",
+    "question": "You could never eliminate risk, but preparation and training could ______ it",
+    "answer": "attenuate",
+    "optionWordIds": [
+      "w0184",
+      "w0216",
+      "w0299",
+      "w0389"
+    ],
+    "difficulty": "medium",
+    "hint": "风险不可能完全消除，但可以通过防范和培训来降低。"
+  },
+  {
+    "id": "q0217",
+    "wordId": "w0217",
+    "questionType": "cloze",
+    "question": "Lady Lysa's face was ______ with fury.",
+    "answer": "flush",
+    "optionWordIds": [
+      "w0335",
+      "w0104",
+      "w0217",
+      "w0206"
+    ],
+    "difficulty": "medium",
+    "hint": "莱莎夫人气得满脸通红。"
+  },
+  {
+    "id": "q0218",
+    "wordId": "w0218",
+    "questionType": "definition",
+    "question": "Choose the word that means: not exciting or interesting",
+    "answer": "dull",
+    "optionWordIds": [
+      "w0353",
+      "w0218",
+      "w0180",
+      "w0321"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": "q0219",
+    "wordId": "w0219",
+    "questionType": "cloze",
+    "question": "His voice is not ______ and slow, as it was in \"Brokeback Mountain.\"",
+    "answer": "sludgy",
+    "optionWordIds": [
+      "w0003",
+      "w0444",
+      "w0421",
+      "w0219"
+    ],
+    "difficulty": "medium",
+    "hint": "他的声音不似《断臂山》里的拖沓、低沉。2025年最新真题词汇"
+  },
+  {
+    "id": "q0220",
+    "wordId": "w0220",
+    "questionType": "cloze",
+    "question": "The heat and humidity were ______.",
+    "answer": "insufferable",
+    "optionWordIds": [
+      "w0220",
+      "w0218",
+      "w0003",
+      "w0310"
+    ],
+    "difficulty": "medium",
+    "hint": "高温和潮湿让人难以忍受。"
+  },
+  {
+    "id": "q0221",
+    "wordId": "w0221",
+    "questionType": "cloze",
+    "question": "He is starting ______ performance all over the world.",
+    "answer": "itinerant",
+    "optionWordIds": [
+      "w0221",
+      "w0212",
+      "w0064",
+      "w0232"
+    ],
+    "difficulty": "medium",
+    "hint": "他正在世界各地巡回演出。"
+  },
+  {
+    "id": "q0222",
+    "wordId": "w0222",
+    "questionType": "cloze",
+    "question": "He plays some passages so slowly that they become ______.",
+    "answer": "lugubrious",
+    "optionWordIds": [
+      "w0222",
+      "w0160",
+      "w0240",
+      "w0317"
+    ],
+    "difficulty": "medium",
+    "hint": "有些段落他演奏得异常徐缓，听上去有些忧伤。"
+  },
+  {
+    "id": "q0223",
+    "wordId": "w0223",
+    "questionType": "cloze",
+    "question": "Conti kneeled and crossed himself ______.",
+    "answer": "pious",
+    "optionWordIds": [
+      "w0223",
+      "w0227",
+      "w0450",
+      "w0403"
+    ],
+    "difficulty": "medium",
+    "hint": "康蒂跪下来虔诚地用手在胸前画了个十字。"
+  },
+  {
+    "id": "q0224",
+    "wordId": "w0224",
+    "questionType": "cloze",
+    "question": "The Russian Federation has issued a decree abolishing special ______ for government officials.",
+    "answer": "privilege",
+    "optionWordIds": [
+      "w0224",
+      "w0175",
+      "w0088",
+      "w0319"
+    ],
+    "difficulty": "medium",
+    "hint": "俄罗斯联邦已经颁布法令废除政府官员的特权。"
+  },
+  {
+    "id": "q0225",
+    "wordId": "w0225",
+    "questionType": "cloze",
+    "question": "The regime ruthlessly ______ all dissent.",
+    "answer": "suppress",
+    "optionWordIds": [
+      "w0306",
+      "w0225",
+      "w0277",
+      "w0452"
+    ],
+    "difficulty": "medium",
+    "hint": "这个政权残酷压制所有不同意见。"
+  },
+  {
+    "id": "q0226",
+    "wordId": "w0226",
+    "questionType": "cloze",
+    "question": "In this ______, his success is exaggerated.",
+    "answer": "hagiography",
+    "optionWordIds": [
+      "w0251",
+      "w0116",
+      "w0226",
+      "w0427"
+    ],
+    "difficulty": "medium",
+    "hint": "在这本理想化的传记当中，他的成功被夸大了。"
+  },
+  {
+    "id": "q0227",
+    "wordId": "w0227",
+    "questionType": "cloze",
+    "question": "Online players are a ______ bunch who move to new games quickly.",
+    "answer": "fickle",
+    "optionWordIds": [
+      "w0305",
+      "w0227",
+      "w0472",
+      "w0228"
+    ],
+    "difficulty": "medium",
+    "hint": "在线玩家是一群易变的人，他们很快就会转移到新游戏中。"
+  },
+  {
+    "id": "q0228",
+    "wordId": "w0228",
+    "questionType": "cloze",
+    "question": "Helen sat ______ in her chair.",
+    "answer": "upright",
+    "optionWordIds": [
+      "w0101",
+      "w0221",
+      "w0367",
+      "w0228"
+    ],
+    "difficulty": "medium",
+    "hint": "海伦笔直地坐在椅子上。"
+  },
+  {
+    "id": "q0229",
+    "wordId": "w0229",
+    "questionType": "cloze",
+    "question": "Something vital must have ______ this visit.",
+    "answer": "occasion",
+    "optionWordIds": [
+      "w0461",
+      "w0382",
+      "w0342",
+      "w0229"
+    ],
+    "difficulty": "medium",
+    "hint": "肯定有什么重大的事导致了这次访问。"
+  },
+  {
+    "id": "q0230",
+    "wordId": "w0230",
+    "questionType": "cloze",
+    "question": "They are hoping that once in office he can be persuaded to ______ his views.",
+    "answer": "moderate",
+    "optionWordIds": [
+      "w0060",
+      "w0178",
+      "w0296",
+      "w0230"
+    ],
+    "difficulty": "medium",
+    "hint": "他们希望等他一上台，可以说服他观点别那么激进。"
+  },
+  {
+    "id": "q0231",
+    "wordId": "w0231",
+    "questionType": "cloze",
+    "question": "David's mother was unstable and ______.",
+    "answer": "moody",
+    "optionWordIds": [
+      "w0227",
+      "w0231",
+      "w0381",
+      "w0359"
+    ],
+    "difficulty": "medium",
+    "hint": "戴维的妈妈情绪不稳定，心情也不好。"
+  },
+  {
+    "id": "q0232",
+    "wordId": "w0232",
+    "questionType": "cloze",
+    "question": "Their own yard is ______ with lilacs.",
+    "answer": "redolent",
+    "optionWordIds": [
+      "w0485",
+      "w0232",
+      "w0468",
+      "w0108"
+    ],
+    "difficulty": "medium",
+    "hint": "他们家自己的院子里散发着丁香花的芬芳。"
+  },
+  {
+    "id": "q0233",
+    "wordId": "w0233",
+    "questionType": "cloze",
+    "question": "Officials have now been ______ to s tart work on a draft settlement.",
+    "answer": "delegate",
+    "optionWordIds": [
+      "w0246",
+      "w0405",
+      "w0233",
+      "w0167"
+    ],
+    "difficulty": "medium",
+    "hint": "现在已经委派官员着手起草解决方案。"
+  },
+  {
+    "id": "q0234",
+    "wordId": "w0234",
+    "questionType": "definition",
+    "question": "Choose the word that means: deserving to be laughed at",
+    "answer": "risible",
+    "optionWordIds": [
+      "w0106",
+      "w0398",
+      "w0359",
+      "w0234"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": "q0235",
+    "wordId": "w0235",
+    "questionType": "cloze",
+    "question": "Later they may ______ up your names with those of your cousins.",
+    "answer": "muddle",
+    "optionWordIds": [
+      "w0235",
+      "w0067",
+      "w0002",
+      "w0126"
+    ],
+    "difficulty": "medium",
+    "hint": "以后他们可能会把你的名字跟你堂兄弟们的名字相混淆。"
+  },
+  {
+    "id": "q0236",
+    "wordId": "w0236",
+    "questionType": "cloze",
+    "question": "His mother and father thought Jim was a bit of an ______ too.",
+    "answer": "oddball",
+    "optionWordIds": [
+      "w0211",
+      "w0236",
+      "w0210",
+      "w0372"
+    ],
+    "difficulty": "medium",
+    "hint": "吉姆的父母也认为他有些古怪。"
+  },
+  {
+    "id": "q0237",
+    "wordId": "w0237",
+    "questionType": "cloze",
+    "question": "Some of the best effects in my garden have been the result of ______.",
+    "answer": "serendipity",
+    "optionWordIds": [
+      "w0048",
+      "w0425",
+      "w0400",
+      "w0237"
+    ],
+    "difficulty": "medium",
+    "hint": "我园子里最珍贵的几件物品是机缘巧合之下意外所得。"
+  },
+  {
+    "id": "q0238",
+    "wordId": "w0238",
+    "questionType": "cloze",
+    "question": "In a few cases, such ______ online behavior has led to their dismissal from medical school.",
+    "answer": "egregious",
+    "optionWordIds": [
+      "w0238",
+      "w0329",
+      "w0431",
+      "w0491"
+    ],
+    "difficulty": "medium",
+    "hint": "在少数情况下，这种恶劣的上网行为会导致他们被医学院开除。"
+  },
+  {
+    "id": "q0239",
+    "wordId": "w0239",
+    "questionType": "cloze",
+    "question": "His ______ attitude made things easier for me.",
+    "answer": "passive",
+    "optionWordIds": [
+      "w0355",
+      "w0239",
+      "w0141",
+      "w0119"
+    ],
+    "difficulty": "medium",
+    "hint": "他的被动态度使我办起事来容易多了。"
+  },
+  {
+    "id": "q0240",
+    "wordId": "w0240",
+    "questionType": "cloze",
+    "question": "Other governments are far from ______ on a range of issues, such as how to structure a regime for verifying countries' adherence to promised carbon reductions.",
+    "answer": "consonant",
+    "optionWordIds": [
+      "w0160",
+      "w0231",
+      "w0108",
+      "w0240"
+    ],
+    "difficulty": "medium",
+    "hint": "其它政府也远远没能够协调一系列问题，比如如何构建一个体制去保证国家所承诺的减排目标实施。"
+  },
+  {
+    "id": "q0241",
+    "wordId": "w0241",
+    "questionType": "cloze",
+    "question": "The mistake was spotted immediately by their ______ lawyer.",
+    "answer": "punctilious",
+    "optionWordIds": [
+      "w0204",
+      "w0292",
+      "w0187",
+      "w0241"
+    ],
+    "difficulty": "medium",
+    "hint": "这个错误马上被他们一丝不苟的律师发现了。"
+  },
+  {
+    "id": "q0242",
+    "wordId": "w0242",
+    "questionType": "cloze",
+    "question": "The Lot river follows a winding and ______ course.",
+    "answer": "tortuous",
+    "optionWordIds": [
+      "w0242",
+      "w0317",
+      "w0477",
+      "w0484"
+    ],
+    "difficulty": "medium",
+    "hint": "洛特河的河道蜿蜒曲折。"
+  },
+  {
+    "id": "q0243",
+    "wordId": "w0243",
+    "questionType": "cloze",
+    "question": "The news of victory ______ the whole nation.",
+    "answer": "elate",
+    "optionWordIds": [
+      "w0243",
+      "w0438",
+      "w0389",
+      "w0298"
+    ],
+    "difficulty": "medium",
+    "hint": "胜利的消息使得举国欢悦。"
+  },
+  {
+    "id": "q0244",
+    "wordId": "w0244",
+    "questionType": "cloze",
+    "question": "She's ______, tough and funny.",
+    "answer": "hard-boiled",
+    "optionWordIds": [
+      "w0275",
+      "w0350",
+      "w0403",
+      "w0244"
+    ],
+    "difficulty": "medium",
+    "hint": "她冷峻、坚韧而风趣。"
+  },
+  {
+    "id": "q0245",
+    "wordId": "w0245",
+    "questionType": "cloze",
+    "question": "Her ______ ways were always enough to lure any man on.",
+    "answer": "winning",
+    "optionWordIds": [
+      "w0219",
+      "w0245",
+      "w0039",
+      "w0160"
+    ],
+    "difficulty": "medium",
+    "hint": "她那迷人的举止足以使所有的男人为之神魂颠倒。"
+  },
+  {
+    "id": "q0246",
+    "wordId": "w0246",
+    "questionType": "definition",
+    "question": "Choose the word that means: to make ill-humored or discontented",
+    "answer": "disgruntle",
+    "optionWordIds": [
+      "w0289",
+      "w0261",
+      "w0323",
+      "w0246"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": "q0247",
+    "wordId": "w0247",
+    "questionType": "definition",
+    "question": "Choose the word that means: the establishment of boundaries or limits separating two areas, groups, or things",
+    "answer": "demarcation",
+    "optionWordIds": [
+      "w0247",
+      "w0122",
+      "w0143",
+      "w0056"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": "q0248",
+    "wordId": "w0248",
+    "questionType": "cloze",
+    "question": "The dispute could ______ the negotiations.",
+    "answer": "jeopardize",
+    "optionWordIds": [
+      "w0248",
+      "w0423",
+      "w0059",
+      "w0133"
+    ],
+    "difficulty": "medium",
+    "hint": "那一争论可能会使谈判处于险境。"
+  },
+  {
+    "id": "q0249",
+    "wordId": "w0249",
+    "questionType": "cloze",
+    "question": "As a ______ I discovered problem that I need to solve.",
+    "answer": "practitioner",
+    "optionWordIds": [
+      "w0107",
+      "w0326",
+      "w0249",
+      "w0488"
+    ],
+    "difficulty": "medium",
+    "hint": "作为从业者，我会发现我需要解决的问题。"
+  },
+  {
+    "id": "q0250",
+    "wordId": "w0250",
+    "questionType": "cloze",
+    "question": "Tony was unnerved by the ______ familiarity of her face.",
+    "answer": "uncanny",
+    "optionWordIds": [
+      "w0124",
+      "w0250",
+      "w0436",
+      "w0288"
+    ],
+    "difficulty": "medium",
+    "hint": "怪异的是，她看起来竟有些面熟，这让托尼心慌意乱。"
+  },
+  {
+    "id": "q0251",
+    "wordId": "w0251",
+    "questionType": "cloze",
+    "question": "After some technical ______ the show finally got under way.",
+    "answer": "hitch",
+    "optionWordIds": [
+      "w0105",
+      "w0136",
+      "w0251",
+      "w0481"
+    ],
+    "difficulty": "medium",
+    "hint": "一些小技术故障解决后，演出终于开始了。"
+  },
+  {
+    "id": "q0252",
+    "wordId": "w0252",
+    "questionType": "definition",
+    "question": "Choose the word that means: to say that something is true in a confident way",
+    "answer": "affirm",
+    "optionWordIds": [
+      "w0498",
+      "w0290",
+      "w0123",
+      "w0252"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": "q0253",
+    "wordId": "w0253",
+    "questionType": "definition",
+    "question": "Choose the word that means: to make feel annoyed or angry",
+    "answer": "gall",
+    "optionWordIds": [
+      "w0005",
+      "w0496",
+      "w0393",
+      "w0253"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": "q0254",
+    "wordId": "w0254",
+    "questionType": "cloze",
+    "question": "Scientists claimed yesterday to have solved the ______ of the birth of the universe.",
+    "answer": "riddle",
+    "optionWordIds": [
+      "w0267",
+      "w0254",
+      "w0343",
+      "w0153"
+    ],
+    "difficulty": "medium",
+    "hint": "科学家们昨天宣布已经解开了宇宙诞生之谜。"
+  },
+  {
+    "id": "q0255",
+    "wordId": "w0255",
+    "questionType": "cloze",
+    "question": "The article was ______ for fear of legal action against the newspaper.",
+    "answer": "spike",
+    "optionWordIds": [
+      "w0306",
+      "w0255",
+      "w0233",
+      "w0399"
+    ],
+    "difficulty": "medium",
+    "hint": "因担心被提起诉讼，报社阻止了那篇文章的发表。"
+  },
+  {
+    "id": "q0256",
+    "wordId": "w0256",
+    "questionType": "cloze",
+    "question": "Larry was turning out to be a ______ on her career.",
+    "answer": "drag",
+    "optionWordIds": [
+      "w0300",
+      "w0256",
+      "w0041",
+      "w0446"
+    ],
+    "difficulty": "medium",
+    "hint": "拉里最后成了她事业上的累赘。"
+  },
+  {
+    "id": "q0257",
+    "wordId": "w0257",
+    "questionType": "cloze",
+    "question": "However, the ______ for such initiatives is not, of course, solely economic.",
+    "answer": "rationale",
+    "optionWordIds": [
+      "w0169",
+      "w0257",
+      "w0210",
+      "w0272"
+    ],
+    "difficulty": "medium",
+    "hint": "然而，这种提议的根据当然并不仅仅是经济方面的。"
+  },
+  {
+    "id": "q0258",
+    "wordId": "w0258",
+    "questionType": "definition",
+    "question": "Choose the word that means: to deprive of courage or confidence",
+    "answer": "demoralize",
+    "optionWordIds": [
+      "w0405",
+      "w0375",
+      "w0261",
+      "w0258"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": "q0259",
+    "wordId": "w0259",
+    "questionType": "cloze",
+    "question": "Franklin was ______ to believe him.",
+    "answer": "predispose",
+    "optionWordIds": [
+      "w0259",
+      "w0073",
+      "w0299",
+      "w0453"
+    ],
+    "difficulty": "medium",
+    "hint": "富兰克林倾向于相信他。"
+  },
+  {
+    "id": "q0260",
+    "wordId": "w0260",
+    "questionType": "cloze",
+    "question": "Peter Baker's bathroom is a brilliant ______ of expensive interior design.",
+    "answer": "pastiche",
+    "optionWordIds": [
+      "w0260",
+      "w0313",
+      "w0136",
+      "w0090"
+    ],
+    "difficulty": "medium",
+    "hint": "彼得·贝克的浴室是高档室内设计的集大成之作。"
+  },
+  {
+    "id": "q0261",
+    "wordId": "w0261",
+    "questionType": "cloze",
+    "question": "The child was lost and began to ______.",
+    "answer": "whimper",
+    "optionWordIds": [
+      "w0261",
+      "w0273",
+      "w0294",
+      "w0475"
+    ],
+    "difficulty": "medium",
+    "hint": "那孩子迷了路，抽抽搭搭地哭起来。"
+  },
+  {
+    "id": "q0262",
+    "wordId": "w0262",
+    "questionType": "cloze",
+    "question": "These dictators have ______ them selves politically and are difficult to move.",
+    "answer": "entrench",
+    "optionWordIds": [
+      "w0262",
+      "w0297",
+      "w0173",
+      "w0330"
+    ],
+    "difficulty": "medium",
+    "hint": "这些独裁者在政治上已经站稳了脚跟，很难推翻他们。"
+  },
+  {
+    "id": "q0263",
+    "wordId": "w0263",
+    "questionType": "cloze",
+    "question": "John is ______ by an unexpected question.",
+    "answer": "stump",
+    "optionWordIds": [
+      "w0443",
+      "w0263",
+      "w0134",
+      "w0363"
+    ],
+    "difficulty": "medium",
+    "hint": "一个意想不到的问题把约翰难住了。"
+  },
+  {
+    "id": "q0264",
+    "wordId": "w0264",
+    "questionType": "cloze",
+    "question": "Almost every story has a ______ note of hope mixed in with levels of bleak despair.",
+    "answer": "redemptive",
+    "optionWordIds": [
+      "w0428",
+      "w0484",
+      "w0264",
+      "w0057"
+    ],
+    "difficulty": "medium",
+    "hint": "几乎每则故事都有一丝希望，带来救赎，却也混杂着重重绝望，暗无天日。"
+  },
+  {
+    "id": "q0265",
+    "wordId": "w0265",
+    "questionType": "cloze",
+    "question": "He ______ her in public and made her feel an idiot",
+    "answer": "snub",
+    "optionWordIds": [
+      "w0159",
+      "w0265",
+      "w0115",
+      "w0299"
+    ],
+    "difficulty": "medium",
+    "hint": "他当众冷落她，让她觉得自己像一个白痴似的。"
+  },
+  {
+    "id": "q0266",
+    "wordId": "w0266",
+    "questionType": "cloze",
+    "question": "This country has never had a genuine ______ or an aristocratic tradition.",
+    "answer": "aristocracy",
+    "optionWordIds": [
+      "w0266",
+      "w0267",
+      "w0226",
+      "w0088"
+    ],
+    "difficulty": "medium",
+    "hint": "这个国家从来没有出现真正的贵族和贵族传统。"
+  },
+  {
+    "id": "q0267",
+    "wordId": "w0267",
+    "questionType": "cloze",
+    "question": "Even the too-near table of boisterous boys contributes to its ______.",
+    "answer": "euphony",
+    "optionWordIds": [
+      "w0442",
+      "w0267",
+      "w0151",
+      "w0260"
+    ],
+    "difficulty": "medium",
+    "hint": "连近旁谈笑的年轻人也贡献出了悦耳之声。"
+  },
+  {
+    "id": "q0268",
+    "wordId": "w0268",
+    "questionType": "definition",
+    "question": "Choose the word that means: free of encumbrance",
+    "answer": "unencumbered",
+    "optionWordIds": [
+      "w0406",
+      "w0057",
+      "w0268",
+      "w0223"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": "q0269",
+    "wordId": "w0269",
+    "questionType": "definition",
+    "question": "Choose the word that means: to make a loud, high- pitched cry",
+    "answer": "shriek",
+    "optionWordIds": [
+      "w0269",
+      "w0206",
+      "w0385",
+      "w0070"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": "q0270",
+    "wordId": "w0270",
+    "questionType": "cloze",
+    "question": "If you're interested in a subject, use th e Internet to ______ deeper.",
+    "answer": "delve",
+    "optionWordIds": [
+      "w0430",
+      "w0270",
+      "w0216",
+      "w0291"
+    ],
+    "difficulty": "medium",
+    "hint": "如果对某一主题感兴趣，就上网进一步深入研究。"
+  },
+  {
+    "id": "q0271",
+    "wordId": "w0271",
+    "questionType": "cloze",
+    "question": "The program successfully ______ words and pictures.",
+    "answer": "interweave",
+    "optionWordIds": [
+      "w0278",
+      "w0271",
+      "w0095",
+      "w0323"
+    ],
+    "difficulty": "medium",
+    "hint": "该节目将文字和画面成功地交织在一起"
+  },
+  {
+    "id": "q0272",
+    "wordId": "w0272",
+    "questionType": "cloze",
+    "question": "The surprising ______ is that we have lots of good but not very happy employees.",
+    "answer": "upshot",
+    "optionWordIds": [
+      "w0272",
+      "w0441",
+      "w0170",
+      "w0143"
+    ],
+    "difficulty": "medium",
+    "hint": "令人意想不到的结果是，我们有许多优秀但却不快乐的雇员。"
+  },
+  {
+    "id": "q0273",
+    "wordId": "w0273",
+    "questionType": "cloze",
+    "question": "______ between friends is just a matter of self-pride, there no victory or defeat for it.",
+    "answer": "altercate",
+    "optionWordIds": [
+      "w0299",
+      "w0273",
+      "w0361",
+      "w0060"
+    ],
+    "difficulty": "medium",
+    "hint": "与朋友的争执本没有谁对谁错，只是大家碍于面子不肯放弃的问题。"
+  },
+  {
+    "id": "q0274",
+    "wordId": "w0274",
+    "questionType": "cloze",
+    "question": "Both your pictures are of ______ subjects.",
+    "answer": "static",
+    "optionWordIds": [
+      "w0274",
+      "w0480",
+      "w0102",
+      "w0368"
+    ],
+    "difficulty": "medium",
+    "hint": "你的两张照片拍的都是静止物体。"
+  },
+  {
+    "id": "q0275",
+    "wordId": "w0275",
+    "questionType": "cloze",
+    "question": "She was attracted by the ______ scenery.",
+    "answer": "majestic",
+    "optionWordIds": [
+      "w0040",
+      "w0275",
+      "w0046",
+      "w0497"
+    ],
+    "difficulty": "medium",
+    "hint": "她被这壮丽的景色所吸引。"
+  },
+  {
+    "id": "q0276",
+    "wordId": "w0276",
+    "questionType": "cloze",
+    "question": "It's difficult to say how likely such an ______ goal might be, but green leaders and others are optimistic.",
+    "answer": "arbitrary",
+    "optionWordIds": [
+      "w0276",
+      "w0193",
+      "w0381",
+      "w0195"
+    ],
+    "difficulty": "medium",
+    "hint": "很难去说这样一个武断的目标能有多靠谱，但环保领袖们和其他一些人却对此保持乐观。"
+  },
+  {
+    "id": "q0277",
+    "wordId": "w0277",
+    "questionType": "definition",
+    "question": "Choose the word that means: to repeat or stress too much or too often",
+    "answer": "belabor",
+    "optionWordIds": [
+      "w0277",
+      "w0306",
+      "w0466",
+      "w0229"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": "q0278",
+    "wordId": "w0278",
+    "questionType": "cloze",
+    "question": "The cliffs on this coast have been ______ by the sea.",
+    "answer": "erode",
+    "optionWordIds": [
+      "w0323",
+      "w0129",
+      "w0135",
+      "w0278"
+    ],
+    "difficulty": "medium",
+    "hint": "该海岸上的峭壁受到了海水的侵蚀。"
+  },
+  {
+    "id": "q0279",
+    "wordId": "w0279",
+    "questionType": "cloze",
+    "question": "Some people are inclined to dismiss such questions as ______.",
+    "answer": "alarmist",
+    "optionWordIds": [
+      "w0384",
+      "w0156",
+      "w0444",
+      "w0279"
+    ],
+    "difficulty": "medium",
+    "hint": "有些人倾向于将这样的问题斥为耸人听闻."
+  },
+  {
+    "id": "q0280",
+    "wordId": "w0280",
+    "questionType": "cloze",
+    "question": "This basic ______ model gives a relatively unsophisticated account of human behavior.",
+    "answer": "utilitarian",
+    "optionWordIds": [
+      "w0058",
+      "w0053",
+      "w0223",
+      "w0280"
+    ],
+    "difficulty": "medium",
+    "hint": "这个实用的基础模型较为简略地解释了人类的行为。"
+  },
+  {
+    "id": "q0281",
+    "wordId": "w0281",
+    "questionType": "cloze",
+    "question": "Lord Carrington is ______ about his achievements.",
+    "answer": "modest",
+    "optionWordIds": [
+      "w0465",
+      "w0016",
+      "w0223",
+      "w0281"
+    ],
+    "difficulty": "medium",
+    "hint": "卡林顿勋爵对自己取得的成绩非常谦虚"
+  },
+  {
+    "id": "q0282",
+    "wordId": "w0282",
+    "questionType": "cloze",
+    "question": "This ______ behavior proved to be an immense advantage.",
+    "answer": "synchronous",
+    "optionWordIds": [
+      "w0098",
+      "w0282",
+      "w0362",
+      "w0047"
+    ],
+    "difficulty": "medium",
+    "hint": "这种同步行为被证明有巨大的优势。"
+  },
+  {
+    "id": "q0283",
+    "wordId": "w0283",
+    "questionType": "cloze",
+    "question": "He was branded an ______ bully.",
+    "answer": "unfeeling",
+    "optionWordIds": [
+      "w0150",
+      "w0283",
+      "w0436",
+      "w0180"
+    ],
+    "difficulty": "medium",
+    "hint": "他被说成冷酷的恶棍。"
+  },
+  {
+    "id": "q0284",
+    "wordId": "w0284",
+    "questionType": "cloze",
+    "question": "Mary is very ______ about losing her job.",
+    "answer": "bitter",
+    "optionWordIds": [
+      "w0493",
+      "w0311",
+      "w0284",
+      "w0086"
+    ],
+    "difficulty": "medium",
+    "hint": "玛丽丢掉了工作，心里很不服气。"
+  },
+  {
+    "id": "q0285",
+    "wordId": "w0285",
+    "questionType": "cloze",
+    "question": "There are ______ benefits beyond a rise in the share price.",
+    "answer": "intangible",
+    "optionWordIds": [
+      "w0285",
+      "w0209",
+      "w0384",
+      "w0197"
+    ],
+    "difficulty": "medium",
+    "hint": "除股价上升之外还有无形利益。"
+  },
+  {
+    "id": "q0286",
+    "wordId": "w0286",
+    "questionType": "cloze",
+    "question": "Radical reformers are once more in the ______.",
+    "answer": "ascendant",
+    "optionWordIds": [
+      "w0286",
+      "w0087",
+      "w0245",
+      "w0324"
+    ],
+    "difficulty": "medium",
+    "hint": "激进派的改革家们再一次占了山风。"
+  },
+  {
+    "id": "q0287",
+    "wordId": "w0287",
+    "questionType": "cloze",
+    "question": "The ______ of coffee led to a sharp drop in prices.",
+    "answer": "glut",
+    "optionWordIds": [
+      "w0287",
+      "w0349",
+      "w0427",
+      "w0357"
+    ],
+    "difficulty": "medium",
+    "hint": "咖啡供过于求道致价格急剧下跌。"
+  },
+  {
+    "id": "q0288",
+    "wordId": "w0288",
+    "questionType": "cloze",
+    "question": "She has an ______ instinct for people's weak spots.",
+    "answer": "unerring",
+    "optionWordIds": [
+      "w0282",
+      "w0318",
+      "w0288",
+      "w0205"
+    ],
+    "difficulty": "medium",
+    "hint": "她能准确地把握他人的弱点。"
+  },
+  {
+    "id": "q0289",
+    "wordId": "w0289",
+    "questionType": "definition",
+    "question": "Choose the word that means: to reproach or challenge in a mocking or insulting manner",
+    "answer": "taunt",
+    "optionWordIds": [
+      "w0323",
+      "w0255",
+      "w0289",
+      "w0294"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": "q0290",
+    "wordId": "w0290",
+    "questionType": "cloze",
+    "question": "His priceless collection of Chinese art and artefacts was ______ over three decades.",
+    "answer": "garner",
+    "optionWordIds": [
+      "w0290",
+      "w0002",
+      "w0407",
+      "w0006"
+    ],
+    "difficulty": "medium",
+    "hint": "他那批价值连城的中国艺术品和手工艺品是花了30多年才收集起来的。"
+  },
+  {
+    "id": "q0291",
+    "wordId": "w0291",
+    "questionType": "cloze",
+    "question": "Because people expected prices to rise rapidly, they started to ______ goods.",
+    "answer": "hoard",
+    "optionWordIds": [
+      "w0291",
+      "w0412",
+      "w0382",
+      "w0006"
+    ],
+    "difficulty": "medium",
+    "hint": "由于人们预计价格会迅速上升，他们开始储藏商品。"
+  },
+  {
+    "id": "q0292",
+    "wordId": "w0292",
+    "questionType": "cloze",
+    "question": "He decided there was ______ evidence to justify criminal proceedings...",
+    "answer": "insufficient",
+    "optionWordIds": [
+      "w0004",
+      "w0292",
+      "w0241",
+      "w0463"
+    ],
+    "difficulty": "medium",
+    "hint": "他认定证据不充分无法提起刑事诉讼。"
+  },
+  {
+    "id": "q0293",
+    "wordId": "w0293",
+    "questionType": "cloze",
+    "question": "He became an ______ accomplice in the crime.",
+    "answer": "unwitting",
+    "optionWordIds": [
+      "w0324",
+      "w0477",
+      "w0293",
+      "w0003"
+    ],
+    "difficulty": "medium",
+    "hint": "他糊里糊涂地成了犯罪的帮凶。"
+  },
+  {
+    "id": "q0294",
+    "wordId": "w0294",
+    "questionType": "cloze",
+    "question": "His task will be to ______ his succes s overseas here at home.",
+    "answer": "duplicate",
+    "optionWordIds": [
+      "w0342",
+      "w0306",
+      "w0294",
+      "w0430"
+    ],
+    "difficulty": "medium",
+    "hint": "他在海外取得了成功，现在的任务就是要在国内再创辉煌。"
+  },
+  {
+    "id": "q0295",
+    "wordId": "w0295",
+    "questionType": "cloze",
+    "question": "The chairman insisted that all was not ______ and gloom.",
+    "answer": "doom",
+    "optionWordIds": [
+      "w0110",
+      "w0460",
+      "w0295",
+      "w0181"
+    ],
+    "difficulty": "medium",
+    "hint": "主席坚持说不是所有的事情都是消极和注定失败的。"
+  },
+  {
+    "id": "q0296",
+    "wordId": "w0296",
+    "questionType": "cloze",
+    "question": "These insects can ______ havoc on crops.",
+    "answer": "wreak",
+    "optionWordIds": [
+      "w0296",
+      "w0475",
+      "w0188",
+      "w0405"
+    ],
+    "difficulty": "medium",
+    "hint": "这些昆虫可严重危害农作物。"
+  },
+  {
+    "id": "q0297",
+    "wordId": "w0297",
+    "questionType": "cloze",
+    "question": "As a modest scholar, my professor never ______ his intellect.",
+    "answer": "brandish",
+    "optionWordIds": [
+      "w0155",
+      "w0054",
+      "w0297",
+      "w0323"
+    ],
+    "difficulty": "medium",
+    "hint": "作为一名谦虚的学者，我的教授从不吹嘘自己的才智。"
+  },
+  {
+    "id": "q0298",
+    "wordId": "w0298",
+    "questionType": "definition",
+    "question": "Choose the word that means: to cause to come",
+    "answer": "draw",
+    "optionWordIds": [
+      "w0298",
+      "w0374",
+      "w0079",
+      "w0498"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": "q0299",
+    "wordId": "w0299",
+    "questionType": "cloze",
+    "question": "To ______ good for the sake of gold is not for me.",
+    "answer": "forsake",
+    "optionWordIds": [
+      "w0009",
+      "w0262",
+      "w0299",
+      "w0155"
+    ],
+    "difficulty": "medium",
+    "hint": "我不干这种见利忘义的事。"
+  },
+  {
+    "id": "q0300",
+    "wordId": "w0300",
+    "questionType": "cloze",
+    "question": "Who leads Canada is also of some ______ to the rest of the world.",
+    "answer": "import",
+    "optionWordIds": [
+      "w0143",
+      "w0090",
+      "w0300",
+      "w0062"
+    ],
+    "difficulty": "medium",
+    "hint": "谁领导加拿大对世界来讲也具有一定的重要性。"
+  },
+  {
+    "id": "q0301",
+    "wordId": "w0301",
+    "questionType": "definition",
+    "question": "Choose the word that means: to sing in a low soft voice",
+    "answer": "croon",
+    "optionWordIds": [
+      "w0185",
+      "w0069",
+      "w0301",
+      "w0006"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": "q0302",
+    "wordId": "w0302",
+    "questionType": "cloze",
+    "question": "The Chinese team enjoyed the height ______.",
+    "answer": "advantage",
+    "optionWordIds": [
+      "w0302",
+      "w0226",
+      "w0107",
+      "w0162"
+    ],
+    "difficulty": "medium",
+    "hint": "中国队占有身高优势。"
+  },
+  {
+    "id": "q0303",
+    "wordId": "w0303",
+    "questionType": "definition",
+    "question": "Choose the word that means: to list or rate (projects, goals, etc.) in order of priority",
+    "answer": "prioritize",
+    "optionWordIds": [
+      "w0376",
+      "w0023",
+      "w0265",
+      "w0303"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": "q0304",
+    "wordId": "w0304",
+    "questionType": "cloze",
+    "question": "The term ‘cardboard city’ was ______ to describe communities of homeless people living in cardboard boxes.",
+    "answer": "coin",
+    "optionWordIds": [
+      "w0225",
+      "w0303",
+      "w0304",
+      "w0055"
+    ],
+    "difficulty": "medium",
+    "hint": "人们创造了cardboard city一词，用来指居住在纸板棚屋里无家可归者的居住区。"
+  },
+  {
+    "id": "q0305",
+    "wordId": "w0305",
+    "questionType": "cloze",
+    "question": "She is a ______ writer of novels and short stories.",
+    "answer": "prolific",
+    "optionWordIds": [
+      "w0494",
+      "w0156",
+      "w0305",
+      "w0485"
+    ],
+    "difficulty": "medium",
+    "hint": "她是一位多产的作家，写了很多小说和短篇故事。"
+  },
+  {
+    "id": "q0306",
+    "wordId": "w0306",
+    "questionType": "cloze",
+    "question": "The tramp ______ the man who drove him off.",
+    "answer": "revile",
+    "optionWordIds": [
+      "w0348",
+      "w0306",
+      "w0299",
+      "w0200"
+    ],
+    "difficulty": "medium",
+    "hint": "流浪汉辱骂那位赶他走开的人。"
+  },
+  {
+    "id": "q0307",
+    "wordId": "w0307",
+    "questionType": "cloze",
+    "question": "The whole cast executed the production with truly professional ______.",
+    "answer": "aplomb",
+    "optionWordIds": [
+      "w0103",
+      "w0425",
+      "w0251",
+      "w0307"
+    ],
+    "difficulty": "medium",
+    "hint": "全体演职人员以一种真正的专业精神，从容不迫地开始了影片的制作。"
+  },
+  {
+    "id": "q0308",
+    "wordId": "w0308",
+    "questionType": "cloze",
+    "question": "There has been a ______ waste of public money.",
+    "answer": "colossal",
+    "optionWordIds": [
+      "w0403",
+      "w0308",
+      "w0280",
+      "w0221"
+    ],
+    "difficulty": "medium",
+    "hint": "一直存在巨大的公款浪费。"
+  },
+  {
+    "id": "q0309",
+    "wordId": "w0309",
+    "questionType": "cloze",
+    "question": "The new government has promised ______ reforms.",
+    "answer": "sweeping",
+    "optionWordIds": [
+      "w0025",
+      "w0432",
+      "w0366",
+      "w0309"
+    ],
+    "difficulty": "medium",
+    "hint": "新政府承诺进行彻底的改革。"
+  },
+  {
+    "id": "q0310",
+    "wordId": "w0310",
+    "questionType": "cloze",
+    "question": "Mathematics is not a single ______ structure of absolute truth!",
+    "answer": "monolithic",
+    "optionWordIds": [
+      "w0368",
+      "w0121",
+      "w0310",
+      "w0189"
+    ],
+    "difficulty": "medium",
+    "hint": "数学并不是绝对真理的单一整体结构。"
+  },
+  {
+    "id": "q0311",
+    "wordId": "w0311",
+    "questionType": "cloze",
+    "question": "New computer software is often ______ with older computers.",
+    "answer": "incompatible",
+    "optionWordIds": [
+      "w0147",
+      "w0311",
+      "w0072",
+      "w0367"
+    ],
+    "difficulty": "medium",
+    "hint": "新的计算机软件往往和旧式计算机不兼容。"
+  },
+  {
+    "id": "q0312",
+    "wordId": "w0312",
+    "questionType": "cloze",
+    "question": "He was somewhat ______ and had a high opinion of his own capabilities.",
+    "answer": "pompous",
+    "optionWordIds": [
+      "w0477",
+      "w0166",
+      "w0102",
+      "w0312"
+    ],
+    "difficulty": "medium",
+    "hint": "他有些爱摆架子，并且高估自己的能力"
+  },
+  {
+    "id": "q0313",
+    "wordId": "w0313",
+    "questionType": "definition",
+    "question": "Choose the word that means: a source of relief or consolation",
+    "answer": "solace",
+    "optionWordIds": [
+      "w0013",
+      "w0313",
+      "w0031",
+      "w0331"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": "q0314",
+    "wordId": "w0314",
+    "questionType": "definition",
+    "question": "Choose the word that means: to exert (oneself, one's senses, etc.) to the utmost",
+    "answer": "strain",
+    "optionWordIds": [
+      "w0067",
+      "w0314",
+      "w0200",
+      "w0296"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": "q0315",
+    "wordId": "w0315",
+    "questionType": "cloze",
+    "question": "At present we are ______ information from all sources.",
+    "answer": "glean",
+    "optionWordIds": [
+      "w0270",
+      "w0042",
+      "w0498",
+      "w0315"
+    ],
+    "difficulty": "medium",
+    "hint": "目前，我们正从各种渠道收集信息。"
+  },
+  {
+    "id": "q0316",
+    "wordId": "w0316",
+    "questionType": "cloze",
+    "question": "It would be ______ to single out any one person to thank.",
+    "answer": "invidious",
+    "optionWordIds": [
+      "w0317",
+      "w0415",
+      "w0476",
+      "w0316"
+    ],
+    "difficulty": "medium",
+    "hint": "单独感谢任何一个人都易引起反感。"
+  },
+  {
+    "id": "q0317",
+    "wordId": "w0317",
+    "questionType": "definition",
+    "question": "Choose the word that means: great or imposing in size or extent",
+    "answer": "mighty",
+    "optionWordIds": [
+      "w0328",
+      "w0317",
+      "w0145",
+      "w0195"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": "q0318",
+    "wordId": "w0318",
+    "questionType": "cloze",
+    "question": "Human society makes ______ progress.",
+    "answer": "unceasing",
+    "optionWordIds": [
+      "w0015",
+      "w0318",
+      "w0218",
+      "w0406"
+    ],
+    "difficulty": "medium",
+    "hint": "人类社会总是不断进步的。"
+  },
+  {
+    "id": "q0319",
+    "wordId": "w0319",
+    "questionType": "cloze",
+    "question": "Everyone in our class is permeated wit h the spirit of ______.",
+    "answer": "camaraderie",
+    "optionWordIds": [
+      "w0319",
+      "w0132",
+      "w0489",
+      "w0031"
+    ],
+    "difficulty": "medium",
+    "hint": "我们班贯穿着友爱的精神。"
+  },
+  {
+    "id": "q0320",
+    "wordId": "w0320",
+    "questionType": "cloze",
+    "question": "He was a more palatable ______ for the West than Mr Trump had been.",
+    "answer": "interlocutor",
+    "optionWordIds": [
+      "w0313",
+      "w0146",
+      "w0320",
+      "w0302"
+    ],
+    "difficulty": "medium",
+    "hint": "他相对于普京来说是一个更加合适和西方进行愉悦对话的总统。"
+  },
+  {
+    "id": "q0321",
+    "wordId": "w0321",
+    "questionType": "cloze",
+    "question": "Custer was an idiot and a ______ and he deserved his fate.",
+    "answer": "brute",
+    "optionWordIds": [
+      "w0207",
+      "w0321",
+      "w0318",
+      "w0196"
+    ],
+    "difficulty": "medium",
+    "hint": "卡斯特是个愚蠢而粗暴的人，他应该有这样的下场。"
+  },
+  {
+    "id": "q0322",
+    "wordId": "w0322",
+    "questionType": "cloze",
+    "question": "It is said that this medicine can ______ the dead.",
+    "answer": "resurrect",
+    "optionWordIds": [
+      "w0322",
+      "w0411",
+      "w0054",
+      "w0123"
+    ],
+    "difficulty": "medium",
+    "hint": "据说这种药能起死回生。"
+  },
+  {
+    "id": "q0323",
+    "wordId": "w0323",
+    "questionType": "cloze",
+    "question": "It did not take long for the central bank to ______ investors' fears.",
+    "answer": "soothe",
+    "optionWordIds": [
+      "w0374",
+      "w0416",
+      "w0291",
+      "w0323"
+    ],
+    "difficulty": "medium",
+    "hint": "中央银行很快便平息了投资者的担忧。"
+  },
+  {
+    "id": "q0324",
+    "wordId": "w0324",
+    "questionType": "cloze",
+    "question": "He now dismisses that as a ______ co mment.",
+    "answer": "flippant",
+    "optionWordIds": [
+      "w0435",
+      "w0324",
+      "w0010",
+      "w0112"
+    ],
+    "difficulty": "medium",
+    "hint": "他现在把那当作轻率的随口一说不再理会了。"
+  },
+  {
+    "id": "q0325",
+    "wordId": "w0325",
+    "questionType": "cloze",
+    "question": "These are not necessarily hateful, ______ people.",
+    "answer": "malicious",
+    "optionWordIds": [
+      "w0428",
+      "w0196",
+      "w0325",
+      "w0037"
+    ],
+    "difficulty": "medium",
+    "hint": "这些人不一定心怀仇恨，恶意伤人。"
+  },
+  {
+    "id": "q0326",
+    "wordId": "w0326",
+    "questionType": "cloze",
+    "question": "Are those real diamonds or only ______?",
+    "answer": "sham",
+    "optionWordIds": [
+      "w0326",
+      "w0080",
+      "w0440",
+      "w0307"
+    ],
+    "difficulty": "medium",
+    "hint": "那些是真钻石还是赝品?"
+  },
+  {
+    "id": "q0327",
+    "wordId": "w0327",
+    "questionType": "cloze",
+    "question": "Consumption of alcohol ______ your ability to drive a car or operate machinery.",
+    "answer": "impair",
+    "optionWordIds": [
+      "w0262",
+      "w0079",
+      "w0070",
+      "w0327"
+    ],
+    "difficulty": "medium",
+    "hint": "饮酒会削弱你驾驶汽车或操控机器的能力。"
+  },
+  {
+    "id": "q0328",
+    "wordId": "w0328",
+    "questionType": "cloze",
+    "question": "The young mother set her son on the bed and rubbed him down with a ______ towel.",
+    "answer": "coarse",
+    "optionWordIds": [
+      "w0020",
+      "w0124",
+      "w0109",
+      "w0328"
+    ],
+    "difficulty": "medium",
+    "hint": "那位年轻的母亲让她的儿子躺到床上，用一条粗糙的毛巾给他擦干了全身。"
+  },
+  {
+    "id": "q0329",
+    "wordId": "w0329",
+    "questionType": "cloze",
+    "question": "We would like to take this opportunity to convey our ______ condolences to the families of the victims.",
+    "answer": "heartfelt",
+    "optionWordIds": [
+      "w0329",
+      "w0057",
+      "w0020",
+      "w0339"
+    ],
+    "difficulty": "medium",
+    "hint": "我们谨此向受害人家属表达我们衷心的慰唁。"
+  },
+  {
+    "id": "q0330",
+    "wordId": "w0330",
+    "questionType": "cloze",
+    "question": "High prices have ______ off demand.",
+    "answer": "choke",
+    "optionWordIds": [
+      "w0457",
+      "w0409",
+      "w0330",
+      "w0499"
+    ],
+    "difficulty": "medium",
+    "hint": "高昂的价格抑制了需求。"
+  },
+  {
+    "id": "q0331",
+    "wordId": "w0331",
+    "questionType": "cloze",
+    "question": "They wanted a ______ for subduing the region by force.",
+    "answer": "pretext",
+    "optionWordIds": [
+      "w0110",
+      "w0337",
+      "w0414",
+      "w0331"
+    ],
+    "difficulty": "medium",
+    "hint": "他们需要一个用武力征服那个地区的托词。"
+  },
+  {
+    "id": "q0332",
+    "wordId": "w0332",
+    "questionType": "cloze",
+    "question": "Activists stepped up their demands for local ______ last month.",
+    "answer": "autonomy",
+    "optionWordIds": [
+      "w0260",
+      "w0486",
+      "w0360",
+      "w0332"
+    ],
+    "difficulty": "medium",
+    "hint": "上个月激进分子对地方自治的呼声更高了。"
+  },
+  {
+    "id": "q0333",
+    "wordId": "w0333",
+    "questionType": "cloze",
+    "question": "She denies obtaining a ______ advantage by deception.",
+    "answer": "pecuniary",
+    "optionWordIds": [
+      "w0325",
+      "w0333",
+      "w0212",
+      "w0444"
+    ],
+    "difficulty": "medium",
+    "hint": "她否认通过欺骗手段获得经济利益。"
+  },
+  {
+    "id": "q0334",
+    "wordId": "w0334",
+    "questionType": "cloze",
+    "question": "The ______ that democracies do not fight each other is based on a tiny historical sample.",
+    "answer": "proposition",
+    "optionWordIds": [
+      "w0459",
+      "w0139",
+      "w0338",
+      "w0334"
+    ],
+    "difficulty": "medium",
+    "hint": "认为民主国家互不争斗的观点是以一个极小的历史样本为根据的。"
+  },
+  {
+    "id": "q0335",
+    "wordId": "w0335",
+    "questionType": "cloze",
+    "question": "Her list does not ______ with mine.",
+    "answer": "tally",
+    "optionWordIds": [
+      "w0253",
+      "w0059",
+      "w0176",
+      "w0335"
+    ],
+    "difficulty": "medium",
+    "hint": "她的单子与我的不相符。"
+  },
+  {
+    "id": "q0336",
+    "wordId": "w0336",
+    "questionType": "cloze",
+    "question": "He looked at her ______ shape through the frosted glass.",
+    "answer": "vague",
+    "optionWordIds": [
+      "w0118",
+      "w0336",
+      "w0220",
+      "w0312"
+    ],
+    "difficulty": "medium",
+    "hint": "他透过雾蒙蒙的眼镜注视着她模糊的身形。"
+  },
+  {
+    "id": "q0337",
+    "wordId": "w0337",
+    "questionType": "cloze",
+    "question": "She ______ sharply to avoid another car.",
+    "answer": "brake",
+    "optionWordIds": [
+      "w0319",
+      "w0337",
+      "w0349",
+      "w0088"
+    ],
+    "difficulty": "medium",
+    "hint": "她为了躲另一辆车而紧急刹车。"
+  },
+  {
+    "id": "q0338",
+    "wordId": "w0338",
+    "questionType": "cloze",
+    "question": "Jackie ______ the servants that her millions could buy.",
+    "answer": "disdain",
+    "optionWordIds": [
+      "w0338",
+      "w0440",
+      "w0320",
+      "w0357"
+    ],
+    "difficulty": "medium",
+    "hint": "杰姬鄙视那些她用钱就可以收买的奴仆"
+  },
+  {
+    "id": "q0339",
+    "wordId": "w0339",
+    "questionType": "cloze",
+    "question": "His influence on this matter is ______ .",
+    "answer": "paltry",
+    "optionWordIds": [
+      "w0415",
+      "w0390",
+      "w0240",
+      "w0339"
+    ],
+    "difficulty": "medium",
+    "hint": "他对这件事的影响是微不足道的。"
+  },
+  {
+    "id": "q0340",
+    "wordId": "w0340",
+    "questionType": "definition",
+    "question": "Choose the word that means: to want very much",
+    "answer": "covet",
+    "optionWordIds": [
+      "w0418",
+      "w0340",
+      "w0397",
+      "w0306"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": "q0341",
+    "wordId": "w0341",
+    "questionType": "cloze",
+    "question": "The mountains ______ the French- Swiss border.",
+    "answer": "straddle",
+    "optionWordIds": [
+      "w0341",
+      "w0348",
+      "w0412",
+      "w0461"
+    ],
+    "difficulty": "medium",
+    "hint": "这座山脉横跨法国和瑞士边界。"
+  },
+  {
+    "id": "q0342",
+    "wordId": "w0342",
+    "questionType": "cloze",
+    "question": "Administration officials have ______ the list of candidates to three.",
+    "answer": "winnow",
+    "optionWordIds": [
+      "w0296",
+      "w0342",
+      "w0340",
+      "w0322"
+    ],
+    "difficulty": "medium",
+    "hint": "行政官员将候选名单筛减至3人。"
+  },
+  {
+    "id": "q0343",
+    "wordId": "w0343",
+    "questionType": "cloze",
+    "question": "______ is against nature.",
+    "answer": "teetotalism",
+    "optionWordIds": [
+      "w0343",
+      "w0319",
+      "w0302",
+      "w0107"
+    ],
+    "difficulty": "medium",
+    "hint": "滴酒不沾是违背天性的。"
+  },
+  {
+    "id": "q0344",
+    "wordId": "w0344",
+    "questionType": "cloze",
+    "question": "The chancellor was forced to ______ th e economy still further.",
+    "answer": "deflate",
+    "optionWordIds": [
+      "w0290",
+      "w0363",
+      "w0344",
+      "w0361"
+    ],
+    "difficulty": "medium",
+    "hint": "财政大臣被迫更进一步紧缩经济。"
+  },
+  {
+    "id": "q0345",
+    "wordId": "w0345",
+    "questionType": "definition",
+    "question": "Choose the word that means: noisily insistent",
+    "answer": "clamorous",
+    "optionWordIds": [
+      "w0352",
+      "w0345",
+      "w0010",
+      "w0180"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": "q0346",
+    "wordId": "w0346",
+    "questionType": "cloze",
+    "question": "Lots of people use television as their ______ form of social life.",
+    "answer": "vicarious",
+    "optionWordIds": [
+      "w0137",
+      "w0189",
+      "w0346",
+      "w0140"
+    ],
+    "difficulty": "medium",
+    "hint": "许多人从电视中间接感受社会生活。"
+  },
+  {
+    "id": "q0347",
+    "wordId": "w0347",
+    "questionType": "cloze",
+    "question": "The party has distanced itself from the more ______ nationalist groups in the country.",
+    "answer": "rabid",
+    "optionWordIds": [
+      "w0325",
+      "w0293",
+      "w0347",
+      "w0324"
+    ],
+    "difficulty": "medium",
+    "hint": "此党派与国内较偏激的民族主义团体保持了距离。"
+  },
+  {
+    "id": "q0348",
+    "wordId": "w0348",
+    "questionType": "cloze",
+    "question": "The company increased its stake in the business, ______ rumours of a takeover bid.",
+    "answer": "squelch",
+    "optionWordIds": [
+      "w0348",
+      "w0289",
+      "w0123",
+      "w0375"
+    ],
+    "difficulty": "medium",
+    "hint": "该公司增加了其在生意中的股份，这样就压制住了被收购的谣言。"
+  },
+  {
+    "id": "q0349",
+    "wordId": "w0349",
+    "questionType": "cloze",
+    "question": "There has been no hint of ______ during his time in office.",
+    "answer": "scandal",
+    "optionWordIds": [
+      "w0349",
+      "w0326",
+      "w0122",
+      "w0486"
+    ],
+    "difficulty": "medium",
+    "hint": "他在任期间没有任何丑闻。"
+  },
+  {
+    "id": "q0350",
+    "wordId": "w0350",
+    "questionType": "cloze",
+    "question": "Knowing that the end was so near, she became rather ______.",
+    "answer": "solicitous",
+    "optionWordIds": [
+      "w0227",
+      "w0350",
+      "w0336",
+      "w0052"
+    ],
+    "difficulty": "medium",
+    "hint": "她知道这一切即将结束, 反倒变得很有些放心不下了."
+  },
+  {
+    "id": "q0351",
+    "wordId": "w0351",
+    "questionType": "cloze",
+    "question": "We all have an ______ fear of snakes.",
+    "answer": "atavistic",
+    "optionWordIds": [
+      "w0197",
+      "w0431",
+      "w0351",
+      "w0476"
+    ],
+    "difficulty": "medium",
+    "hint": "我们都有对蛇的原始恐惧。"
+  },
+  {
+    "id": "q0352",
+    "wordId": "w0352",
+    "questionType": "cloze",
+    "question": "It is still in an ______ stage.",
+    "answer": "embryonic",
+    "optionWordIds": [
+      "w0415",
+      "w0490",
+      "w0406",
+      "w0352"
+    ],
+    "difficulty": "medium",
+    "hint": "它还处于萌芽阶段。"
+  },
+  {
+    "id": "q0353",
+    "wordId": "w0353",
+    "questionType": "cloze",
+    "question": "They proved their theory by means of ______ research.",
+    "answer": "painstaking",
+    "optionWordIds": [
+      "w0021",
+      "w0435",
+      "w0353",
+      "w0480"
+    ],
+    "difficulty": "medium",
+    "hint": "他们证明的理论是经过苦心研究得来的"
+  },
+  {
+    "id": "q0354",
+    "wordId": "w0354",
+    "questionType": "cloze",
+    "question": "The ______ calm before the storm.",
+    "answer": "proverbial",
+    "optionWordIds": [
+      "w0199",
+      "w0354",
+      "w0465",
+      "w0207"
+    ],
+    "difficulty": "medium",
+    "hint": "俗话说这是暴风雨前的平静。"
+  },
+  {
+    "id": "q0355",
+    "wordId": "w0355",
+    "questionType": "cloze",
+    "question": "Whenever he returns to this place he i s happy and ______.",
+    "answer": "contented",
+    "optionWordIds": [
+      "w0447",
+      "w0465",
+      "w0144",
+      "w0355"
+    ],
+    "difficulty": "medium",
+    "hint": "每次回到这个地方，他都十分快乐，心满意足。"
+  },
+  {
+    "id": "q0356",
+    "wordId": "w0356",
+    "questionType": "cloze",
+    "question": "His talk was so ______ that I missed his point.",
+    "answer": "diffuse",
+    "optionWordIds": [
+      "w0191",
+      "w0310",
+      "w0029",
+      "w0356"
+    ],
+    "difficulty": "medium",
+    "hint": "他的谈话漫无边际, 我抓不住他的要点"
+  },
+  {
+    "id": "q0357",
+    "wordId": "w0357",
+    "questionType": "cloze",
+    "question": "Given data which are free from bias there are further ______ to avoid in statistical work.",
+    "answer": "snare",
+    "optionWordIds": [
+      "w0388",
+      "w0267",
+      "w0357",
+      "w0154"
+    ],
+    "difficulty": "medium",
+    "hint": "即使数据本身不存在偏差在统计工作中仍需要避免其他陷阱。"
+  },
+  {
+    "id": "q0358",
+    "wordId": "w0358",
+    "questionType": "definition",
+    "question": "Choose the word that means: a rude or insensitive person",
+    "answer": "boor",
+    "optionWordIds": [
+      "w0378",
+      "w0358",
+      "w0424",
+      "w0210"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": "q0359",
+    "wordId": "w0359",
+    "questionType": "cloze",
+    "question": "He lives an ______ life.",
+    "answer": "ascetic",
+    "optionWordIds": [
+      "w0140",
+      "w0241",
+      "w0359",
+      "w0183"
+    ],
+    "difficulty": "medium",
+    "hint": "他过着苦行的生活。"
+  },
+  {
+    "id": "q0360",
+    "wordId": "w0360",
+    "questionType": "cloze",
+    "question": "The new religion was eager to convert the ______ world.",
+    "answer": "pagan",
+    "optionWordIds": [
+      "w0256",
+      "w0162",
+      "w0051",
+      "w0360"
+    ],
+    "difficulty": "medium",
+    "hint": "那种新宗教急于使异教徒皈依本教。"
+  },
+  {
+    "id": "q0361",
+    "wordId": "w0361",
+    "questionType": "cloze",
+    "question": "He ______ me into agreeing to do the work.",
+    "answer": "cajole",
+    "optionWordIds": [
+      "w0217",
+      "w0361",
+      "w0063",
+      "w0306"
+    ],
+    "difficulty": "medium",
+    "hint": "他诱骗我同意接下那份工作。"
+  },
+  {
+    "id": "q0362",
+    "wordId": "w0362",
+    "questionType": "cloze",
+    "question": "He's so ______ that no one wants to work for him.",
+    "answer": "overbearing",
+    "optionWordIds": [
+      "w0362",
+      "w0087",
+      "w0282",
+      "w0462"
+    ],
+    "difficulty": "medium",
+    "hint": "他那么专横，没人愿为他工作。"
+  },
+  {
+    "id": "q0363",
+    "wordId": "w0363",
+    "questionType": "cloze",
+    "question": "Many passages in Scripture ______ to this concept.",
+    "answer": "allude",
+    "optionWordIds": [
+      "w0430",
+      "w0159",
+      "w0363",
+      "w0443"
+    ],
+    "difficulty": "medium",
+    "hint": "圣经中有许多经文间接地提到这样的概念。"
+  },
+  {
+    "id": "q0364",
+    "wordId": "w0364",
+    "questionType": "cloze",
+    "question": "This agreement is very ______ and open to various interpretations.",
+    "answer": "ambiguous",
+    "optionWordIds": [
+      "w0164",
+      "w0364",
+      "w0241",
+      "w0468"
+    ],
+    "difficulty": "medium",
+    "hint": "这份协议非常含糊，可以有多种解释。"
+  },
+  {
+    "id": "q0365",
+    "wordId": "w0365",
+    "questionType": "cloze",
+    "question": "For many people the Church was a symbol of ______ authority.",
+    "answer": "external",
+    "optionWordIds": [
+      "w0365",
+      "w0394",
+      "w0072",
+      "w0232"
+    ],
+    "difficulty": "medium",
+    "hint": "对许多人来讲，教堂是外来权威的象征"
+  },
+  {
+    "id": "q0366",
+    "wordId": "w0366",
+    "questionType": "cloze",
+    "question": "We had to take action to protect the ______ technology.",
+    "answer": "proprietary",
+    "optionWordIds": [
+      "w0196",
+      "w0205",
+      "w0118",
+      "w0366"
+    ],
+    "difficulty": "medium",
+    "hint": "我们必须采取措施保护专利技术。"
+  },
+  {
+    "id": "q0367",
+    "wordId": "w0367",
+    "questionType": "cloze",
+    "question": "They executed Russia's ______ family in 1918.",
+    "answer": "imperial",
+    "optionWordIds": [
+      "w0207",
+      "w0367",
+      "w0356",
+      "w0487"
+    ],
+    "difficulty": "medium",
+    "hint": "他们 1918 年处死了俄国沙皇皇族。"
+  },
+  {
+    "id": "q0368",
+    "wordId": "w0368",
+    "questionType": "cloze",
+    "question": "On stage she seems hard, ______ and uncompromising.",
+    "answer": "brash",
+    "optionWordIds": [
+      "w0026",
+      "w0485",
+      "w0368",
+      "w0244"
+    ],
+    "difficulty": "medium",
+    "hint": "在舞台上,她显得冷酷、自以为是而且不妥协。"
+  },
+  {
+    "id": "q0369",
+    "wordId": "w0369",
+    "questionType": "cloze",
+    "question": "The soil proved too infertile to sustain real pasture or ______ crops.",
+    "answer": "arable",
+    "optionWordIds": [
+      "w0098",
+      "w0450",
+      "w0432",
+      "w0369"
+    ],
+    "difficulty": "medium",
+    "hint": "这土壤被证明太贫瘠，不能真正用作放牧或耕种作物。"
+  },
+  {
+    "id": "q0370",
+    "wordId": "w0370",
+    "questionType": "cloze",
+    "question": "His intellect and mental ______ have never been in doubt.",
+    "answer": "agility",
+    "optionWordIds": [
+      "w0076",
+      "w0122",
+      "w0370",
+      "w0338"
+    ],
+    "difficulty": "medium",
+    "hint": "他的才智和机敏从未受到怀疑。"
+  },
+  {
+    "id": "q0371",
+    "wordId": "w0371",
+    "questionType": "cloze",
+    "question": "Cross was a little taken ______ by her abrupt manner.",
+    "answer": "aback",
+    "optionWordIds": [
+      "w0371",
+      "w0057",
+      "w0356",
+      "w0413"
+    ],
+    "difficulty": "medium",
+    "hint": "她鲁莽的态度让克罗斯感到有点吃惊。"
+  },
+  {
+    "id": "q0372",
+    "wordId": "w0372",
+    "questionType": "cloze",
+    "question": "The book is both a history and a passionate ______ for tolerance.",
+    "answer": "polemic",
+    "optionWordIds": [
+      "w0161",
+      "w0105",
+      "w0372",
+      "w0019"
+    ],
+    "difficulty": "medium",
+    "hint": "这本书既是一段历史，也是一篇主张宽容的激情论辩。"
+  },
+  {
+    "id": "q0373",
+    "wordId": "w0373",
+    "questionType": "cloze",
+    "question": "Life is a mystery, an ______ mystery for human society.",
+    "answer": "inextricable",
+    "optionWordIds": [
+      "w0362",
+      "w0373",
+      "w0282",
+      "w0321"
+    ],
+    "difficulty": "medium",
+    "hint": "生命是一个谜，是红尘中的人永远也解不开的谜。"
+  },
+  {
+    "id": "q0374",
+    "wordId": "w0374",
+    "questionType": "cloze",
+    "question": "He ______ himself for being so stupid.",
+    "answer": "castigate",
+    "optionWordIds": [
+      "w0454",
+      "w0409",
+      "w0297",
+      "w0374"
+    ],
+    "difficulty": "medium",
+    "hint": "他责怪自己太笨。"
+  },
+  {
+    "id": "q0375",
+    "wordId": "w0375",
+    "questionType": "definition",
+    "question": "Choose the word that means: to say publicly and forcefully that you regard as bad, wrong, etc.",
+    "answer": "decry",
+    "optionWordIds": [
+      "w0167",
+      "w0042",
+      "w0375",
+      "w0235"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": "q0376",
+    "wordId": "w0376",
+    "questionType": "cloze",
+    "question": "The stream ______ into two narrow winding channels.",
+    "answer": "bifurcate",
+    "optionWordIds": [
+      "w0376",
+      "w0006",
+      "w0301",
+      "w0054"
+    ],
+    "difficulty": "medium",
+    "hint": "那条小溪分成两股窄而弯曲的支流。"
+  },
+  {
+    "id": "q0377",
+    "wordId": "w0377",
+    "questionType": "cloze",
+    "question": "These plants ______ moisture through their roots.",
+    "answer": "imbibe",
+    "optionWordIds": [
+      "w0009",
+      "w0077",
+      "w0377",
+      "w0246"
+    ],
+    "difficulty": "medium",
+    "hint": "这些植物通过根部吸收水分。"
+  },
+  {
+    "id": "q0378",
+    "wordId": "w0378",
+    "questionType": "cloze",
+    "question": "The tunnel is a brilliant ______ of engineering.",
+    "answer": "feat",
+    "optionWordIds": [
+      "w0061",
+      "w0378",
+      "w0272",
+      "w0400"
+    ],
+    "difficulty": "medium",
+    "hint": "这条隧道是工程方面的辉煌成就。"
+  },
+  {
+    "id": "q0379",
+    "wordId": "w0379",
+    "questionType": "definition",
+    "question": "Choose the word that means: someone who very strongly supports and is guided by the ideology of a particular group",
+    "answer": "ideologue",
+    "optionWordIds": [
+      "w0090",
+      "w0379",
+      "w0103",
+      "w0267"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": "q0380",
+    "wordId": "w0380",
+    "questionType": "cloze",
+    "question": "It's a ______ attempt to prevent civil war.",
+    "answer": "last-ditch",
+    "optionWordIds": [
+      "w0380",
+      "w0311",
+      "w0025",
+      "w0150"
+    ],
+    "difficulty": "medium",
+    "hint": "这是阻止内战发生的最后一搏。"
+  },
+  {
+    "id": "q0381",
+    "wordId": "w0381",
+    "questionType": "cloze",
+    "question": "Amanda launched into an ______ disquisition about contracts.",
+    "answer": "authoritative",
+    "optionWordIds": [
+      "w0100",
+      "w0444",
+      "w0222",
+      "w0381"
+    ],
+    "difficulty": "medium",
+    "hint": "阿曼达就合约给出了权威性的阐述。"
+  },
+  {
+    "id": "q0382",
+    "wordId": "w0382",
+    "questionType": "definition",
+    "question": "Choose the word that means: to hinder from passage, action, or operation",
+    "answer": "obstruct",
+    "optionWordIds": [
+      "w0186",
+      "w0278",
+      "w0382",
+      "w0253"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": "q0383",
+    "wordId": "w0383",
+    "questionType": "cloze",
+    "question": "Your grandmother has nothing to stop her from being bored, ______ and lonely.",
+    "answer": "grouchy",
+    "optionWordIds": [
+      "w0221",
+      "w0017",
+      "w0383",
+      "w0484"
+    ],
+    "difficulty": "medium",
+    "hint": "你奶奶既无聊又孤独，总是没完没了地发牢骚。"
+  },
+  {
+    "id": "q0384",
+    "wordId": "w0384",
+    "questionType": "cloze",
+    "question": "He is so ______ that he corrects every mistake his students made.",
+    "answer": "hypercritical",
+    "optionWordIds": [
+      "w0222",
+      "w0381",
+      "w0384",
+      "w0204"
+    ],
+    "difficulty": "medium",
+    "hint": "他很苛刻，对于学生的每个错误都要纠正。"
+  },
+  {
+    "id": "q0385",
+    "wordId": "w0385",
+    "questionType": "cloze",
+    "question": "The child was ______ into a car but managed to escape.",
+    "answer": "lure",
+    "optionWordIds": [
+      "w0407",
+      "w0475",
+      "w0385",
+      "w0184"
+    ],
+    "difficulty": "medium",
+    "hint": "小孩被诱骗到汽车里但还是设法逃脱了"
+  },
+  {
+    "id": "q0386",
+    "wordId": "w0386",
+    "questionType": "cloze",
+    "question": "Popular art is experiencing a ______.",
+    "answer": "renaissance",
+    "optionWordIds": [
+      "w0500",
+      "w0386",
+      "w0236",
+      "w0152"
+    ],
+    "difficulty": "medium",
+    "hint": "通俗艺术正在复兴。"
+  },
+  {
+    "id": "q0387",
+    "wordId": "w0387",
+    "questionType": "cloze",
+    "question": "The company had ______ the",
+    "answer": "saturate",
+    "optionWordIds": [
+      "w0113",
+      "w0453",
+      "w0387",
+      "w0172"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": "q0388",
+    "wordId": "w0388",
+    "questionType": "cloze",
+    "question": "The ______ needs sincerity to measure , but the sincerity is offer by comity.",
+    "answer": "comity",
+    "optionWordIds": [
+      "w0400",
+      "w0388",
+      "w0489",
+      "w0379"
+    ],
+    "difficulty": "medium",
+    "hint": "友谊需真诚来衡量，而真诚由友谊来奉献。"
+  },
+  {
+    "id": "q0389",
+    "wordId": "w0389",
+    "questionType": "cloze",
+    "question": "For 40 years she has ______ the world with her radiant looks.",
+    "answer": "captivate",
+    "optionWordIds": [
+      "w0438",
+      "w0261",
+      "w0126",
+      "w0389"
+    ],
+    "difficulty": "medium",
+    "hint": "40年来，她那令人惊艳的美貌让全世界为之痴迷。"
+  },
+  {
+    "id": "q0390",
+    "wordId": "w0390",
+    "questionType": "definition",
+    "question": "Choose the word that means: free from ambiguity or uncertainty",
+    "answer": "clear-cut",
+    "optionWordIds": [
+      "w0493",
+      "w0390",
+      "w0195",
+      "w0112"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": "q0391",
+    "wordId": "w0391",
+    "questionType": "cloze",
+    "question": "You ______ the smell of greasy food when you are seasick.",
+    "answer": "loathe",
+    "optionWordIds": [
+      "w0391",
+      "w0261",
+      "w0322",
+      "w0253"
+    ],
+    "difficulty": "medium",
+    "hint": "当你晕船时，你会厌恶油腻的气味。"
+  },
+  {
+    "id": "q0392",
+    "wordId": "w0392",
+    "questionType": "cloze",
+    "question": "Their results ______ some of our basic assumptions.",
+    "answer": "upend",
+    "optionWordIds": [
+      "w0077",
+      "w0155",
+      "w0392",
+      "w0120"
+    ],
+    "difficulty": "medium",
+    "hint": "研究结果颠覆了我们的一些基本假设。"
+  },
+  {
+    "id": "q0393",
+    "wordId": "w0393",
+    "questionType": "definition",
+    "question": "Choose the word that means: to give up, refuse, or resign usually by formal declaration",
+    "answer": "renounce",
+    "optionWordIds": [
+      "w0225",
+      "w0393",
+      "w0496",
+      "w0475"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": "q0394",
+    "wordId": "w0394",
+    "questionType": "cloze",
+    "question": "Many household products give off ______ fumes.",
+    "answer": "noxious",
+    "optionWordIds": [
+      "w0016",
+      "w0145",
+      "w0394",
+      "w0404"
+    ],
+    "difficulty": "medium",
+    "hint": "很多家用产品散发有害气体。"
+  },
+  {
+    "id": "q0395",
+    "wordId": "w0395",
+    "questionType": "cloze",
+    "question": "There is little scientific evidence to ______ the claims.",
+    "answer": "substantiate",
+    "optionWordIds": [
+      "w0395",
+      "w0104",
+      "w0396",
+      "w0466"
+    ],
+    "difficulty": "medium",
+    "hint": "这些主张几乎找不到科学依据来证实。"
+  },
+  {
+    "id": "q0396",
+    "wordId": "w0396",
+    "questionType": "cloze",
+    "question": "Sgt Norwood complained that the articl e ______ him.",
+    "answer": "defame",
+    "optionWordIds": [
+      "w0135",
+      "w0301",
+      "w0396",
+      "w0391"
+    ],
+    "difficulty": "medium",
+    "hint": "诺伍德中士申诉说这篇文章对他进行了诽谤。"
+  },
+  {
+    "id": "q0397",
+    "wordId": "w0397",
+    "questionType": "cloze",
+    "question": "In the mass production era multinational firms tended to ______ their operations.",
+    "answer": "centralize",
+    "optionWordIds": [
+      "w0179",
+      "w0158",
+      "w0397",
+      "w0023"
+    ],
+    "difficulty": "medium",
+    "hint": "在大规模生产的时代，跨国公司往往实行集权化经营。"
+  },
+  {
+    "id": "q0398",
+    "wordId": "w0398",
+    "questionType": "cloze",
+    "question": "It is knowledge directed to the fundamental and ______ concerns of existence.",
+    "answer": "pervasive",
+    "optionWordIds": [
+      "w0444",
+      "w0140",
+      "w0398",
+      "w0232"
+    ],
+    "difficulty": "medium",
+    "hint": "它要回答的是人类生存的根本、普遍的问题。"
+  },
+  {
+    "id": "q0399",
+    "wordId": "w0399",
+    "questionType": "cloze",
+    "question": "They were ______ by the smoke and were firing blindly into it.",
+    "answer": "disorient",
+    "optionWordIds": [
+      "w0399",
+      "w0133",
+      "w0342",
+      "w0496"
+    ],
+    "difficulty": "medium",
+    "hint": "他们在烟雾中迷失了方向，向里面胡乱射击了一通。"
+  },
+  {
+    "id": "q0400",
+    "wordId": "w0400",
+    "questionType": "cloze",
+    "question": "The word you are trying to think of is ______.",
+    "answer": "solipsism",
+    "optionWordIds": [
+      "w0400",
+      "w0251",
+      "w0486",
+      "w0474"
+    ],
+    "difficulty": "medium",
+    "hint": "你在想的一个名词叫唯我论。"
+  },
+  {
+    "id": "q0401",
+    "wordId": "w0401",
+    "questionType": "cloze",
+    "question": "His brilliance renders this film an ______ classic.",
+    "answer": "indubitable",
+    "optionWordIds": [
+      "w0401",
+      "w0468",
+      "w0025",
+      "w0354"
+    ],
+    "difficulty": "medium",
+    "hint": "他的出色表现让这部电影成为了毋庸置疑的经典。"
+  },
+  {
+    "id": "q0402",
+    "wordId": "w0402",
+    "questionType": "cloze",
+    "question": "She tried with all her might to ______ her resentment.",
+    "answer": "bridle",
+    "optionWordIds": [
+      "w0303",
+      "w0443",
+      "w0475",
+      "w0402"
+    ],
+    "difficulty": "medium",
+    "hint": "她努力抑制住自己的怨恨。"
+  },
+  {
+    "id": "q0403",
+    "wordId": "w0403",
+    "questionType": "cloze",
+    "question": "The book gives an admirably ______ account of the technology and its history.",
+    "answer": "succinct",
+    "optionWordIds": [
+      "w0268",
+      "w0264",
+      "w0490",
+      "w0403"
+    ],
+    "difficulty": "medium",
+    "hint": "这本书对该项技术及其历史作了极其简明的叙述。"
+  },
+  {
+    "id": "q0404",
+    "wordId": "w0404",
+    "questionType": "cloze",
+    "question": "It's been a ______ day at the international trade negotiations in Brussels.",
+    "answer": "tumultuous",
+    "optionWordIds": [
+      "w0436",
+      "w0404",
+      "w0025",
+      "w0325"
+    ],
+    "difficulty": "medium",
+    "hint": "那是布鲁塞尔国际贸易谈判中纷乱的一天。"
+  },
+  {
+    "id": "q0405",
+    "wordId": "w0405",
+    "questionType": "cloze",
+    "question": "Sales have ______ this year.",
+    "answer": "slump",
+    "optionWordIds": [
+      "w0405",
+      "w0246",
+      "w0155",
+      "w0342"
+    ],
+    "difficulty": "medium",
+    "hint": "今年销售量锐减。"
+  },
+  {
+    "id": "q0406",
+    "wordId": "w0406",
+    "questionType": "cloze",
+    "question": "It is ______ to realize that this is not a new problem.",
+    "answer": "sobering",
+    "optionWordIds": [
+      "w0275",
+      "w0406",
+      "w0239",
+      "w0102"
+    ],
+    "difficulty": "medium",
+    "hint": "意识到这并不是新问题，就会使人冷静严肃起来。"
+  },
+  {
+    "id": "q0407",
+    "wordId": "w0407",
+    "questionType": "cloze",
+    "question": "Children from certain backgrounds tend to be ______ by their teachers.",
+    "answer": "stereotype",
+    "optionWordIds": [
+      "w0402",
+      "w0114",
+      "w0407",
+      "w0375"
+    ],
+    "difficulty": "medium",
+    "hint": "教师往往刻板地根据学生的某些背景把他们归为某一类学生。"
+  },
+  {
+    "id": "q0408",
+    "wordId": "w0408",
+    "questionType": "cloze",
+    "question": "The streets of the Old City are narrow and ______.",
+    "answer": "labyrinthine",
+    "optionWordIds": [
+      "w0408",
+      "w0469",
+      "w0346",
+      "w0111"
+    ],
+    "difficulty": "medium",
+    "hint": "老城区的街道狭促曲折，好似迷宫一般"
+  },
+  {
+    "id": "q0409",
+    "wordId": "w0409",
+    "questionType": "cloze",
+    "question": "Commercial bribery direct purpose is to facilitate transactions that sell goods or purchase ______.",
+    "answer": "merchandise",
+    "optionWordIds": [
+      "w0361",
+      "w0409",
+      "w0014",
+      "w0262"
+    ],
+    "difficulty": "medium",
+    "hint": "商业贿赂的直接目的是促成交易，即推销商品或者购买商品。"
+  },
+  {
+    "id": "q0410",
+    "wordId": "w0410",
+    "questionType": "cloze",
+    "question": "Both of them died in ______ poverty.",
+    "answer": "abject",
+    "optionWordIds": [
+      "w0268",
+      "w0410",
+      "w0156",
+      "w0052"
+    ],
+    "difficulty": "medium",
+    "hint": "他们两人都于穷困潦倒中死去。"
+  },
+  {
+    "id": "q0411",
+    "wordId": "w0411",
+    "questionType": "cloze",
+    "question": "They ______ the ceasefire agreement.",
+    "answer": "violate",
+    "optionWordIds": [
+      "w0411",
+      "w0095",
+      "w0069",
+      "w0085"
+    ],
+    "difficulty": "medium",
+    "hint": "他们违反了停火协议。"
+  },
+  {
+    "id": "q0412",
+    "wordId": "w0412",
+    "questionType": "cloze",
+    "question": "They ______ at a short distance from the house.",
+    "answer": "halt",
+    "optionWordIds": [
+      "w0412",
+      "w0407",
+      "w0299",
+      "w0063"
+    ],
+    "difficulty": "medium",
+    "hint": "他们在离房子不远处停了下来。"
+  },
+  {
+    "id": "q0413",
+    "wordId": "w0413",
+    "questionType": "cloze",
+    "question": "The branches were ______ in the wind.",
+    "answer": "sway",
+    "optionWordIds": [
+      "w0269",
+      "w0130",
+      "w0413",
+      "w0034"
+    ],
+    "difficulty": "medium",
+    "hint": "树枝在风中摇曳。"
+  },
+  {
+    "id": "q0414",
+    "wordId": "w0414",
+    "questionType": "cloze",
+    "question": "She had dared to cast a ______ on his character.",
+    "answer": "slur",
+    "optionWordIds": [
+      "w0400",
+      "w0440",
+      "w0088",
+      "w0414"
+    ],
+    "difficulty": "medium",
+    "hint": "她竟敢对他的人品加以诋毁。"
+  },
+  {
+    "id": "q0415",
+    "wordId": "w0415",
+    "questionType": "cloze",
+    "question": "Her writing style was ______ of ancient classical writers .",
+    "answer": "reminiscent",
+    "optionWordIds": [
+      "w0432",
+      "w0415",
+      "w0192",
+      "w0463"
+    ],
+    "difficulty": "medium",
+    "hint": "她的写作风格使人联想到古代的古典作家。"
+  },
+  {
+    "id": "q0416",
+    "wordId": "w0416",
+    "questionType": "cloze",
+    "question": "The aim was to ______ speculators and impress creditors.",
+    "answer": "bludgeon",
+    "optionWordIds": [
+      "w0167",
+      "w0091",
+      "w0099",
+      "w0416"
+    ],
+    "difficulty": "medium",
+    "hint": "目标是要打击投机倒把并让债权人留下深刻印象。"
+  },
+  {
+    "id": "q0417",
+    "wordId": "w0417",
+    "questionType": "cloze",
+    "question": "As people grow older, they begin to ______ on the uncertainty of life.",
+    "answer": "ruminate",
+    "optionWordIds": [
+      "w0008",
+      "w0417",
+      "w0374",
+      "w0393"
+    ],
+    "difficulty": "medium",
+    "hint": "随着年龄的增长, 人们开始对生活的变化无常冥思苦想."
+  },
+  {
+    "id": "q0418",
+    "wordId": "w0418",
+    "questionType": "cloze",
+    "question": "During October 1918 the Austro- Hungarian Empire began to ______ e.",
+    "answer": "disintegrate",
+    "optionWordIds": [
+      "w0418",
+      "w0186",
+      "w0392",
+      "w0470"
+    ],
+    "difficulty": "medium",
+    "hint": "在1918年10月间，奥匈帝国开始瓦解"
+  },
+  {
+    "id": "q0419",
+    "wordId": "w0419",
+    "questionType": "cloze",
+    "question": "This is an ______ management training scheme for graduates.",
+    "answer": "elaborate",
+    "optionWordIds": [
+      "w0268",
+      "w0245",
+      "w0231",
+      "w0419"
+    ],
+    "difficulty": "medium",
+    "hint": "这是一份针对毕业生的详尽的管理培训计划。"
+  },
+  {
+    "id": "q0420",
+    "wordId": "w0420",
+    "questionType": "cloze",
+    "question": "The gross national product were seen as a ______ of buicks, chickens, shirts, and diaper services.",
+    "answer": "hodgepodge",
+    "optionWordIds": [
+      "w0122",
+      "w0420",
+      "w0307",
+      "w0483"
+    ],
+    "difficulty": "medium",
+    "hint": "把国民生产总值看成是别克牌汽车，小鸡，衬衫和织补服务等的大杂烩。"
+  },
+  {
+    "id": "q0421",
+    "wordId": "w0421",
+    "questionType": "cloze",
+    "question": "Such a move is rare, but not ______",
+    "answer": "unprecedented",
+    "optionWordIds": [
+      "w0093",
+      "w0027",
+      "w0112",
+      "w0421"
+    ],
+    "difficulty": "medium",
+    "hint": "这种做法很罕见，但也不是没有先例的"
+  },
+  {
+    "id": "q0422",
+    "wordId": "w0422",
+    "questionType": "cloze",
+    "question": "He is a reclusive, ______ creature.",
+    "answer": "timorous",
+    "optionWordIds": [
+      "w0020",
+      "w0422",
+      "w0021",
+      "w0093"
+    ],
+    "difficulty": "medium",
+    "hint": "他是个离群索居、胆小羞怯的家伙。"
+  },
+  {
+    "id": "q0423",
+    "wordId": "w0423",
+    "questionType": "cloze",
+    "question": "Do not ______ when your enemy falls.",
+    "answer": "gloat",
+    "optionWordIds": [
+      "w0077",
+      "w0323",
+      "w0423",
+      "w0035"
+    ],
+    "difficulty": "medium",
+    "hint": "不要因为敌人的失败而幸灾乐祸。"
+  },
+  {
+    "id": "q0424",
+    "wordId": "w0424",
+    "questionType": "cloze",
+    "question": "The book is a gem of Victorian ______.",
+    "answer": "idiosyncrasy",
+    "optionWordIds": [
+      "w0424",
+      "w0360",
+      "w0379",
+      "w0337"
+    ],
+    "difficulty": "medium",
+    "hint": "这本书展现了维多利亚时代特质的精华"
+  },
+  {
+    "id": "q0425",
+    "wordId": "w0425",
+    "questionType": "definition",
+    "question": "Choose the word that means: a measure around a body",
+    "answer": "girth",
+    "optionWordIds": [
+      "w0425",
+      "w0440",
+      "w0028",
+      "w0056"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": "q0426",
+    "wordId": "w0426",
+    "questionType": "cloze",
+    "question": "The local people are very ______ to strangers.",
+    "answer": "hospitable",
+    "optionWordIds": [
+      "w0219",
+      "w0426",
+      "w0485",
+      "w0039"
+    ],
+    "difficulty": "medium",
+    "hint": "当地人对外来客人十分友好热情。"
+  },
+  {
+    "id": "q0427",
+    "wordId": "w0427",
+    "questionType": "definition",
+    "question": "Choose the word that means: ancestor, forefather",
+    "answer": "forebear",
+    "optionWordIds": [
+      "w0071",
+      "w0146",
+      "w0256",
+      "w0427"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": "q0428",
+    "wordId": "w0428",
+    "questionType": "cloze",
+    "question": "It reflects a ______ worry in the Arab world about the state of the language.",
+    "answer": "perennial",
+    "optionWordIds": [
+      "w0232",
+      "w0428",
+      "w0310",
+      "w0198"
+    ],
+    "difficulty": "medium",
+    "hint": "它反映了长久以来对阿拉伯语世界内关于该语言现状的担忧。"
+  },
+  {
+    "id": "q0429",
+    "wordId": "w0429",
+    "questionType": "cloze",
+    "question": "The economy shows no signs of ______.",
+    "answer": "falter",
+    "optionWordIds": [
+      "w0077",
+      "w0038",
+      "w0475",
+      "w0429"
+    ],
+    "difficulty": "medium",
+    "hint": "经济没有衰退的迹象。"
+  },
+  {
+    "id": "q0430",
+    "wordId": "w0430",
+    "questionType": "cloze",
+    "question": "His awkwardness made him ______ with the key.",
+    "answer": "fumble",
+    "optionWordIds": [
+      "w0430",
+      "w0335",
+      "w0261",
+      "w0470"
+    ],
+    "difficulty": "medium",
+    "hint": "由于尴尬不安，他拿钥匙开锁时显得笨手笨脚。"
+  },
+  {
+    "id": "q0431",
+    "wordId": "w0431",
+    "questionType": "cloze",
+    "question": "The whole speech was ______ nonsense.",
+    "answer": "platitudinous",
+    "optionWordIds": [
+      "w0431",
+      "w0086",
+      "w0356",
+      "w0329"
+    ],
+    "difficulty": "medium",
+    "hint": "整篇讲话都是陈谷子烂芝麻。"
+  },
+  {
+    "id": "q0432",
+    "wordId": "w0432",
+    "questionType": "cloze",
+    "question": "Girls who have always been at a ______ school know how to stand up for themselves.",
+    "answer": "mixed",
+    "optionWordIds": [
+      "w0432",
+      "w0111",
+      "w0480",
+      "w0285"
+    ],
+    "difficulty": "medium",
+    "hint": "一直在男女混合学校上学的女孩子们知道如何自我保护。"
+  },
+  {
+    "id": "q0433",
+    "wordId": "w0433",
+    "questionType": "cloze",
+    "question": "The government appears to be in a ______ about what to do with so many people.",
+    "answer": "quandary",
+    "optionWordIds": [
+      "w0012",
+      "w0066",
+      "w0096",
+      "w0433"
+    ],
+    "difficulty": "medium",
+    "hint": "政府似乎陷入了左右为难的境地，不知道该拿这么多人怎么办。"
+  },
+  {
+    "id": "q0434",
+    "wordId": "w0434",
+    "questionType": "cloze",
+    "question": "Refugees crossed the border in full ______.",
+    "answer": "spate",
+    "optionWordIds": [
+      "w0467",
+      "w0434",
+      "w0424",
+      "w0105"
+    ],
+    "difficulty": "medium",
+    "hint": "大量的难民越过了边境。"
+  },
+  {
+    "id": "q0435",
+    "wordId": "w0435",
+    "questionType": "definition",
+    "question": "Choose the word that means: simple and plain",
+    "answer": "frugal",
+    "optionWordIds": [
+      "w0328",
+      "w0207",
+      "w0435",
+      "w0199"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": "q0436",
+    "wordId": "w0436",
+    "questionType": "cloze",
+    "question": "Winston was not a ______ man.",
+    "answer": "stingy",
+    "optionWordIds": [
+      "w0157",
+      "w0180",
+      "w0404",
+      "w0436"
+    ],
+    "difficulty": "medium",
+    "hint": "温斯顿不是个小气之人"
+  },
+  {
+    "id": "q0437",
+    "wordId": "w0437",
+    "questionType": "cloze",
+    "question": "We could have done better under more ______ conditions.",
+    "answer": "favorable",
+    "optionWordIds": [
+      "w0321",
+      "w0292",
+      "w0196",
+      "w0437"
+    ],
+    "difficulty": "medium",
+    "hint": "在更有利的条件下我们还可以做得更好"
+  },
+  {
+    "id": "q0438",
+    "wordId": "w0438",
+    "questionType": "cloze",
+    "question": "Part of an editor's job is to ______",
+    "answer": "nitpick",
+    "optionWordIds": [
+      "w0271",
+      "w0304",
+      "w0439",
+      "w0438"
+    ],
+    "difficulty": "medium",
+    "hint": "writing flaws. 编辑的职责之一是仔细挑出写作瑕疵。"
+  },
+  {
+    "id": "q0439",
+    "wordId": "w0439",
+    "questionType": "cloze",
+    "question": "The war did not ______ him from the p ath he had long ago taken.",
+    "answer": "deflect",
+    "optionWordIds": [
+      "w0265",
+      "w0270",
+      "w0439",
+      "w0385"
+    ],
+    "difficulty": "medium",
+    "hint": "战争并没有使他放弃自己很久以前就选择的道路。"
+  },
+  {
+    "id": "q0440",
+    "wordId": "w0440",
+    "questionType": "cloze",
+    "question": "In most stories, ______ often have magical powers.",
+    "answer": "dwarf",
+    "optionWordIds": [
+      "w0440",
+      "w0257",
+      "w0080",
+      "w0343"
+    ],
+    "difficulty": "medium",
+    "hint": "在大部分的故事中，小矮人有神奇魔法"
+  },
+  {
+    "id": "q0441",
+    "wordId": "w0441",
+    "questionType": "cloze",
+    "question": "Currently, the only ______ to the power of the capital is the supreme political power.",
+    "answer": "counterforce",
+    "optionWordIds": [
+      "w0254",
+      "w0441",
+      "w0442",
+      "w0455"
+    ],
+    "difficulty": "medium",
+    "hint": "目前在中国能够对抗资本强大力量的只有最高的政治权利。"
+  },
+  {
+    "id": "q0442",
+    "wordId": "w0442",
+    "questionType": "cloze",
+    "question": "In its ______, the studio's boast was that it had more stars than there are in heaven.",
+    "answer": "heyday",
+    "optionWordIds": [
+      "w0460",
+      "w0442",
+      "w0151",
+      "w0287"
+    ],
+    "difficulty": "medium",
+    "hint": "在其全盛时期，该制片公司夸口说，他们旗下的明星比天上的星星还要多。"
+  },
+  {
+    "id": "q0443",
+    "wordId": "w0443",
+    "questionType": "cloze",
+    "question": "Blood began to ______ around the edges of the wound.",
+    "answer": "coagulate",
+    "optionWordIds": [
+      "w0173",
+      "w0265",
+      "w0443",
+      "w0452"
+    ],
+    "difficulty": "medium",
+    "hint": "血液开始在伤口的边缘凝固。"
+  },
+  {
+    "id": "q0444",
+    "wordId": "w0444",
+    "questionType": "cloze",
+    "question": "My ______ neighbor had given away the secret.",
+    "answer": "garrulous",
+    "optionWordIds": [
+      "w0017",
+      "w0444",
+      "w0168",
+      "w0494"
+    ],
+    "difficulty": "medium",
+    "hint": "我那喋喋不休的邻居已把秘密泄露了。"
+  },
+  {
+    "id": "q0445",
+    "wordId": "w0445",
+    "questionType": "cloze",
+    "question": "The nature of a state is a social man rather than an economic man, with a ______ of being both self-interested and altruistic.",
+    "answer": "dualism",
+    "optionWordIds": [
+      "w0202",
+      "w0445",
+      "w0334",
+      "w0320"
+    ],
+    "difficulty": "medium",
+    "hint": "国家的本性不是经济人，而是社会人，具有利己和利他的双重性。"
+  },
+  {
+    "id": "q0446",
+    "wordId": "w0446",
+    "questionType": "cloze",
+    "question": "You might use a yellow ______ to improve the clarity of a hazy horizon.",
+    "answer": "filter",
+    "optionWordIds": [
+      "w0446",
+      "w0474",
+      "w0427",
+      "w0441"
+    ],
+    "difficulty": "medium",
+    "hint": "可以使用黄色滤光器让模糊的视野更加清晰。"
+  },
+  {
+    "id": "q0447",
+    "wordId": "w0447",
+    "questionType": "cloze",
+    "question": "He looked at the two ladies with an ______ air.",
+    "answer": "obsequious",
+    "optionWordIds": [
+      "w0020",
+      "w0419",
+      "w0447",
+      "w0165"
+    ],
+    "difficulty": "medium",
+    "hint": "他看着两位太太，满脸谄媚的神情."
+  },
+  {
+    "id": "q0448",
+    "wordId": "w0448",
+    "questionType": "cloze",
+    "question": "The breakdown in talks represents a temporary ______ in the peace process.",
+    "answer": "setback",
+    "optionWordIds": [
+      "w0117",
+      "w0448",
+      "w0483",
+      "w0175"
+    ],
+    "difficulty": "medium",
+    "hint": "谈判破裂意味着和平进程暂时受阻。"
+  },
+  {
+    "id": "q0449",
+    "wordId": "w0449",
+    "questionType": "cloze",
+    "question": "Her ______ response itself is now a driver in this financial crisis, and people will rightly blame her for any serious accident.",
+    "answer": "phlegmatic",
+    "optionWordIds": [
+      "w0190",
+      "w0108",
+      "w0310",
+      "w0449"
+    ],
+    "difficulty": "medium",
+    "hint": "默克尔冷漠反应的本身，如今就是此次金融危机的舵手，如果出现重大事故，人们责备她也理所应当。"
+  },
+  {
+    "id": "q0450",
+    "wordId": "w0450",
+    "questionType": "cloze",
+    "question": "The family are rich, and extremely sop histicated and ______.",
+    "answer": "cosmopolitan",
+    "optionWordIds": [
+      "w0469",
+      "w0450",
+      "w0124",
+      "w0052"
+    ],
+    "difficulty": "medium",
+    "hint": "这家人很富有，老于世故，而且见多识广。"
+  },
+  {
+    "id": "q0451",
+    "wordId": "w0451",
+    "questionType": "cloze",
+    "question": "Products should be designed to meet the ______ standards of today's marketplace.",
+    "answer": "exacting",
+    "optionWordIds": [
+      "w0282",
+      "w0288",
+      "w0451",
+      "w0478"
+    ],
+    "difficulty": "medium",
+    "hint": "产品的涉及应当符合当今市场严格的标准。"
+  },
+  {
+    "id": "q0452",
+    "wordId": "w0452",
+    "questionType": "cloze",
+    "question": "We should not ______ anyone.",
+    "answer": "apotheosize",
+    "optionWordIds": [
+      "w0387",
+      "w0258",
+      "w0452",
+      "w0407"
+    ],
+    "difficulty": "medium",
+    "hint": "我们不应该神化任何人。"
+  },
+  {
+    "id": "q0453",
+    "wordId": "w0453",
+    "questionType": "cloze",
+    "question": "They need 12 votes to ______ his veto.",
+    "answer": "override",
+    "optionWordIds": [
+      "w0172",
+      "w0099",
+      "w0402",
+      "w0453"
+    ],
+    "difficulty": "medium",
+    "hint": "他们需要12票来推翻他的否决。"
+  },
+  {
+    "id": "q0454",
+    "wordId": "w0454",
+    "questionType": "cloze",
+    "question": "The young surgeon ______ the difficult operation of kidney transplant.",
+    "answer": "contemplate",
+    "optionWordIds": [
+      "w0405",
+      "w0005",
+      "w0454",
+      "w0085"
+    ],
+    "difficulty": "medium",
+    "hint": "年轻的外科医生为肾移植这一棘手的手术苦思冥想。"
+  },
+  {
+    "id": "q0455",
+    "wordId": "w0455",
+    "questionType": "cloze",
+    "question": "The attack wasn't just a ______ of my i magination.",
+    "answer": "figment",
+    "optionWordIds": [
+      "w0254",
+      "w0161",
+      "w0486",
+      "w0455"
+    ],
+    "difficulty": "medium",
+    "hint": "袭击可不是我凭空想象出来的。"
+  },
+  {
+    "id": "q0456",
+    "wordId": "w0456",
+    "questionType": "cloze",
+    "question": "The press has been blamed for ______ into people's personal lives in an unacceptable way.",
+    "answer": "intrude",
+    "optionWordIds": [
+      "w0443",
+      "w0456",
+      "w0258",
+      "w0011"
+    ],
+    "difficulty": "medium",
+    "hint": "新闻媒体因以一种令人无法接受的方式侵入人们的私生活而受到谴责。"
+  },
+  {
+    "id": "q0457",
+    "wordId": "w0457",
+    "questionType": "cloze",
+    "question": "Exports are ______ and the trade de ficit is swelling.",
+    "answer": "dwindle",
+    "optionWordIds": [
+      "w0230",
+      "w0457",
+      "w0158",
+      "w0243"
+    ],
+    "difficulty": "medium",
+    "hint": "出口在缩减，贸易赤字在增长。"
+  },
+  {
+    "id": "q0458",
+    "wordId": "w0458",
+    "questionType": "cloze",
+    "question": "She ______ him with the facts surrounding the case.",
+    "answer": "furnish",
+    "optionWordIds": [
+      "w0229",
+      "w0126",
+      "w0458",
+      "w0120"
+    ],
+    "difficulty": "medium",
+    "hint": "她向他提供了与案件有关的事实。"
+  },
+  {
+    "id": "q0459",
+    "wordId": "w0459",
+    "questionType": "cloze",
+    "question": "The incidents have not yet caused a major ______ in the political ties",
+    "answer": "rupture",
+    "optionWordIds": [
+      "w0313",
+      "w0338",
+      "w0272",
+      "w0459"
+    ],
+    "difficulty": "medium",
+    "hint": "between countries.这些事件尚未造成各国间政治联系的严重破裂。"
+  },
+  {
+    "id": "q0460",
+    "wordId": "w0460",
+    "questionType": "cloze",
+    "question": "The church seems to be on the brink of ______.",
+    "answer": "schism",
+    "optionWordIds": [
+      "w0460",
+      "w0139",
+      "w0153",
+      "w0307"
+    ],
+    "difficulty": "medium",
+    "hint": "教会似乎处于分裂的边缘。"
+  },
+  {
+    "id": "q0461",
+    "wordId": "w0461",
+    "questionType": "cloze",
+    "question": "His family ______ with him.",
+    "answer": "expostulate",
+    "optionWordIds": [
+      "w0130",
+      "w0194",
+      "w0439",
+      "w0461"
+    ],
+    "difficulty": "medium",
+    "hint": "家人和他意见相左。"
+  },
+  {
+    "id": "q0462",
+    "wordId": "w0462",
+    "questionType": "cloze",
+    "question": "There was an ______ silence at the other end of the phone",
+    "answer": "ominous",
+    "optionWordIds": [
+      "w0245",
+      "w0027",
+      "w0462",
+      "w0317"
+    ],
+    "difficulty": "medium",
+    "hint": "电话那头出现了不祥的沉默。"
+  },
+  {
+    "id": "q0463",
+    "wordId": "w0463",
+    "questionType": "cloze",
+    "question": "This ______ building lies in the center of town.",
+    "answer": "grand",
+    "optionWordIds": [
+      "w0394",
+      "w0027",
+      "w0463",
+      "w0064"
+    ],
+    "difficulty": "medium",
+    "hint": "这幢宏伟建筑位于市中心。"
+  },
+  {
+    "id": "q0464",
+    "wordId": "w0464",
+    "questionType": "cloze",
+    "question": "The issue raises a moral ______.",
+    "answer": "dilemma",
+    "optionWordIds": [
+      "w0464",
+      "w0236",
+      "w0210",
+      "w0088"
+    ],
+    "difficulty": "medium",
+    "hint": "这个问题引发了一个道德上的两难抉择"
+  },
+  {
+    "id": "q0465",
+    "wordId": "w0465",
+    "questionType": "cloze",
+    "question": "He is a ______ fighter.",
+    "answer": "pugnacious",
+    "optionWordIds": [
+      "w0485",
+      "w0465",
+      "w0199",
+      "w0192"
+    ],
+    "difficulty": "medium",
+    "hint": "他是个好斗的战士。"
+  },
+  {
+    "id": "q0466",
+    "wordId": "w0466",
+    "questionType": "cloze",
+    "question": "These young men ______ financial success.",
+    "answer": "deify",
+    "optionWordIds": [
+      "w0099",
+      "w0376",
+      "w0438",
+      "w0466"
+    ],
+    "difficulty": "medium",
+    "hint": "这些年轻人崇拜财务上的成功。"
+  },
+  {
+    "id": "q0467",
+    "wordId": "w0467",
+    "questionType": "cloze",
+    "question": "People are not tolerant of extra-marital ______ by public figures.",
+    "answer": "peccadillo",
+    "optionWordIds": [
+      "w0251",
+      "w0467",
+      "w0061",
+      "w0152"
+    ],
+    "difficulty": "medium",
+    "hint": "人们不能容忍公众人物婚外过失。"
+  },
+  {
+    "id": "q0468",
+    "wordId": "w0468",
+    "questionType": "cloze",
+    "question": "They entered the shop, which was a curious ______ building.",
+    "answer": "ramshackle",
+    "optionWordIds": [
+      "w0468",
+      "w0356",
+      "w0141",
+      "w0092"
+    ],
+    "difficulty": "medium",
+    "hint": "他们进了商店，那是幢破烂不堪的奇特建筑。"
+  },
+  {
+    "id": "q0469",
+    "wordId": "w0469",
+    "questionType": "cloze",
+    "question": "He was ______ to fall asleep after supper.",
+    "answer": "wont",
+    "optionWordIds": [
+      "w0469",
+      "w0384",
+      "w0111",
+      "w0410"
+    ],
+    "difficulty": "medium",
+    "hint": "他习惯吃完晚饭就打盹。"
+  },
+  {
+    "id": "q0470",
+    "wordId": "w0470",
+    "questionType": "cloze",
+    "question": "Trevor Steven ______ them to delay their departure.",
+    "answer": "entreat",
+    "optionWordIds": [
+      "w0018",
+      "w0389",
+      "w0470",
+      "w0045"
+    ],
+    "difficulty": "medium",
+    "hint": "弗·史蒂文恳求他们晚点走。"
+  },
+  {
+    "id": "q0471",
+    "wordId": "w0471",
+    "questionType": "cloze",
+    "question": "You will make it if you have ______ determination.",
+    "answer": "unfaltering",
+    "optionWordIds": [
+      "w0471",
+      "w0275",
+      "w0495",
+      "w0281"
+    ],
+    "difficulty": "medium",
+    "hint": "如果你有坚定的决心，你就一定会成功！"
+  },
+  {
+    "id": "q0472",
+    "wordId": "w0472",
+    "questionType": "cloze",
+    "question": "Alum will settle ______ water.",
+    "answer": "turbid",
+    "optionWordIds": [
+      "w0339",
+      "w0083",
+      "w0353",
+      "w0472"
+    ],
+    "difficulty": "medium",
+    "hint": "明矾可以澄清浊水。"
+  },
+  {
+    "id": "q0473",
+    "wordId": "w0473",
+    "questionType": "cloze",
+    "question": "He did not allow his ______ to compromise his scientific work.",
+    "answer": "preconception",
+    "optionWordIds": [
+      "w0358",
+      "w0313",
+      "w0154",
+      "w0473"
+    ],
+    "difficulty": "medium",
+    "hint": "他不允许自己的先入之见破坏自己的科学工作。"
+  },
+  {
+    "id": "q0474",
+    "wordId": "w0474",
+    "questionType": "definition",
+    "question": "Choose the word that means: excess, superfluity",
+    "answer": "plethora",
+    "optionWordIds": [
+      "w0224",
+      "w0474",
+      "w0331",
+      "w0211"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": "q0475",
+    "wordId": "w0475",
+    "questionType": "definition",
+    "question": "Choose the word that means: to affirm or declare positively or earnestly",
+    "answer": "asseverate",
+    "optionWordIds": [
+      "w0126",
+      "w0417",
+      "w0475",
+      "w0387"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": "q0476",
+    "wordId": "w0476",
+    "questionType": "cloze",
+    "question": "Our president took an ______ approach to differences.",
+    "answer": "emollient",
+    "optionWordIds": [
+      "w0476",
+      "w0484",
+      "w0128",
+      "w0406"
+    ],
+    "difficulty": "medium",
+    "hint": "我的总统对分歧采取安抚策略。"
+  },
+  {
+    "id": "q0477",
+    "wordId": "w0477",
+    "questionType": "cloze",
+    "question": "The slight change in the taste was ______ to most people.",
+    "answer": "imperceptible",
+    "optionWordIds": [
+      "w0147",
+      "w0477",
+      "w0406",
+      "w0318"
+    ],
+    "difficulty": "medium",
+    "hint": "这种味道的细微变化对大多数人而言是无法觉察的。"
+  },
+  {
+    "id": "q0478",
+    "wordId": "w0478",
+    "questionType": "definition",
+    "question": "Choose the word that means: genetically or innately determined",
+    "answer": "hardwired",
+    "optionWordIds": [
+      "w0421",
+      "w0436",
+      "w0478",
+      "w0336"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": "q0479",
+    "wordId": "w0479",
+    "questionType": "cloze",
+    "question": "Steel in this class is tough, ______ and easily machined.",
+    "answer": "ductile",
+    "optionWordIds": [
+      "w0325",
+      "w0197",
+      "w0479",
+      "w0053"
+    ],
+    "difficulty": "medium",
+    "hint": "这种钢强韧, 延展性好,而且容易加工。"
+  },
+  {
+    "id": "q0480",
+    "wordId": "w0480",
+    "questionType": "cloze",
+    "question": "The wedding will be a very ______ affair.",
+    "answer": "low-key",
+    "optionWordIds": [
+      "w0352",
+      "w0228",
+      "w0039",
+      "w0480"
+    ],
+    "difficulty": "medium",
+    "hint": "这场婚礼将非常低调。"
+  },
+  {
+    "id": "q0481",
+    "wordId": "w0481",
+    "questionType": "cloze",
+    "question": "The soldiers ______ with him as though he was a kid brother.",
+    "answer": "banter",
+    "optionWordIds": [
+      "w0154",
+      "w0266",
+      "w0357",
+      "w0481"
+    ],
+    "difficulty": "medium",
+    "hint": "士兵们把他当作弟弟一样和他开着玩笑"
+  },
+  {
+    "id": "q0482",
+    "wordId": "w0482",
+    "questionType": "cloze",
+    "question": "Time dulls the most exquisite emotions and softens the most ______ grief.",
+    "answer": "heartrending",
+    "optionWordIds": [
+      "w0485",
+      "w0089",
+      "w0345",
+      "w0482"
+    ],
+    "difficulty": "medium",
+    "hint": "时间会缓和最激烈的情感，减轻最伤心的悲痛."
+  },
+  {
+    "id": "q0483",
+    "wordId": "w0483",
+    "questionType": "cloze",
+    "question": "The poem conveys his deep ______ for nature.",
+    "answer": "reverence",
+    "optionWordIds": [
+      "w0483",
+      "w0249",
+      "w0300",
+      "w0146"
+    ],
+    "difficulty": "medium",
+    "hint": "这首诗表达了他对大自然的深深崇敬之情。"
+  },
+  {
+    "id": "q0484",
+    "wordId": "w0484",
+    "questionType": "cloze",
+    "question": "She made a ______ comment about the weather.",
+    "answer": "vapid",
+    "optionWordIds": [
+      "w0484",
+      "w0401",
+      "w0121",
+      "w0125"
+    ],
+    "difficulty": "medium",
+    "hint": "她对天气作了一番平淡无奇的评论。"
+  },
+  {
+    "id": "q0485",
+    "wordId": "w0485",
+    "questionType": "cloze",
+    "question": "He used ______ tone, chaotic style of painting showing extreme grief of our life.",
+    "answer": "dolorous",
+    "optionWordIds": [
+      "w0242",
+      "w0205",
+      "w0422",
+      "w0485"
+    ],
+    "difficulty": "medium",
+    "hint": "他以忧伤的色调，纷乱的笔触，表达出人生的最大悲痛。"
+  },
+  {
+    "id": "q0486",
+    "wordId": "w0486",
+    "questionType": "cloze",
+    "question": "He thought of New York as a den of ______.",
+    "answer": "iniquity",
+    "optionWordIds": [
+      "w0272",
+      "w0486",
+      "w0211",
+      "w0337"
+    ],
+    "difficulty": "medium",
+    "hint": "他把纽约视为罪恶的渊薮。"
+  },
+  {
+    "id": "q0487",
+    "wordId": "w0487",
+    "questionType": "definition",
+    "question": "Choose the word that means: widely acclaimed and highly honored",
+    "answer": "renowned",
+    "optionWordIds": [
+      "w0029",
+      "w0214",
+      "w0321",
+      "w0487"
+    ],
+    "difficulty": "medium"
+  },
+  {
+    "id": "q0488",
+    "wordId": "w0488",
+    "questionType": "cloze",
+    "question": "No country should claim ______ and each country should be prepared to re-examine its own attitudes for the common good.",
+    "answer": "infallibility",
+    "optionWordIds": [
+      "w0473",
+      "w0065",
+      "w0143",
+      "w0488"
+    ],
+    "difficulty": "medium",
+    "hint": "任何国家都不应自称一贯正确，各国都要准备为了共同的利益重新检查自己的态度。"
+  },
+  {
+    "id": "q0489",
+    "wordId": "w0489",
+    "questionType": "cloze",
+    "question": "It was one of the first ______ works to appeal to a wide audience.",
+    "answer": "avant-garde",
+    "optionWordIds": [
+      "w0489",
+      "w0386",
+      "w0210",
+      "w0331"
+    ],
+    "difficulty": "medium",
+    "hint": "这是受到听众广泛欢迎的第一批先锋派作品之一。"
+  },
+  {
+    "id": "q0490",
+    "wordId": "w0490",
+    "questionType": "cloze",
+    "question": "She gave him a look that made words ______.",
+    "answer": "superfluous",
+    "optionWordIds": [
+      "w0242",
+      "w0490",
+      "w0219",
+      "w0228"
+    ],
+    "difficulty": "medium",
+    "hint": "她看了他一眼，这已表明一切，无须多言了。"
+  },
+  {
+    "id": "q0491",
+    "wordId": "w0491",
+    "questionType": "cloze",
+    "question": "The ______ woman laughed loudly at the judge who sentenced her.",
+    "answer": "brazen",
+    "optionWordIds": [
+      "w0491",
+      "w0089",
+      "w0280",
+      "w0118"
+    ],
+    "difficulty": "medium",
+    "hint": "那无耻的女子冲着给她判刑的法官高声大笑。"
+  },
+  {
+    "id": "q0492",
+    "wordId": "w0492",
+    "questionType": "cloze",
+    "question": "The Moon Maiden is one of a number of ______ lunar inhabitants.",
+    "answer": "fanciful",
+    "optionWordIds": [
+      "w0390",
+      "w0182",
+      "w0492",
+      "w0098"
+    ],
+    "difficulty": "medium",
+    "hint": "嫦娥是人们臆造出来的诸多月球居住者之一。"
+  },
+  {
+    "id": "q0493",
+    "wordId": "w0493",
+    "questionType": "cloze",
+    "question": "The ______ economies of several southern African nations could be irreparably damaged.",
+    "answer": "fragile",
+    "optionWordIds": [
+      "w0493",
+      "w0010",
+      "w0369",
+      "w0040"
+    ],
+    "difficulty": "medium",
+    "hint": "一些南非国家的脆弱经济可能会被彻底破坏，无法挽回。"
+  },
+  {
+    "id": "q0494",
+    "wordId": "w0494",
+    "questionType": "cloze",
+    "question": "But on this question, the two leaders have very ______ differences.",
+    "answer": "fundamental",
+    "optionWordIds": [
+      "w0242",
+      "w0381",
+      "w0087",
+      "w0494"
+    ],
+    "difficulty": "medium",
+    "hint": "但在这个问题上，两位领导人有着根本性的分歧。"
+  },
+  {
+    "id": "q0495",
+    "wordId": "w0495",
+    "questionType": "cloze",
+    "question": "______ efforts had been made to improve conditions in the jail.",
+    "answer": "strenuous",
+    "optionWordIds": [
+      "w0268",
+      "w0495",
+      "w0471",
+      "w0408"
+    ],
+    "difficulty": "medium",
+    "hint": "为改善那家监狱里的条件已做了艰苦的努力。"
+  },
+  {
+    "id": "q0496",
+    "wordId": "w0496",
+    "questionType": "cloze",
+    "question": "The rhythm of the boat ______ her to sleep.",
+    "answer": "lull",
+    "optionWordIds": [
+      "w0496",
+      "w0397",
+      "w0363",
+      "w0330"
+    ],
+    "difficulty": "medium",
+    "hint": "小船有节奏的摇动将她送入了梦乡。"
+  },
+  {
+    "id": "q0497",
+    "wordId": "w0497",
+    "questionType": "cloze",
+    "question": "The princess looked ______ but later cheered up.",
+    "answer": "glum",
+    "optionWordIds": [
+      "w0239",
+      "w0141",
+      "w0112",
+      "w0497"
+    ],
+    "difficulty": "medium",
+    "hint": "公主看起来闷闷不乐，但后来又振作起来。"
+  },
+  {
+    "id": "q0498",
+    "wordId": "w0498",
+    "questionType": "cloze",
+    "question": "There is nothing like a rise in daily expenses to make people ______, but this is a particular problem in China.",
+    "answer": "grumble",
+    "optionWordIds": [
+      "w0498",
+      "w0186",
+      "w0395",
+      "w0225"
+    ],
+    "difficulty": "medium",
+    "hint": "没有什么比日常开销增大更能引起人们的抱怨，不过在中国，这个问题有所不同。"
+  },
+  {
+    "id": "q0499",
+    "wordId": "w0499",
+    "questionType": "cloze",
+    "question": "The door of the old church was ______ with decorations.",
+    "answer": "embellish",
+    "optionWordIds": [
+      "w0499",
+      "w0023",
+      "w0024",
+      "w0438"
+    ],
+    "difficulty": "medium",
+    "hint": "老教堂的门是用雕饰美化的。"
+  },
+  {
+    "id": "q0500",
+    "wordId": "w0500",
+    "questionType": "cloze",
+    "question": "The boy first showed ______ as an athlete in grade school.",
+    "answer": "promise",
+    "optionWordIds": [
+      "w0326",
+      "w0065",
+      "w0257",
+      "w0500"
+    ],
+    "difficulty": "medium",
+    "hint": "这个男孩最初是在小学显示出成为一名成功的运动员的迹象。"
+  }
+]

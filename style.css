@@ -1,0 +1,141 @@
+/* ===== Base ===== */
+body { font-family: Arial, sans-serif; margin: 0; background: #f7f9fc; color: #222; }
+header { background: #1f4e79; color: white; padding: 20px; text-align: center; }
+nav { margin-top: 10px; }
+nav button {
+  margin: 5px; padding: 10px 16px; border: none; border-radius: 8px;
+  cursor: pointer; background: white; color: #1f4e79; font-weight: bold;
+  transition: background 0.2s;
+}
+nav button:hover { background: #d6e4f0; }
+nav button.nav-active { background: #ffc107; color: #1f4e79; }
+main { max-width: 900px; margin: 30px auto; padding: 20px; }
+.section { display: none; background: white; padding: 20px; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.08); }
+.section.active { display: block; }
+
+/* ===== Home Stats ===== */
+.data-source { font-size: 13px; color: #888; margin-top: 8px; padding: 8px 12px; background: #f0f5fa; border-radius: 6px; display: inline-block; }
+.data-source strong { color: #1f4e79; }
+.stats-overview { display: flex; gap: 12px; margin-top: 20px; flex-wrap: wrap; }
+.stat-card { flex: 1; min-width: 100px; background: #f0f5fa; border-radius: 10px; padding: 16px; text-align: center; }
+.stat-number { font-size: 28px; font-weight: bold; color: #1f4e79; }
+.stat-number.stat-wrong { color: #e53935; }
+.stat-number.stat-correct { color: #2e7d32; }
+.stat-label { margin-top: 4px; font-size: 13px; color: #666; }
+
+/* ===== Practice Settings ===== */
+.practice-settings { background: #f8f9fb; border: 1px solid #e0e0e0; border-radius: 10px; padding: 14px; margin-bottom: 16px; }
+.setting-row { display: flex; align-items: center; gap: 10px; margin-bottom: 8px; flex-wrap: wrap; }
+.setting-row:last-child { margin-bottom: 0; }
+.setting-row label { font-weight: bold; min-width: 70px; font-size: 14px; color: #444; }
+.setting-row select {
+  padding: 6px 10px; border: 1px solid #ccc; border-radius: 6px;
+  font-size: 14px; background: white; cursor: pointer;
+}
+.practice-mode-toggle { display: flex; gap: 6px; flex-wrap: wrap; }
+.practice-mode-toggle button {
+  padding: 6px 14px; border: 2px solid #1f4e79; border-radius: 8px;
+  background: white; color: #1f4e79; font-weight: bold; font-size: 13px;
+  cursor: pointer; transition: background 0.2s;
+}
+.practice-mode-toggle button:hover { background: #eef4ff; }
+.practice-mode-toggle button.practice-mode-active { background: #1f4e79; color: white; }
+
+/* ===== Progress Bar ===== */
+.progress-bar { height: 6px; background: #e0e0e0; border-radius: 3px; margin-bottom: 8px; overflow: hidden; }
+.progress-fill { height: 100%; background: #1f4e79; border-radius: 3px; transition: width 0.3s; width: 0; }
+.question-counter { font-size: 13px; color: #888; margin-bottom: 12px; }
+
+/* ===== Question Type Badges & Hints ===== */
+.q-type-badge { display: inline-block; padding: 3px 10px; font-size: 11px; font-weight: bold; border-radius: 4px; margin-bottom: 8px; text-transform: uppercase; letter-spacing: 0.5px; }
+.cloze-badge { background: #e3f2fd; color: #1565c0; }
+.def-badge { background: #f3e5f5; color: #7b1fa2; }
+.cloze-hint { margin-top: 6px; font-size: 14px; }
+.hint-toggle { padding: 4px 12px; border: 1px solid #90caf9; border-radius: 6px; background: #e3f2fd; color: #1565c0; font-size: 12px; cursor: pointer; font-weight: bold; }
+.hint-toggle:hover { background: #bbdefb; }
+
+/* ===== Example Sentences ===== */
+.example-sentence { font-style: italic; color: #555; margin-top: 4px; font-size: 14px; }
+.example-sentence-zh { color: #888; font-size: 13px; margin-top: 2px; }
+
+/* ===== Practice Options ===== */
+#optionsContainer button {
+  display: block; width: 100%; margin: 8px 0; padding: 12px; text-align: left;
+  border: 2px solid #ccc; border-radius: 8px; background: #fdfdfd;
+  cursor: pointer; font-size: 16px; transition: border-color 0.2s, background 0.2s;
+}
+#optionsContainer button:hover:not(:disabled) { background: #eef4ff; border-color: #1f4e79; }
+#optionsContainer button:disabled { cursor: default; opacity: 0.85; }
+#optionsContainer button.option-correct { border-color: #4caf50; background: #e8f5e9; }
+#optionsContainer button.option-wrong { border-color: #e53935; background: #ffebee; }
+#nextQuestionBtn {
+  margin-top: 15px; padding: 10px 20px; border: none; border-radius: 8px;
+  background: #1f4e79; color: white; font-weight: bold; cursor: pointer; font-size: 15px;
+}
+#nextQuestionBtn:hover { background: #163a5c; }
+
+/* ===== Result Boxes ===== */
+.result-box { margin-top: 20px; padding: 15px; border-radius: 10px; }
+.result-correct { background: #e8f5e9; border-left: 4px solid #4caf50; }
+.result-wrong { background: #fff8e1; border-left: 4px solid #ff9800; }
+.correct { color: #2e7d32; font-weight: bold; }
+.wrong { color: #c62828; font-weight: bold; }
+.explanation-item { padding: 8px 10px; margin: 6px 0; border-radius: 6px; background: #fafafa; }
+.explanation-correct { background: #e8f5e9; border-left: 3px solid #4caf50; }
+.correct-badge { display: inline-block; padding: 2px 8px; font-size: 12px; background: #4caf50; color: white; border-radius: 4px; margin-left: 6px; }
+.wrong-count-note { margin-top: 12px; color: #e65100; }
+
+/* ===== Word Bank Controls ===== */
+.wordbank-controls { margin-bottom: 12px; }
+#wordBankSearch {
+  width: 100%; padding: 10px 14px; margin-bottom: 10px;
+  border: 2px solid #ddd; border-radius: 8px; font-size: 15px;
+  box-sizing: border-box; transition: border-color 0.2s;
+}
+#wordBankSearch:focus { outline: none; border-color: #1f4e79; }
+.wordbank-filters { display: flex; gap: 10px; flex-wrap: wrap; }
+.wordbank-filters select {
+  padding: 6px 10px; border: 1px solid #ccc; border-radius: 6px;
+  font-size: 14px; background: white; cursor: pointer;
+}
+.wordbank-count { font-size: 13px; color: #888; margin-bottom: 10px; }
+
+/* ===== Word Cards ===== */
+.word-card {
+  border: 1px solid #ddd; border-radius: 10px; padding: 15px;
+  margin-bottom: 12px; transition: box-shadow 0.2s;
+}
+.word-card:hover { box-shadow: 0 2px 12px rgba(0,0,0,0.1); }
+.pos-tag { font-size: 14px; color: #888; font-weight: normal; }
+.wrong-badge {
+  display: inline-block; padding: 2px 10px; font-size: 13px;
+  background: #e53935; color: white; border-radius: 4px; margin-left: 8px; font-weight: normal;
+}
+.correct-count-badge {
+  display: inline-block; padding: 2px 10px; font-size: 13px;
+  background: #4caf50; color: white; border-radius: 4px; margin-left: 4px; font-weight: normal;
+}
+.mastery-bar { height: 6px; background: #e0e0e0; border-radius: 3px; margin-top: 8px; overflow: hidden; }
+.mastery-fill { height: 100%; border-radius: 3px; transition: width 0.3s; }
+.mastery-fill.low { background: #e53935; }
+.mastery-fill.mid { background: #ff9800; }
+.mastery-fill.high { background: #4caf50; }
+.mastery-text { font-size: 12px; color: #888; margin-top: 2px; }
+
+/* ===== Stats Tabs ===== */
+.stats-tabs { display: flex; gap: 6px; margin-bottom: 16px; flex-wrap: wrap; }
+.stats-tab {
+  padding: 8px 14px; border: 2px solid #1f4e79; border-radius: 8px;
+  background: white; color: #1f4e79; font-weight: bold; font-size: 13px;
+  cursor: pointer; transition: background 0.2s;
+}
+.stats-tab:hover { background: #eef4ff; }
+.stats-tab.active { background: #1f4e79; color: white; }
+
+.empty-state { text-align: center; color: #888; padding: 40px 0; font-size: 16px; }
+
+/* ===== Session Complete ===== */
+.session-complete { text-align: center; padding: 30px; }
+.session-complete h3 { color: #1f4e79; }
+.session-score { font-size: 48px; font-weight: bold; color: #1f4e79; margin: 10px 0; }
+.session-detail { font-size: 15px; color: #666; margin: 4px 0; }
