@@ -357,35 +357,58 @@ function renderWordBank() {
     return;
   }
 
-  list.forEach(item => {
-    const card = document.createElement("div");
-    card.className = "word-card";
-    const wrong = wc[item.id] || 0;
-    const correct = cc[item.id] || 0;
-    const mastery = getMastery(item.id);
-    const level = mastery >= 80 ? "high" : mastery >= 40 ? "mid" : "low";
+  // Render in batches of 50 for performance
+  const BATCH = 50;
+  let shown = 0;
 
-    let html = "<h3>" + escapeHtml(item.word) + ' <span class="pos-tag">' + escapeHtml(item.pos) + "</span>";
-    if (wrong > 0) html += ' <span class="wrong-badge">' + wrong + " wrong</span>";
-    if (correct > 0) html += ' <span class="correct-count-badge">' + correct + " correct</span>";
-    html += "</h3>";
-    html += "<p><strong>English:</strong> " + escapeHtml(item.english) + "</p>";
-    html += "<p><strong>中文:</strong> " + escapeHtml(item.chinese) + "</p>";
-    if (item.example_en)
-      html += '<p class="example-sentence"><strong>Example:</strong> ' + escapeHtml(item.example_en) + "</p>";
-    if (item.example_zh)
-      html += '<p class="example-sentence-zh">' + escapeHtml(item.example_zh) + "</p>";
-    if (item.synonyms && item.synonyms.length)
-      html += "<p><strong>Synonyms:</strong> " + item.synonyms.map(escapeHtml).join(", ") + "</p>";
-    if (item.antonyms && item.antonyms.length)
-      html += "<p><strong>Antonyms:</strong> " + item.antonyms.map(escapeHtml).join(", ") + "</p>";
-    if (correct + wrong > 0) {
-      html += '<div class="mastery-bar"><div class="mastery-fill ' + level + '" style="width: ' + mastery + '%"></div></div>';
-      html += '<div class="mastery-text">Mastery: ' + mastery + "%</div>";
+  function renderBatch() {
+    const end = Math.min(shown + BATCH, list.length);
+    const frag = document.createDocumentFragment();
+    for (let idx = shown; idx < end; idx++) {
+      const item = list[idx];
+      const card = document.createElement("div");
+      card.className = "word-card";
+      const wrong = wc[item.id] || 0;
+      const correct = cc[item.id] || 0;
+      const mastery = getMastery(item.id);
+      const level = mastery >= 80 ? "high" : mastery >= 40 ? "mid" : "low";
+
+      let html = "<h3>" + escapeHtml(item.word) + ' <span class="pos-tag">' + escapeHtml(item.pos) + "</span>";
+      if (wrong > 0) html += ' <span class="wrong-badge">' + wrong + " wrong</span>";
+      if (correct > 0) html += ' <span class="correct-count-badge">' + correct + " correct</span>";
+      html += "</h3>";
+      html += "<p><strong>English:</strong> " + escapeHtml(item.english) + "</p>";
+      html += "<p><strong>中文:</strong> " + escapeHtml(item.chinese) + "</p>";
+      if (item.example_en)
+        html += '<p class="example-sentence"><strong>Example:</strong> ' + escapeHtml(item.example_en) + "</p>";
+      if (item.example_zh)
+        html += '<p class="example-sentence-zh">' + escapeHtml(item.example_zh) + "</p>";
+      if (item.synonyms && item.synonyms.length)
+        html += "<p><strong>Synonyms:</strong> " + item.synonyms.map(escapeHtml).join(", ") + "</p>";
+      if (item.antonyms && item.antonyms.length)
+        html += "<p><strong>Antonyms:</strong> " + item.antonyms.map(escapeHtml).join(", ") + "</p>";
+      if (correct + wrong > 0) {
+        html += '<div class="mastery-bar"><div class="mastery-fill ' + level + '" style="width: ' + mastery + '%"></div></div>';
+        html += '<div class="mastery-text">Mastery: ' + mastery + "%</div>";
+      }
+      card.innerHTML = html;
+      frag.appendChild(card);
     }
-    card.innerHTML = html;
-    wordBankContainer.appendChild(card);
-  });
+    // Remove old "Load More" button if present
+    const oldBtn = wordBankContainer.querySelector(".load-more-btn");
+    if (oldBtn) oldBtn.remove();
+    wordBankContainer.appendChild(frag);
+    shown = end;
+    if (shown < list.length) {
+      const moreBtn = document.createElement("button");
+      moreBtn.className = "load-more-btn";
+      moreBtn.textContent = "Load More (" + (list.length - shown) + " remaining)";
+      moreBtn.addEventListener("click", renderBatch);
+      wordBankContainer.appendChild(moreBtn);
+    }
+  }
+
+  renderBatch();
 }
 
 wordBankSearch.addEventListener("input", renderWordBank);

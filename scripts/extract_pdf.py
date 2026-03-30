@@ -16,6 +16,15 @@ import re
 import json
 from collections import Counter
 from pypdf import PdfReader
+import opencc
+
+# Simplified → Traditional Chinese converter
+_s2t = opencc.OpenCC('s2t')
+def to_tc(text):
+    """Convert Simplified Chinese text to Traditional Chinese."""
+    if not text:
+        return text
+    return _s2t.convert(text)
 
 # Regex to detect start of a new word entry: lowercase word followed by phonetic bracket
 WORD_START_RE = re.compile(r"^([a-z][a-zA-Z' -]*?)\s+[\[\(ˈˌ/]")
@@ -174,9 +183,9 @@ def extract_words(pdf_path, start_page=4, end_page=None):
             "word": word,
             "pos": pos.replace('..', '.') + ("." if not pos.endswith(".") else ""),
             "english": eng[:200],
-            "chinese": chi if chi else "",
+            "chinese": to_tc(chi) if chi else "",
             "example_en": example_en[:500],
-            "example_zh": example_zh[:500],
+            "example_zh": to_tc(example_zh[:500]),
             "equivalents": equivalents[:10],
             "page": page
         })

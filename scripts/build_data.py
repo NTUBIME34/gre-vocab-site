@@ -7,8 +7,8 @@ Generates two question types:
   - definition: choose the word that matches the English definition (fallback)
 
 Usage:
-  python build_data.py                                # default: 500 words
-  python build_data.py --limit all                    # all available words
+  python build_data.py                                # default: all words
+  python build_data.py --limit 500                    # limit to 500 words
   python build_data.py --limit 300 --pos adj.,v.      # only adj & verb
 """
 import argparse
@@ -17,6 +17,15 @@ import os
 import re
 import random
 from collections import Counter
+import opencc
+
+# Simplified → Traditional Chinese converter
+_s2t = opencc.OpenCC('s2t')
+def to_tc(text):
+    """Convert Simplified Chinese text to Traditional Chinese."""
+    if not text:
+        return text
+    return _s2t.convert(text)
 
 
 def make_cloze(word, example_en):
@@ -37,8 +46,8 @@ def main():
     parser = argparse.ArgumentParser(description="Build site data from raw words")
     parser.add_argument("--raw", default=None,
                         help="Path to raw_extracted_words.json")
-    parser.add_argument("--limit", default="500",
-                        help="Number of words to select, or 'all'")
+    parser.add_argument("--limit", default="all",
+                        help="Number of words to select, or 'all' (default: all)")
     parser.add_argument("--pos", default="",
                         help="Comma-separated POS to include. Empty = all")
     parser.add_argument("--min-eng", type=int, default=10,
@@ -115,12 +124,12 @@ def main():
             "word": w['word'],
             "pos": w['pos'],
             "english": w['english'],
-            "chinese": w.get('chinese', ''),
+            "chinese": to_tc(w.get('chinese', '')),
             "example_en": w.get('example_en', ''),
-            "example_zh": w.get('example_zh', ''),
+            "example_zh": to_tc(w.get('example_zh', '')),
             "synonyms": equivs[:5],
             "antonyms": [],
-            "source": "GRE 镇考3000词",
+            "source": "GRE 鎮考3000詞",
             "tags": [w['pos'].rstrip('.')]
         })
 
