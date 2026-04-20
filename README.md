@@ -5,10 +5,15 @@ A pure frontend GRE vocabulary review website built with HTML, CSS, and JavaScri
 ## Features
 
 - **Practice Mode** — Random GRE vocabulary questions with instant feedback
+- **Smart Review** — Prioritizes due words using mistakes, mastery, and last review time
 - **Practice Wrong Words Only** — Focus on words you've gotten wrong
+- **New Words Mode** — Practice words that have no local review history yet
 - **Word Bank** — Browse all words with search/filter (English, Chinese, POS)
-- **Wrong Count Statistics** — See your most-missed words, sorted by frequency
-- **Local Storage** — Wrong counts persist across browser sessions
+- **Statistics** — See most-missed words, mastery, and recent reviews
+- **Session Retry** — Retry the words missed in the current session
+- **Progress Backup** — Export, import, or reset local browser progress
+- **Keyboard Shortcuts** — Use 1-4 to answer, Enter for next, and H for hints
+- **Local Storage** — Practice progress persists across browser sessions
 - **Separated Data** — Vocab and questions stored in JSON for easy updates
 
 ## Project Structure
@@ -97,6 +102,21 @@ This is a static site. Deploy to any of:
 - **Cloudflare Pages** — connect Git or direct upload
 - **Vercel** — connect Git repo
 
-## localStorage Note
+## GitHub Pages Notes
 
-Wrong counts are stored in the browser's `localStorage` under key `wrongCounts`, keyed by word ID (e.g. `{"w001": 3, "w005": 1}`). Clearing browser data will reset counts.
+This project is intentionally static so it can run on GitHub Pages. That means:
+
+- No server-side code, database, scheduled jobs, or private environment variables.
+- All JSON data is public once deployed.
+- Practice progress is browser-local `localStorage`, not synced between devices.
+- Export/import progress is the backup path for moving progress between browsers.
+- Large data files are downloaded by the browser, so keep JSON reasonably sized.
+- GitHub Pages may take a short time to reflect new pushes after deployment.
+
+Practice progress is stored in the browser's `localStorage` under:
+
+- `wrongCounts`
+- `correctCounts`
+- `reviewTimes`
+
+Clearing browser data will reset progress unless you export it first.

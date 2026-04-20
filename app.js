@@ -10,6 +10,7 @@ let sessionQueue = [];
 let sessionIndex = 0;
 let sessionCorrect = 0;
 let sessionTotal = 0;
+let sessionMistakes = [];
 let currentQuestion = null;
 let answered = false;
 
@@ -25,6 +26,9 @@ const progressFill = $("progressFill"), questionCounter = $("questionCounter");
 const wordBankContainer = $("wordBankContainer"), wordBankSearch = $("wordBankSearch"),
       wordBankCount = $("wordBankCount");
 const statsContainer = $("statsContainer");
+const startSmartBtn = $("startSmartBtn"), startNewBtn = $("startNewBtn"), startWrongBtn = $("startWrongBtn");
+const exportProgressBtn = $("exportProgressBtn"), importProgressBtn = $("importProgressBtn"),
+      resetProgressBtn = $("resetProgressBtn"), importProgressInput = $("importProgressInput");
 
 // ===== Navigation =====
 function showSection(section, btn) {
@@ -34,13 +38,40 @@ function showSection(section, btn) {
   btn.classList.add("nav-active");
 }
 
+function setPracticeMode(mode) {
+  const modeBtn = document.querySelector('.practice-mode-toggle button[data-mode="' + mode + '"]');
+  if (!modeBtn) return;
+  document.querySelectorAll(".practice-mode-toggle button").forEach(b => b.classList.remove("practice-mode-active"));
+  modeBtn.classList.add("practice-mode-active");
+  practiceMode = mode;
+}
+
+function startFromHome(mode, count) {
+  showSection(practiceSection, practiceBtn);
+  setPracticeMode(mode);
+  $("questionCount").value = String(count);
+  $("questionSource").value = "mixed";
+  startSession();
+}
+
 homeBtn.addEventListener("click", () => { showSection(homeSection, homeBtn); updateHomeStats(); });
 practiceBtn.addEventListener("click", () => { showSection(practiceSection, practiceBtn); });
 wordBankBtn.addEventListener("click", () => { showSection(wordBankSection, wordBankBtn); renderWordBank(); });
 statsBtn.addEventListener("click", () => { showSection(statsSection, statsBtn); renderStats(); });
+startSmartBtn.addEventListener("click", () => startFromHome("smart", 20));
+startNewBtn.addEventListener("click", () => startFromHome("new", 20));
+startWrongBtn.addEventListener("click", () => startFromHome("wrong", 20));
 
 // ===== localStorage Helpers =====
-function getStore(key) { return JSON.parse(localStorage.getItem(key)) || {}; }
+const PROGRESS_KEYS = ["wrongCounts", "correctCounts", "reviewTimes"];
+
+function getStore(key) {
+  try {
+    return JSON.parse(localStorage.getItem(key)) || {};
+  } catch (err) {
+    return {};
+  }
+}
 function setStore(key, obj) { localStorage.setItem(key, JSON.stringify(obj)); }
 function getWrongCounts() { return getStore("wrongCounts"); }
 function getCorrectCounts() { return getStore("correctCounts"); }
@@ -68,6 +99,33 @@ function getMastery(wordId) {
 }
 
 function isMastered(wordId) { return getMastery(wordId) >= 80 && (getCorrectCounts()[wordId] || 0) >= 3; }
+
+function getReviewPriority(vocab) {
+  const wc = getWrongCounts(), cc = getCorrectCounts(), rt = getReviewTimes();
+  const wrong = wc[vocab.id] || 0;
+  const correct = cc[vocab.id] || 0;
+  const reviewed = rt[vocab.id] || 0;
+  const total = wrong + correct;
+  if (total === 0) return 8;
+
+  const daysSinceReview = reviewed ? (Date.now() - reviewed) / 86400000 : 14;
+  const mastery = getMastery(vocab.id);
+  let score = 0;
+  score += wrong * 3;
+  score += Math.min(daysSinceReview, 14) * 0.8;
+  score += Math.max(0, 80 - mastery) / 10;
+  if (wrong > 0 && daysSinceReview >= 1) score += 4;
+  if (isMastered(vocab.id) && daysSinceReview < 7) score -= 6;
+  return score;
+}
+
+function getSmartReviewList(list) {
+  return [...list]
+    .map(v => ({ vocab: v, score: getReviewPriority(v) }))
+    .filter(item => item.score >= 4)
+    .sort((a, b) => b.score - a.score || a.vocab.word.localeCompare(b.vocab.word))
+    .map(item => item.vocab);
+}
 
 // ===== Data Loading =====
 async function loadData() {
@@ -99,6 +157,7 @@ function updateHomeStats() {
   const totalW = Object.values(wc).reduce((s, n) => s + n, 0);
   const totalC = Object.values(cc).reduce((s, n) => s + n, 0);
   const mastered = vocabList.filter(v => isMastered(v.id)).length;
+  const due = getSmartReviewList(vocabList).length;
   $("totalWords").textContent = vocabList.length;
   $("totalQuestions").textContent = questionList.length;
   $("totalCorrect").textContent = totalC;
@@ -115,7 +174,8 @@ function updateHomeStats() {
   const defN = questionList.length - clozeN;
   if (ds) ds.innerHTML = "<strong>Source:</strong> " + escapeHtml(src) +
     " · <strong>" + vocabList.length + "</strong> words (" + posStr +
-    ") · <strong>" + clozeN + "</strong> cloze + <strong>" + defN + "</strong> definition questions";
+    ") · <strong>" + clozeN + "</strong> cloze + <strong>" + defN + "</strong> definition questions" +
+    " · <strong>" + due + "</strong> due for smart review";
 }
 
 // ===== Dynamic Question Generation =====
@@ -173,6 +233,8 @@ function startSession() {
     eligible = eligible.filter(v => (wc[v.id] || 0) > 0);
   } else if (practiceMode === "new") {
     eligible = eligible.filter(v => !((wc[v.id] || 0) > 0 || (cc[v.id] || 0) > 0));
+  } else if (practiceMode === "smart") {
+    eligible = getSmartReviewList(eligible);
   }
 
   if (eligible.length === 0) {
@@ -201,11 +263,12 @@ function startSession() {
     }
   });
 
-  sessionQueue = shuffle(pool);
+  sessionQueue = practiceMode === "smart" ? pool : shuffle(pool);
   if (countVal > 0) sessionQueue = sessionQueue.slice(0, countVal);
   sessionIndex = 0;
   sessionCorrect = 0;
   sessionTotal = sessionQueue.length;
+  sessionMistakes = [];
   answered = false;
   loadSessionQuestion();
 }
@@ -231,9 +294,11 @@ function loadSessionQuestion() {
     : '<span class="q-type-badge def-badge">Definition</span>';
   let qHtml = typeBadge + "<h3>" + escapeHtml(q.question) + "</h3>";
   if (q.hint && q.questionType === "cloze") {
-    qHtml += '<p class="cloze-hint"><button class="hint-toggle" onclick="this.nextElementSibling.style.display=this.nextElementSibling.style.display===\'none\'?\'inline\':\'none\';this.textContent=this.textContent===\'Show Hint\'?\'Hide Hint\':\'Show Hint\'">Show Hint</button><span style="display:none"> ' + escapeHtml(q.hint) + '</span></p>';
+    qHtml += '<p class="cloze-hint"><button class="hint-toggle" type="button">Show Hint</button><span class="hint-text" hidden> ' + escapeHtml(q.hint) + '</span></p>';
   }
   questionContainer.innerHTML = qHtml;
+  const hintBtn = questionContainer.querySelector(".hint-toggle");
+  if (hintBtn) hintBtn.addEventListener("click", toggleHint);
   optionsContainer.innerHTML = "";
   resultContainer.innerHTML = "";
   nextQuestionBtn.style.display = "none";
@@ -248,6 +313,14 @@ function loadSessionQuestion() {
   });
 }
 
+function toggleHint() {
+  const hintBtn = questionContainer.querySelector(".hint-toggle");
+  const hintText = questionContainer.querySelector(".hint-text");
+  if (!hintBtn || !hintText) return;
+  hintText.hidden = !hintText.hidden;
+  hintBtn.textContent = hintText.hidden ? "Show Hint" : "Hide Hint";
+}
+
 function checkAnswer(selectedWord, selectedId) {
   if (answered) return;
   answered = true;
@@ -256,9 +329,10 @@ function checkAnswer(selectedWord, selectedId) {
   const correctVocab = vocabMap[q.wordId];
   if (!correctVocab) return;
 
-  const isCorrect = selectedWord === q.answer;
+  const isCorrect = selectedId === q.wordId;
   recordAnswer(q.wordId, isCorrect);
   if (isCorrect) sessionCorrect++;
+  else if (!sessionMistakes.some(item => item.wordId === q.wordId)) sessionMistakes.push(q);
 
   optionsContainer.querySelectorAll("button").forEach(btn => {
     btn.disabled = true;
@@ -266,30 +340,44 @@ function checkAnswer(selectedWord, selectedId) {
     else if (btn.textContent === selectedWord && !isCorrect) btn.classList.add("option-wrong");
   });
 
-  if (isCorrect) {
-    resultContainer.innerHTML =
-      '<div class="result-box result-correct"><p class="correct">&#10003; Correct!</p></div>';
-    nextQuestionBtn.style.display = "inline-block";
-  } else {
-    const wc = getWrongCounts();
-    let html = '<div class="result-box result-wrong">';
-    html += '<p class="wrong">&#10007; Wrong!</p>';
-    html += "<p><strong>Correct Answer:</strong> " + escapeHtml(correctVocab.word) + "</p><hr>";
-    html += "<p><strong>Option Explanations:</strong></p>";
-    q.optionWordIds.forEach(wId => {
-      const v = vocabMap[wId];
-      if (!v) return;
-      const isCor = wId === q.wordId;
-      html += '<div class="explanation-item' + (isCor ? " explanation-correct" : "") + '">';
-      html += "<strong>" + escapeHtml(v.word) + "</strong>";
-      if (isCor) html += ' <span class="correct-badge">&#10003; Answer</span>';
-      html += "<br>English: " + escapeHtml(v.english);
-      html += "<br>中文: " + escapeHtml(v.chinese) + "</div>";
-    });
-    html += "<p class='wrong-count-note'>Wrong count for this word: <strong>" + (wc[q.wordId] || 0) + "</strong></p></div>";
-    resultContainer.innerHTML = html;
-    nextQuestionBtn.style.display = "inline-block";
-  }
+  resultContainer.innerHTML = buildAnswerFeedback(q, correctVocab, selectedWord, isCorrect);
+  nextQuestionBtn.style.display = "inline-block";
+}
+
+function buildAnswerFeedback(q, correctVocab, selectedWord, isCorrect) {
+  const wc = getWrongCounts();
+  let html = '<div class="result-box ' + (isCorrect ? "result-correct" : "result-wrong") + '">';
+  html += isCorrect
+    ? '<p class="correct">&#10003; Correct!</p>'
+    : '<p class="wrong">&#10007; Wrong!</p>';
+  if (!isCorrect) html += "<p><strong>Your Answer:</strong> " + escapeHtml(selectedWord) + "</p>";
+  html += "<p><strong>Correct Answer:</strong> " + escapeHtml(correctVocab.word) + "</p>";
+  html += buildWordDetail(correctVocab);
+  html += "<hr><p><strong>Option Explanations:</strong></p>";
+  q.optionWordIds.forEach(wId => {
+    const v = vocabMap[wId];
+    if (!v) return;
+    const isCor = wId === q.wordId;
+    html += '<div class="explanation-item' + (isCor ? " explanation-correct" : "") + '">';
+    html += "<strong>" + escapeHtml(v.word) + "</strong>";
+    if (isCor) html += ' <span class="correct-badge">&#10003; Answer</span>';
+    html += "<br>English: " + escapeHtml(v.english);
+    html += "<br>中文: " + escapeHtml(v.chinese) + "</div>";
+  });
+  html += "<p class='wrong-count-note'>Wrong count for this word: <strong>" + (wc[q.wordId] || 0) + "</strong></p></div>";
+  return html;
+}
+
+function buildWordDetail(vocab) {
+  let html = '<div class="answer-detail">';
+  html += "<p><strong>English:</strong> " + escapeHtml(vocab.english) + "</p>";
+  html += "<p><strong>中文:</strong> " + escapeHtml(vocab.chinese) + "</p>";
+  if (vocab.example_en) html += '<p class="example-sentence"><strong>Example:</strong> ' + escapeHtml(vocab.example_en) + "</p>";
+  if (vocab.example_zh) html += '<p class="example-sentence-zh">' + escapeHtml(vocab.example_zh) + "</p>";
+  if (vocab.synonyms && vocab.synonyms.length) html += "<p><strong>Synonyms:</strong> " + vocab.synonyms.map(escapeHtml).join(", ") + "</p>";
+  if (vocab.antonyms && vocab.antonyms.length) html += "<p><strong>Antonyms:</strong> " + vocab.antonyms.map(escapeHtml).join(", ") + "</p>";
+  html += "</div>";
+  return html;
 }
 
 function showSessionComplete() {
@@ -298,14 +386,50 @@ function showSessionComplete() {
   optionsContainer.innerHTML = "";
   nextQuestionBtn.style.display = "none";
   const pct = sessionTotal > 0 ? Math.round((sessionCorrect / sessionTotal) * 100) : 0;
+  const missed = sessionMistakes.length;
   questionContainer.innerHTML = "";
   resultContainer.innerHTML =
     '<div class="session-complete">' +
     "<h3>Session Complete!</h3>" +
     '<div class="session-score">' + pct + "%</div>" +
     '<p class="session-detail">Correct: ' + sessionCorrect + " / " + sessionTotal + "</p>" +
-    '<p class="session-detail">Click a mode button above to start a new session.</p></div>';
+    '<p class="session-detail">Missed words: ' + missed + "</p>" +
+    buildSessionMistakeList() +
+    '<div class="session-actions">' +
+    (missed > 0 ? '<button id="retryMistakesBtn">Retry Mistakes</button>' : "") +
+    '<button id="smartAgainBtn">Smart Review Again</button>' +
+    "</div></div>";
+  const retryBtn = $("retryMistakesBtn");
+  const smartAgainBtn = $("smartAgainBtn");
+  if (retryBtn) retryBtn.addEventListener("click", retrySessionMistakes);
+  if (smartAgainBtn) smartAgainBtn.addEventListener("click", () => {
+    setPracticeMode("smart");
+    startSession();
+  });
   updateHomeStats();
+}
+
+function buildSessionMistakeList() {
+  if (sessionMistakes.length === 0) return "";
+  let html = '<div class="session-mistakes"><h4>Review These</h4>';
+  sessionMistakes.forEach(q => {
+    const v = vocabMap[q.wordId];
+    if (!v) return;
+    html += '<div class="session-mistake-item"><strong>' + escapeHtml(v.word) + "</strong> - " +
+      escapeHtml(v.english) + " / " + escapeHtml(v.chinese) + "</div>";
+  });
+  html += "</div>";
+  return html;
+}
+
+function retrySessionMistakes() {
+  sessionQueue = shuffle([...sessionMistakes]);
+  sessionIndex = 0;
+  sessionCorrect = 0;
+  sessionTotal = sessionQueue.length;
+  sessionMistakes = [];
+  answered = false;
+  loadSessionQuestion();
 }
 
 nextQuestionBtn.addEventListener("click", () => { sessionIndex++; loadSessionQuestion(); });
@@ -313,9 +437,7 @@ nextQuestionBtn.addEventListener("click", () => { sessionIndex++; loadSessionQue
 // Practice mode toggle
 document.querySelectorAll(".practice-mode-toggle button").forEach(btn => {
   btn.addEventListener("click", () => {
-    document.querySelectorAll(".practice-mode-toggle button").forEach(b => b.classList.remove("practice-mode-active"));
-    btn.classList.add("practice-mode-active");
-    practiceMode = btn.dataset.mode;
+    setPracticeMode(btn.dataset.mode);
     startSession();
   });
 });
@@ -466,6 +588,76 @@ function renderStatCard(item, wc, cc, rt) {
   div.innerHTML = html;
   statsContainer.appendChild(div);
 }
+
+// ===== Progress Tools =====
+function refreshVisibleViews() {
+  updateHomeStats();
+  if (wordBankSection.classList.contains("active")) renderWordBank();
+  if (statsSection.classList.contains("active")) renderStats();
+}
+
+function exportProgress() {
+  const payload = {
+    exportedAt: new Date().toISOString(),
+    app: "gre-vocab-site",
+    progress: {}
+  };
+  PROGRESS_KEYS.forEach(key => { payload.progress[key] = getStore(key); });
+  const blob = new Blob([JSON.stringify(payload, null, 2)], { type: "application/json" });
+  const url = URL.createObjectURL(blob);
+  const link = document.createElement("a");
+  link.href = url;
+  link.download = "gre-vocab-progress.json";
+  document.body.appendChild(link);
+  link.click();
+  link.remove();
+  URL.revokeObjectURL(url);
+}
+
+function importProgress(file) {
+  if (!file) return;
+  const reader = new FileReader();
+  reader.onload = () => {
+    try {
+      const parsed = JSON.parse(reader.result);
+      const progress = parsed.progress || parsed;
+      PROGRESS_KEYS.forEach(key => setStore(key, progress[key] || {}));
+      refreshVisibleViews();
+      alert("Progress imported.");
+    } catch (err) {
+      alert("Could not import this progress file.");
+    } finally {
+      importProgressInput.value = "";
+    }
+  };
+  reader.readAsText(file);
+}
+
+function resetProgress() {
+  if (!confirm("Reset all local practice progress on this browser?")) return;
+  PROGRESS_KEYS.forEach(key => localStorage.removeItem(key));
+  refreshVisibleViews();
+}
+
+exportProgressBtn.addEventListener("click", exportProgress);
+importProgressBtn.addEventListener("click", () => importProgressInput.click());
+importProgressInput.addEventListener("change", () => importProgress(importProgressInput.files[0]));
+resetProgressBtn.addEventListener("click", resetProgress);
+
+// ===== Keyboard Shortcuts =====
+document.addEventListener("keydown", event => {
+  if (!practiceSection.classList.contains("active")) return;
+  if (event.target.matches("input, select, textarea")) return;
+
+  if (!answered && /^[1-4]$/.test(event.key)) {
+    const option = optionsContainer.querySelectorAll("button")[Number(event.key) - 1];
+    if (option) option.click();
+  } else if (answered && event.key === "Enter" && nextQuestionBtn.style.display !== "none") {
+    nextQuestionBtn.click();
+  } else if (event.key.toLowerCase() === "h") {
+    toggleHint();
+  }
+});
 
 // ===== Utility =====
 function escapeHtml(str) {
